@@ -10,7 +10,7 @@ last processed_2013 08 04
 ~ Y Citizen Kane_ Orson Welles
 ~ Y Do The Right Thing_
 ~ Y I Vitelloni_
-~ Y L’Avventura_ Michelangelo Antoniani
+~ Y L'Avventura_ Michelangelo Antoniani
 ~ Y The Last Picture Show_
 ~ Y Mean Streets_
 ~ Y Persona_

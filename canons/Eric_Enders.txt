@@ -5,9 +5,9 @@ last processed_2013 08 04
 1 Y Citizen Kane       
 2 Y Vertigo       
 3 Y Casablanca       
-4 Y Schindler’s List     
+4 Y Schindler's List     
 5 Y The Godfather       
-6 Y It’s a Wonderful Life       
+6 Y It's a Wonderful Life       
 7 Y The Treasure of the Sierra Madre    
 8 Y Sherlock, Jr.        
 9 Y Sunset Blvd.        
@@ -41,7 +41,7 @@ last processed_2013 08 04
 37 Y North By Northwest
 38 Y His Girl Friday
 39 Y The General
-40 Y Singin’ in the Rain 
+40 Y Singin' in the Rain 
 41 Y Double Indemnity
 42 Y Shakespeare In Love
 43 Y Annie Hall
@@ -60,13 +60,13 @@ last processed_2013 08 04
 56 Y It Happened One Night
 57 Y Shadow of a Doubt
 58 Y Duck Soup
-59 Y One Flew Over the Cuckoo’s Nest
+59 Y One Flew Over the Cuckoo's Nest
 60 Y Lone Star
 61 Y Paths of Glory
 62 Y Midnight Cowboy
 63 Y Anatomy of a Murder
 64 Y Jaws
-65 Y All the President’s Men
+65 Y All the President's Men
 66 Y Butch Cassidy and the Sundance Kid
 67 Y Out of the Past
 68 Y Saving Private Ryan

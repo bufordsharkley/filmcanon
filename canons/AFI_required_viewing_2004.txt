@@ -6,7 +6,7 @@ last processed_2013 08 04
 ~ Y An American in Paris_ Vincente Minnelli
 ~ Y Andrei Rublev_ Andrei Trakovsky
 ~ Y Ashes and Diamonds_ Andrezej Wajda
-~ Y L’Avventura_ Michelangelo Antoniani
+~ Y L'Avventura_ Michelangelo Antoniani
 ~ Y Badlands_ Terrence Malick
 ~ Y Battle of Algiers_ Gillo Pontecorvo
 ~ Y Bicycle Thieves_ Vittorio de Sica
@@ -36,9 +36,9 @@ last processed_2013 08 04
 ~ Y Rules of the Game_ Jean Renoir
 ~ Y The Searchers_ John Ford
 ~ Y Seven Samurai_ Akira Kurosawa
-~ Y Singin’ in the Rain_ Stanley Donen
+~ Y Singin' in the Rain_ Stanley Donen
 ~ Y Stairway to Heaven_ Michael Powell
-~ Y Sullivan’s Travels_ Preston Sturges
+~ Y Sullivan's Travels_ Preston Sturges
 ~ Y The Third Man_ Carol Reed
 ~ Y Tokyo Story_ Yasukiro Ozu
 ~ Y Touch of Evil_ Orson Welles

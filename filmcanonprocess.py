@@ -311,7 +311,7 @@ def FillListBox(filematrix,menutofill):
 
 if __name__ == '__main__':
     maintk = Tk()
-    folder = 'C:/pythontest/film/canons'
+    folder = './canons'
     listofcanons = []
     for f in os.listdir(folder):
         print f
@@ -321,63 +321,12 @@ if __name__ == '__main__':
     listboxofcanons.pack(expand='Yes',fill='both')
 	
     maintk.mainloop()
-'''	# global file -- the "clipboard" value of the filename that is waiting to be loaded.
-	filenametoload = ''
-	# Global variable: menumode = PSA=1/LID=2/etc. Defaults to PSA.
-	menumode = IntVar()
-	menumode.set(1)
-
-    	psamenu = MultiListbox(tk, (('Subject ', 40), ('Time', 10), ('Soundbed', 20), ('Voice/Author', 20)))
-	psaindices = [3,2,4,5]
-	lidmenu = MultiListbox(tk, (('Speaker/Subject', 60), ('Time', 10), ('LID Type', 20)))
-	lidindices = [3,2,4]
-	promomenu = MultiListbox(tk, (('Show', 40), ('Time', 10), ('Day/Time', 20), ('Voice/Author', 20)))
-	promoindices = []
-	sfxmenu = MultiListbox(tk, (('Sound Effect', 60), ('Time', 10), ('Type', 20)))
-	sfxindices = []
-	thememenu = MultiListbox(tk, (('Song', 30), ('Time', 10),('Artist', 20),('KZSU DJ/show', 30)))
-	themeindices = []
-	
-	menulist = []
-	indiceslist = []
-
-	menulist.append(psamenu)	
-	menulist.append(lidmenu)
-	menulist.append(promomenu)
-	menulist.append(sfxmenu)
-	menulist.append(thememenu)
-	indiceslist.append(psaindices)
-	indiceslist.append(lidindices)
-	indiceslist.append(promoindices)
-	indiceslist.append(sfxindices)
-	indiceslist.append(themeindices)
-	
-	buttonarray = ButtonArray(tk)
-	radiocat = RadioCategory(tk)
-	searchbox = SearchBox(tk)
-	
-	parentdirectory = '/Users/automation/Desktop/SPOTBOX_test/'
-	directorylist = [parentdirectory + 'PSA/',parentdirectory + 'LID/',parentdirectory + 'PROMO/',parentdirectory + 'SFX/',parentdirectory + 'THEME/']
-
-	matrixlist = []
-	for ii in range(len(menulist)):
-		matrixlist.append(ExtractListFromDir(directorylist[ii]))
-
-	currentmatrix = []
-	currentmatrix = matrixlist[menumode.get()-1]
 
 
-	for ii in range(len(menulist)):
-		FillListBox(matrixlist[ii],menulist[ii])
 
-	#graphicfile = '/Users/automation/Desktop/SPOTBOX_test/spotboxgraphic1.gif'
-	#graphic = PhotoImage(file = graphicfile)
-	#graphicw = Label(tk, image=graphicfile)
-	#graphicw.image = graphicfile
-	#graphicw.grid(row=0,column=0)
-	
-	buttonarray.grid(row=0,column=1)
-	psamenu.grid(row=1,columnspan=2)
-	searchbox.grid(row=2,column=0)	
-	radiocat.grid(row=2,column=1)	
-    	'''
+	# ultimate process:
+	# read in all files in folder
+	# parse for headers, contents (correct for trailing "the"... or make separate file that does that)
+	# fill "files" box with .txt-less filenames. When selected, update label with short header info.
+	# 1) Select file. Shows Y on left, N on right
+	# 2) Merge files - just merge all files in multiple, show in alphabetical order, descending by "most hit" at top.
