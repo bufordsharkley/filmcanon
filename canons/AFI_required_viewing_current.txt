@@ -2,28 +2,28 @@ AFI Required Viewing (Current)
 last updated from source_2013 08 04
 last processed_2013 08 04
 
-~ Y 8 1/2_ Fellini
+~ Y 8 1/2_ 
 ~ Y Annie Hall_
 ~ Y The Apartment_
 ~ Y Bicycle Thieves_
-~ Y Breathless_ Jean-Luc Goddard
-~ Y Citizen Kane_ Orson Welles
+~ Y Breathless_ 
+~ Y Citizen Kane_ 
 ~ Y Do The Right Thing_
 ~ Y I Vitelloni_
-~ Y L'Avventura_ Michelangelo Antoniani
+~ Y L'Avventura_ 
 ~ Y The Last Picture Show_
 ~ Y Mean Streets_
 ~ Y Persona_
 ~ Y Psycho_
-~ Y Raging Bull_ Martin Scorsese
+~ Y Raging Bull_ 
 ~ Y Rashomon_
 ~ Y Rosemary's Baby_
-~ Y Rules of the Game_ Jean Renoir
-~ Y The Searchers_ John Ford
-~ Y Seven Samurai_ Akira Kurosawa
+~ Y Rules of the Game_ 
+~ Y The Searchers_ 
+~ Y Seven Samurai_ 
 ~ Y Some Like It Hot_
 ~ Y Sunrise: A Song of Two Humans_
 ~ Y Taxi Driver_
 ~ Y Three Days of the Condor_
-~ Y Tokyo Story_ Yasukiro Ozu
+~ Y Tokyo Story_
 ~ Y Vertigo_

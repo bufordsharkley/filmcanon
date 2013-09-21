@@ -145,49 +145,49 @@
 ~  Husbands John Cassavetes 1970
 ~  The Hustler Robert Rossen 1961
 ~  The Ice Storm Ang Lee 1997
-~  Ikiru Akira Kurosawa 1952
-~  In Cold Blood Richard Brooks 1967
-~  The Innocents Jack Clayton 1961
-~  The Insider Michael Mann 1999
-~  I Walk Alone Byron Haskin 1947
-~  In the Mood for Love Wong Kar-Wai 2000
-~  Intolerance D.W. Griffith 1916
-~  Intruder in the Dust Clarence Brown 1949
-~  Jackie Brown Quentin Tarantino 1997
-~  Jean de Florette Claude Berri 1986
-~  Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles Chantal Akerman 1975
-~  Judex Georges Franju 1963
-~  Ju Dou Zhang Yimou 1990
-~  Jules et Jim François Truffaut 1961
-~  Kansas City Confidential Phil Karlson 1952
-~  The Kid Charles Chaplin 1921
-~  The King of Comedy Martin Scorsese 1983
-~  The King of Marvin Gardens Rafelson, Bob 1972
-~  Kings of the Road Wim Wenders 1987
-~  Kiss of Death Henry Hathaway 1947
-~  Kramer vs. Kramer Robert Benton 1979
-~  Kundun Martin Scorsese 1997
-~  La Chienne Jean Renoir 1931
-~  L.A. Confidential Curtis Hanson 1997
-~  La Dolce Vita Federico Fellini 1960
-~  The Lady Eve Preston Sturges 1941
-~  The Lady from Shanghai Orson Welles 1948
-~  The Ladykillers Alexander Mackendrick 1955
-~  La Femme Infidele Claude Chabrol 1969
-~  La Glace a trois faces Jean Epstein 1927
-~  La Jetee Chris Marker 1962
-~  La Notte Michelangelo Antonioni 1961
-~  La Signora di Tutti Ophuls, Max 1934
-~  The Last Laugh F.W. Murnau 1924
-~  La Strada Federico Fellini 1954
-~  The Last Temptation of Christ Martin Scorsese 1988
-~  La Terra Trema Luchino Visconti 1947
-~  Late Spring Yasujiro Ozu 1949
-~  The Lawless Joseph Losey 1949
-~  Le Boucher Claude Chabrol 1970
-~  Le Jour se leve Marcel Carné 1939
-~  Le Million René Clair 1931
-~  L'Enfer Claude Chabrol 1993
+~  Ikiru_ Akira Kurosawa 1952
+~  In Cold Blood_ Richard Brooks 1967
+~  The Innocents_ Jack Clayton 1961
+~  The Insider_ Michael Mann 1999
+~  I Walk Alone_ Byron Haskin 1947
+~  In the Mood for Love_ Wong Kar-Wai 2000
+~  Intolerance_ D.W. Griffith 1916
+~  Intruder in the Dust_ Clarence Brown 1949
+~  Jackie Brown_ Quentin Tarantino 1997
+~  Jean de Florette_ Claude Berri 1986
+~  Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles_ Chantal Akerman 1975
+~  Judex_ Georges Franju 1963
+~  Ju Dou_ Zhang Yimou 1990
+~ Y Jules et Jim_ François Truffaut 1961
+~ Y Kansas City Confidential_ Phil Karlson 1952
+~ Y The Kid_ Charles Chaplin 1921
+~ Y The King of Comedy_ Martin Scorsese 1983
+~ Y The King of Marvin Gardens_ Rafelson, Bob 1972
+~ N Kings of the Road_ Wim Wenders 1987
+~ Y Kiss of Death_ Henry Hathaway 1947
+~ Y Kramer vs. Kramer_ Robert Benton 1979
+~ Y Kundun_ Martin Scorsese 1997
+~ Y La Chienne_ Jean Renoir 1931
+~ Y L.A. Confidential_ Curtis Hanson 1997
+~ Y La Dolce Vita_ Federico Fellini 1960
+~ Y The Lady Eve_ Preston Sturges 1941
+~ Y The Lady from Shanghai_ Orson Welles 1948
+~ Y The Ladykillers_ Alexander Mackendrick 1955
+~ N La Femme Infidele_ Claude Chabrol 1969
+~ N La Glace a trois faces_ Jean Epstein 1927
+~ Y La Jetee_ Chris Marker 1962
+~ Y La Notte_ Michelangelo Antonioni 1961
+~ N La Signora di Tutti_ Ophuls, Max 1934
+~ Y The Last Laugh_ F.W. Murnau 1924
+~ Y La Strada_ Federico Fellini 1954
+~ Y The Last Temptation of Christ_ Martin Scorsese 1988
+~ N La Terra Trema_ Luchino Visconti 1947
+~ Y Late Spring_ Yasujiro Ozu 1949
+~ N The Lawless_ Joseph Losey 1949
+~ Y Le Boucher_ Claude Chabrol 1970
+~ Y Le Jour se leve_ Marcel Carné 1939
+~ Y Le Million_ René Clair 1931
+~ N L'Enfer Claude Chabrol 1993
 ~  Le Samourai Jean-Pierre Melville 1967
 ~  Les Diaboliques Henri-Georges Clouzot 1955
 ~  Les Enfants du Paradis Marcel Carné 1945
@@ -223,20 +223,20 @@
 ~  Monsieur Hire Patrice Leconte 1989
 ~  Monsieur Verdoux Charles Chaplin 1947
 ~  Moolaade Ousmane Sembene 2004
-~  Moonrise Frank Borzage 1948
-~  Morocco Josef von Sternberg 1930
-~  Mouchette Robert Bresson 1966
-~  Mr. Deeds Goes to Town Frank Capra 1936
-~  Mr. Hulot's Holiday Jacques Tati 1953
-~  Mulholland Dr. David Lynch 2001
-~  Murder, My Sweet Edward Dmytryk 1944
-~  Muriel Alain Resnais 1963
-~  The Music Room Satyajit Ray 1958
-~  My Fair Lady George Cukor 1964
-~  My Man Godfrey Gregory La Cava 1936
-~  My Name is Julia Ross Joseph H. Lewis 1945
-~  Naked Mike Leigh 1993
-~  The Naked Jungle Byron Haskin 1954
+~ Y Moonrise_ Frank Borzage 1948
+~ Y Morocco_ Josef von Sternberg 1930
+~ Y Mouchette_ Robert Bresson 1966
+~ Y Mr. Deeds Goes to Town_ Frank Capra 1936
+~ Y Mr. Hulot's Holiday_ Jacques Tati 1953
+~ Y Mulholland Dr._ David Lynch 2001
+~ Y Murder, My Sweet_ Edward Dmytryk 1944
+~ N Muriel_ Alain Resnais 1963
+~ Y The Music Room_ Satyajit Ray 1958
+~ Y My Fair Lady_ George Cukor 1964
+~ Y My Man Godfrey_ Gregory La Cava 1936
+~ Y My Name is Julia Ross_ Joseph H. Lewis 1945
+~ Y Naked_ Mike Leigh 1993
+~ N The Naked Jungle_ Byron Haskin 1954
 ~  Nanook of the North Robert Flaherty 1922
 ~  Napoleon Abel Gance 1927
 ~  The Navigator Buster Keaton & Donald Crisp 1924
@@ -355,40 +355,40 @@
 ~  Tokyo Drifter Seijun Suzuki 1966
 ~  The Tomb of Ligeia Roger Corman 1965
 ~  The Treasure of the Sierra Madre John Huston 1948
-~  Tristana Luis Buñuel 1970
-~  Trouble in Mind Alan Rudolph 1985
-~  Trust Hal Hartley 1990
-~  Try and Get Me! Cy Endfield 1951
-~  Two Weeks in Another Town Vincente Minnelli 1962
-~  Ugetsu Monogatari Kenji Mizoguchi 1953
-~  Umberto D. Vittorio De Sica 1952
-~  The Umbrellas of Cherbourg Jacques Demy 1964
-~  The Underneath Steven Soderbergh 1995
-~  Under the Roofs of Paris René Clair 1930
-~  Underworld, U.S.A. Sam Fuller 1961
-~  Une Partie Campagne Jean Renoir 1936
-~  Unforgiven Clint Eastwood 1992
-~  The Unknown Tod Browning 1927
-~  The Untouchables Brian De Palma 1987
-~  The Verdict Sidney Lumet 1982
-~  Viridiana Luis Buñuel 1961
-~  The Wages of Fear Henri-Georges Clouzot 1952
-~  Warlock Edward Dmytryk 1959
-~  Where the Sidewalk Ends Otto Preminger 1950
-~  While the City Sleeps Fritz Lang 1956
-~  Whirlpool Otto Preminger 1949
-~  White Dog Sam Fuller 1982
-~  White Heat Raoul Walsh 1949
-~  Wild River Elia Kazan 1960
-~  The Wind Victor Sjöström 1928
-~  The Wind Will Carry Us Abbas Kiarostami 1999
-~  Wings of Desire Wim Wenders 1987
-~  The Wizard of Oz Victor Fleming 1939
-~  A Woman Under the Influence John Cassavetes 1974
-~  The Women George Cukor 1939
-~  Wonderland Michael Winterbottom 1999
-~  The World of Apu Satyajit Ray 1959
-~  The Year My Voice Broke John Duigan 1987
-~  Young at Heart Gordon Douglas 1954
-~  Young Man with a Horn Michael Curtiz 1950
-~  Z Constantin Costa-Gavras 1969
+~  Tristana_ Luis Buñuel 1970
+~  Trouble in Mind_ Alan Rudolph 1985
+~  Trust_ Hal Hartley 1990
+~  Try and Get Me!_ Cy Endfield 1951
+~  Two Weeks in Another Town_ Vincente Minnelli 1962
+~  Ugetsu Monogatari_ Kenji Mizoguchi 1953
+~  Umberto D._ Vittorio De Sica 1952
+~  The Umbrellas of Cherbourg_ Jacques Demy 1964
+~  The Underneath_ Steven Soderbergh 1995
+~  Under the Roofs of Paris_ René Clair 1930
+~  Underworld, U.S.A._ Sam Fuller 1961
+~  Une Partie Campagne_ Jean Renoir 1936
+~  Unforgiven_ Clint Eastwood 1992
+~  The Unknown_ Tod Browning 1927
+~  The Untouchables_ Brian De Palma 1987
+~  The Verdict_ Sidney Lumet 1982
+~  Viridiana_ Luis Buñuel 1961
+~  The Wages of Fear_ Henri-Georges Clouzot 1952
+~  Warlock_ Edward Dmytryk 1959
+~  Where the Sidewalk Ends_ Otto Preminger 1950
+~  While the City Sleeps_ Fritz Lang 1956
+~  Whirlpool_ Otto Preminger 1949
+~  White Dog_ Sam Fuller 1982
+~  White Heat_ Raoul Walsh 1949
+~  Wild River_ Elia Kazan 1960
+~  The Wind_ Victor Sjöström 1928
+~  The Wind Will Carry Us_ Abbas Kiarostami 1999
+~  Wings of Desire_ Wim Wenders 1987
+~  The Wizard of Oz_ Victor Fleming 1939
+~  A Woman Under the Influence_ John Cassavetes 1974
+~  The Women_ George Cukor 1939
+~  Wonderland_ Michael Winterbottom 1999
+~  The World of Apu_ Satyajit Ray 1959
+~  The Year My Voice Broke_ John Duigan 1987
+~  Young at Heart_ Gordon Douglas 1954
+~  Young Man with a Horn_ Michael Curtiz 1950
+~  Z_ Constantin Costa-Gavras 1969

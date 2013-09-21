@@ -3,7 +3,7 @@ last updated from source_2013 08 04
 last processed_2013 08 04
 
 ~ Y Ace in the Hole_Big Carnival Billy Wilder 1951 
-~ Y L'Age D'Or_ Luis Buñuel 1930 
+~ Y L'Age D'Or_ Luis Bunuel 1930 
 ~ Y Ali: Fear Eats the Soul_ Rainer Werner Fassbinder 1974
 ~ Y All About Eve_ Joseph L. Mankiewicz 1950 
 ~ Y All Quiet on the Western Front_ Lewis Milestone 1930 
@@ -38,7 +38,7 @@ last processed_2013 08 04
 ~ Y The Crime of Monsieur Lange_ Jean Renoir 1936 
 ~ Y Criss Cross_ Robert Siodmak 1949 
 ~ Y The Crowd_ King Vidor 1928
-~ Y Day for Night_ François Truffaut 1973 
+~ Y Day for Night_ Francois Truffaut 1973 
 ~ Y Days of Heaven_ Terrence Malick 1978 
 ~ Y Dekalog_ Krzysztof Kieslowski 1987 
 ~ Y Detour_ Edgar G. Ulmer 1945 
@@ -53,7 +53,7 @@ last processed_2013 08 04
 ~ N Edvard Munch_ Peter Watkins 1974
 ~ Y El_ Luis Bunuel 1952
 ~ N Europa '51_ Roberto Rossellini 1952
-~ Y The Exterminating Angel_ Luis Buñuel 1962 
+~ Y The Exterminating Angel_ Luis Bunuel 1962 
 ~ Y Eyes Without a Face_ Georges Franju 1959 
 ~ Y Fallen Angel_ Otto Preminger 1945 
 ~ Y Far from Heaven_ Todd Haynes 2002 
@@ -61,7 +61,7 @@ last processed_2013 08 04
 ~ Y Fargo_ Joel Coen 1995 
 ~ Y Une Femme est Une Femme_ Jean-Luc Godard 1960 
 ~ Y Forty Guns_ Sam Fuller 1957 
-~ Y The 400 Blows_ François Truffaut 1959 
+~ Y The 400 Blows_ Francois Truffaut 1959 
 ~ Y Funny Face_ Stanley Donen 1957 
 ~ Y GoodFellas_ Martin Scorsese 1990 
 ~ Y The Grapes of Wrath_ John Ford 1940 
@@ -112,7 +112,7 @@ last processed_2013 08 04
 ~ Y The Naked Spur_ Anthony Mann 1953 
 ~ Y The Night of the Hunter_ Charles Laughton 1955 
 ~ Y North by Northwest_ Alfred Hitchcock 1959 
-~ Y Los Olvidados_ Luis Buñuel 1950 
+~ Y Los Olvidados_ Luis Bunuel 1950 
 ~ Y Once Upon a Time in America_ Sergio Leone 1984 
 ~ Y Once Upon a Time in the West_ Sergio Leone 1968 
 ~ Y Out of the Past_ Jacques Tourneur 1947 

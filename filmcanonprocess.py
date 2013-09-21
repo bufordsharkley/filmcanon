@@ -2,328 +2,272 @@
 
 from Tkinter import *
 import os
+import itertools
+import operator
 
 class CanonListbox(Frame):
-    def __init__(self, master,canonlist):
+	def __init__(self, master, canonlist, filmlabels):
  		Frame.__init__(self, master)
 		frame = Frame(self)
 		frame.pack()
-		lb = Listbox(frame,borderwidth=0, selectborderwidth=0,relief=FLAT, exportselection=FALSE)
-		lb.pack(expand=YES, fill=BOTH)
-		FillListBox(listofcanons,lb)
-
-'''class Countdown(Frame):
-    def __init__(self, master):
-        Frame.__init__(self, master)
-	frame = Frame(self)
-	frame.pack()
-        self.label = Label(self, text='', width=10)
-        self.label.pack()
-        self.remaining = 0
-	self.remainingfull = 0
-	self._job = None
-
-    def countdown(self, firsttrigger=0):
-
-    	if self.remaining <= 0:
-#            self.label.configure(text='')
-            self.label.configure(text="%d" % self.remainingfull)
-	    self.remaining = self.remainingfull
-        else:
-	    if firsttrigger == 1:
-		self.remaining = self.remainingfull
-                self.label.configure(text="%d" % self.remaining)
-                if self._job is not None:
-		    self.after_cancel(self._job)
-		    self._job = None
-                self.remaining = self.remaining - 1
-                self.after(1000, self.countdown)
-	    else:
-		self.label.configure(text="%d" % self.remaining)
-                self.remaining = self.remaining - 1
-                self._job = self.after(1000, self.countdown)
-
-
-    def loadcountdown(self, remaining = None):
-        if remaining is not None:
-            self.remainingfull = remaining
-            self.remaining = remaining
-            self.label.configure(text="%d" % self.remaining)
-
-class ButtonArray(Frame):
-
-	def __init__(self, master):
-		Frame.__init__(self, master)
-		frame = Frame(self)
-		frame.pack()
-		itunes = app('iTunes')
+		self.lb = Listbox(frame,borderwidth=0, selectborderwidth=0,relief=FLAT, 
+				  selectmode=SINGLE, exportselection=FALSE)
+		self.lb.bind('<B1-Motion>', lambda e, s=self: s._select(e.y))
+		self.lb.bind('<Button-1>', lambda e, s=self: s._select(e.y))
+		self.lb.pack(side=LEFT, fill=BOTH, expand=YES)
+		s = Scrollbar(frame, orient=VERTICAL, command=self.lb.yview)
+		s.pack(side=RIGHT, fill=Y)
+		self.lb['yscrollcommand'] = s.set
+		fill_list_box(listofcanons,self.lb)
+		self.labels = filmlabels
 	
-		self.quitbutton = Button(frame, text="QUIT", fg="red", command=frame.quit)
-		self.quitbutton.grid(row=0,column=0)
-		self.stopbutton = Button(frame,text="STOP", command=lambda: self._stop(itunes))
-		self.stopbutton.grid(row=0,column=1)
-		playlisttextlist = [StringVar() for i in range(NUMBEROFPLAYLISTS)]
-		for text in playlisttextlist:
-			text.set("no file loaded")
-		self.countdownarray = []
-		for ii in range(NUMBEROFPLAYLISTS):
-			self.loadbutton= Button(frame,text='LOAD'+str(ii+1), command=lambda ii=ii: self._loadplaylist(itunes,playlisttextlist,ii))
-			self.loadbutton.grid(row=ii+1,column=0)
-			self.playbutton = Button(frame,text='PLAY'+str(ii+1), command=lambda ii=ii: self._playplaylist(itunes,ii))
-			self.playbutton.grid(row=ii+1,column=1)
-			self.labelplaylist = Label(frame,textvariable=playlisttextlist[ii])
-			self.labelplaylist.grid(row=ii+1,column=2)
-			countdown = Countdown(frame)
-			self.countdownarray.append(countdown)
-			countdown.grid(row=ii+1,column=3)
-		#keystroke capture:
-		master.bind_all('<F1>', lambda event: self._playplaylist(itunes,0))
-		master.bind_all('<F2>', lambda event: self._playplaylist(itunes,1))
-		master.bind_all('<F3>', lambda event: self._playplaylist(itunes,2))
-		master.bind_all('<F4>', lambda event: self._playplaylist(itunes,3))
-		# etc prune to match actual number of playlists
-
-	def _loadplaylist(self,itunes,playlisttextlist,playlistnumber):	
-		if filenametoload == '':
-			print "NOTHING TO LOAD"
-		else:
-			playlistTracks = itunes.playlists['SPOTBOX'+str(playlistnumber+1)].tracks()
-			if len(playlistTracks) > 0:
-				itunes.delete(itunes.playlists['SPOTBOX'+str(playlistnumber+1)].tracks)
-			itunes.add(Alias(filenametoload),to=itunes.playlists['SPOTBOX'+str(playlistnumber+1)])
-			filenamesplit = SplitFileName(filenametoload)
-			playlisttextlist[playlistnumber].set(filenamesplit[3])
-			[minutes,seconds] = filenamesplit[2].split('.')
-			timetoload = 60*int(minutes) + int(seconds)
-			self.countdownarray[playlistnumber].loadcountdown(timetoload)
-
-	def _playplaylist(self,itunes,playlistnumber):
-		itunes.play(itunes.playlists['SPOTBOX'+str(playlistnumber+1)])
-		self.countdownarray[playlistnumber].countdown(1)
-
-	def _stop(self,itunes):
-		itunes.stop()
-
-class RadioCategory(Frame):
-
-	def __init__(self, master):
-		Frame.__init__(self, master)
-		frame = Frame(self)
-		frame.pack()		
-		types = [("PSA",1),("LID",2),("Promos",3),("Sound Effects",4),("Show Themes",5)]
-		ii = 0
-		for txt, modenum in types:
-			Radiobutton(frame, text=txt, indicatoron = 0, variable = menumode, command=self._UpdateMenus,value=modenum).grid(row=0,column=ii)
-			ii += 1		
-	
-	def _UpdateMenus(self):
-		for menu in menulist:
-			menu.grid_forget()
-		menulist[menumode.get()-1].grid(row=1,columnspan=2)
-		searchbox.clear()
-		global currentmatrix
-		currentmatrix = matrixlist[menumode.get()-1]
-		for ii in range(len(menulist)):
-		    if (ii != (menumode.get()-1)):
-		        matrixtoshuffle = matrixlist[ii]
-		        random.shuffle(matrixtoshuffle)
-		        menulist[ii].delete(0, END)
-		        FillListBox(matrixtoshuffle,menulist[ii])
-		
-class SearchBox(Frame):
-
-	def __init__(self, master):
-		Frame.__init__(self, master)
-		frame = Frame(self)
-		frame.pack()
-		Button(frame,text="Search", command=lambda: self._search()).grid(row=0,column=1)
-		self.searchstring = StringVar()
-		self.searchentry = Entry(frame, textvariable=self.searchstring)
-		self.searchentry.grid(row=0,column=0)
-		self.searchstring.set('')
-		self.searchentry.bind('<Return>', lambda e: self._search())
-	
-	def _search(self):
-		searchby = self.searchstring.get()
-		print searchby
-		print 'SEARCH'
-		searchmatrix = []
-		for row in matrixlist[menumode.get()-1]:
-			for part in row:
-				if searchby.lower() in part.lower():
-					searchmatrix.append(row)
-					break 
-		menulist[menumode.get()-1].delete(0, END)
-		FillListBox(searchmatrix,menulist[menumode.get()-1])
-		global currentmatrix
-		currentmatrix = searchmatrix
-	
-	def clear(self):
-		self.searchentry.delete(0,END)
-
-class MultiListbox(Frame):
-
-    def __init__(self, master, lists):
-	Frame.__init__(self, master)
-	self.lists = []
-	ii = 0
-	for l,w in lists:
-	    frame = Frame(self); frame.pack(side=LEFT, expand=YES, fill=BOTH)
-	    a_label = Label(frame, text=l, borderwidth=1, relief=RAISED)
-	    a_label.pack(fill=X)
-	    lb = Listbox(frame, width=w, borderwidth=0, selectborderwidth=0,
-			 relief=FLAT, exportselection=FALSE)
-	    lb.pack(expand=YES, fill=BOTH)
-	    self.lists.append(lb)
-	    lb.bind('<B1-Motion>', lambda e, s=self: s._select(e.y))
-	    lb.bind('<Button-1>', lambda e, s=self: s._select(e.y))
-	    lb.bind('<Leave>', lambda e: 'break')
-	    lb.bind('<B2-Motion>', lambda e, s=self: s._b2motion(e.x, e.y))
-	    lb.bind('<Button-2>', lambda e, s=self: s._button2(e.x, e.y))
-	    lb.bind('<MouseWheel>', self._mousewheel)
-	    a_label.bind('<Button-1>', lambda e, ii=ii: self._sort(ii))
-	    ii += 1
-	frame = Frame(self); frame.pack(side=LEFT, fill=Y)
-	Label(frame, borderwidth=1, relief=RAISED).pack(fill=X)
-	sb = Scrollbar(frame, orient=VERTICAL, command=self._scroll)
-	sb.pack(expand=YES, fill=Y)
-	self.lists[0]['yscrollcommand']=sb.set
-
-    def _sort(self,columnnumber):
-	global currentmatrix
-	deco= [((a[indiceslist[menumode.get()-1][columnnumber]]),a) for a in matrixlist[menumode.get()-1]]
-	deco.sort()
-	currentmatrix = [v for k,v in deco]
-	menulist[menumode.get()-1].delete(0, END)
-	FillListBox(currentmatrix,menulist[menumode.get()-1])
-
-    def _select(self, y):
-	row = self.lists[0].nearest(y)
-	self.selection_clear(0, END)
-	self.selection_set(row)
-	global filenametoload
-	filenametoload = currentmatrix[row][0]	
-	return 'break'
-
-    def _button2(self, x, y):
-	for l in self.lists: l.scan_mark(x, y)
-	return 'break'
-
-    def _b2motion(self, x, y):
-	for l in self.lists: l.scan_dragto(x, y)
-	return 'break'
-
-    def _mousewheel(self,event):
-	for l in self.lists: l.yview("scroll",event.delta,"units")
-	return "break"
-
-    def _scroll(self, *args):
-	for l in self.lists:
-	    apply(l.yview, args)
-
-    def curselection(self):
-	return self.lists[0].curselection()
-
-    def delete(self, first, last=None):
-	for l in self.lists:
-	    l.delete(first, last)
-
-    def get(self, first, last=None):
-	result = []
-	for l in self.lists:
-	    result.append(l.get(first,last))
-	if last: return apply(map, [None] + result)
-	return result
-	    
-    def index(self, index):
-	self.lists[0].index(index)
-
-    def insert(self, index, *elements):
-	for e in elements:
-	    i = 0
-	    for l in self.lists:
-		l.insert(index, e[i])
-		i = i + 1
-
-    def size(self):
-	return self.lists[0].size()
-
-    def see(self, index):
-	for l in self.lists:
-	    l.see(index)
-
-    def selection_anchor(self, index):
-	for l in self.lists:
-	    l.selection_anchor(index)
-
-    def selection_clear(self, first, last=None):
-	for l in self.lists:
-	    l.selection_clear(first, last)
-
-    def selection_includes(self, index):
-	return self.lists[0].selection_includes(index)
-
-    def selection_set(self, first, last=None):
-	for l in self.lists:
-	    l.selection_set(first, last)
-
-def FileComponentsToTuple(filecomponents):
-	tuplereturn = ()
-	if filecomponents[1] == 'PSA':
-		indices = psaindices
-	elif filecomponents[1] == 'LID':
-		indices = lidindices
-
-	for index in indices:
+	def get_selection(self):
 		try:
-			tuplereturn = tuplereturn + (filecomponents[index],)
+			return self.lb.get(self.lb.curselection())
 		except:
-			print "SOMETHING MALFORMED"
-	return tuplereturn
+			# lozenge - restrict to the right exception... that nothing
+			# has been selected
+			return None
 
-def SplitFileName(filename):
-	# Look at only the file, remove file extension, and split into array on commas:
-	filenamecomponents = (((filename.rsplit('/',1))[1]).rsplit('.',1)[0]).split('_')
-	filenamecomponents.insert(0, filename)
-	return filenamecomponents
+	def _select(self, y):
+		filename = self.lb.get(self.lb.nearest(y))
+		self.labels.update_labels(filename)
+		# call labels, and update
+		return
 
-def FillListBox(filematrix,menutofill):
-    for row in filematrix:
-        menutuple =  FileComponentsToTuple(row)
-        try:
-            menutofill.insert(END,menutuple)
-        except:
-            menutofill.insert(END,("error"))
-            print "FILENAME FOR " + row[0] + " NOT VALID"
 
-def ExtractListFromDir(directorystring):
-	directorylisting = os.listdir(directorystring)
-	filenamelist = [SplitFileName(directorystring+x) for x in directorylisting if not x[0] == '.']
-	return filenamelist'''
-def FillListBox(filematrix,menutofill):
-    for row in filematrix:
-        menutofill.insert(END,row)
-        '''try:
-            menutofill.insert(END,menutuple)
-        except:
-            menutofill.insert(END,("error"))
-            print "FILENAME FOR " + row[0] + " NOT VALID"'''
+class ComparisonWidget(Frame):
+	"""two listboxes (yes and no) and label with count"""
+	
+	#seenstring = StringVar()
+	#notseenstring = StringVar()
+
+	def __init__(self, master):
+ 		Frame.__init__(self, master)
+		frameyes = Frame(master,width = 500, height = 300)
+		frameyes.pack(side=LEFT, expand=YES, fill=BOTH)
+		frameno = Frame(master,width = 500, height = 300)
+		frameno.pack(side=LEFT, expand=YES, fill=BOTH)
+
+		self.seenstring = StringVar()
+		self.notseenstring = StringVar()
+
+		self.seenstring.set('SEEN: ')
+		self.notseenstring.set('NOT SEEN: ')
+		yes_label = Label(frameyes, textvariable=self.seenstring, borderwidth=1)
+		yes_label.pack(fill=X)
+		no_label = Label(frameno, textvariable=self.notseenstring, borderwidth=1)
+		no_label.pack(fill=X)
+
+
+		self.lbyes = Listbox(frameyes,borderwidth=0, selectborderwidth=0,relief=FLAT, 
+				  selectmode=SINGLE, exportselection=FALSE)
+		syes = Scrollbar(frameyes, orient=VERTICAL, command=self.lbyes.yview)
+		self.lbyes['yscrollcommand'] = syes.set
+		self.lbno = Listbox(frameno,borderwidth=0, selectborderwidth=0,relief=FLAT, 
+				  selectmode=SINGLE, exportselection=FALSE)
+		sno = Scrollbar(frameno, orient=VERTICAL, command=self.lbno.yview)
+		self.lbyes.pack(side=LEFT, fill=BOTH, expand=YES)
+		syes.pack(side=LEFT, fill=Y)
+		self.lbno.pack(side=LEFT, fill=BOTH, expand=YES)
+		sno.pack(side=LEFT, fill=Y)
+		self.lbno['yscrollcommand'] = sno.set
+
+
+	def fill_yes_and_no(self,yeslist,nolist):
+		fill_list_box(self._yesnolistintoreadable(yeslist),self.lbyes)
+		fill_list_box(self._yesnolistintoreadable(nolist),self.lbno)
+		self.seenstring.set('SEEN: ' + str(len(yeslist)))
+		self.notseenstring.set('NOT SEEN: ' + str(len(nolist)))
+
+	def _yesnolistintoreadable(self,yesnolist):
+		"""Save # (if any) and film title, boot rest"""
+		readablelist = [self._processnumber(row[0]) + self._processfilmtitle(row[2:]) for row in yesnolist]
+		return readablelist
+
+	def _processnumber(self, numberforfilm):
+		"""Return empty string is None, and string with space if not"""
+		if not numberforfilm:
+			return ''
+		return str(numberforfilm + ' ')				
+
+	def _processfilmtitle(self, filminfolist):
+		"""Make it look nice in the two boxes"""
+		[titleforfilm,extrainfo] = filminfolist
+		try:
+			return put_the_at_start(titleforfilm.rstrip().encode("unicode_escape")) + self._process_extra_info(extrainfo).encode("unicode_escape")
+		except:
+			return put_the_at_start(titleforfilm.rstrip().encode("string_escape")) + self._process_extra_info(extrainfo).encode("string_escape")
+		# lozenge - work with spacing to make it look nicer
+
+	def _process_extra_info(self, extrainfo):
+		if extrainfo:
+			return '   ' + extrainfo.rstrip()				
+		return ''
+
+class Dashboard(Frame):
+	"""Contains button for sorting and also text information on canon."""
+	def __init__(self, master):
+ 		Frame.__init__(self, master)
+		frame = Frame(self)
+		sortbutton = Button(frame, text="SHOW", command=lambda: self._sort_into_boxes(listboxofcanons, filmdb, comparisonwidget)) # LOZENGE - out of scope
+		sortbutton.pack()#.grid(row=0,column=0)
+		frame.pack(side=LEFT, expand=YES)
+
+                #self.label.configure(text= format_time_integer(self.remainingfull))
+
+
+	def _sort_into_boxes(self, listboxofcanons, filmdb, comparisonwidget):
+		filename = listboxofcanons.get_selection()
+		yeslist,nolist = filmdb.break_into_yes_and_no(filename)
+		comparisonwidget.fill_yes_and_no(yeslist,nolist)
+
+class FilmDatabase:
+	def __init__(self,listofcanons,listoflistoftuplesofdata):
+		# make into dict, with canon name as key, and tuple of data as value
+		self.filmdict = dict(zip(listofcanons,listoflistoftuplesofdata))
+
+	def break_into_yes_and_no(self, filenameforcanon):
+		yeslist = []
+		nolist = []
+		try:
+			listoftuplesoffilmdata = self.filmdict[filenameforcanon][1]
+			#print len(listoftuplesoffilmdata) # lozenge-- add to label
+			sorteddata = sorted(listoftuplesoffilmdata, key=operator.itemgetter(1))
+		except:
+			print 'Error pulling from database'
+			sorteddata = []
+		try:		
+			for key, yesnogroup in itertools.groupby(sorteddata,operator.itemgetter(1)):
+				if key == 'Y':
+					yeslist = list(yesnogroup)
+				elif key == 'N':
+					nolist = list(yesnogroup)
+				elif key == '':
+					print 'Still need to process ' + str(len(list(yesnogroup))) + ' entries.'
+				else:
+					print 'What is this?' + str(list(yesnogroup))
+		except:
+			print 'Error in grouping'
+		return yeslist, nolist
+
+class LabelSetFilm(Frame):
+	"""List of labels for film canon information"""
+	def __init__(self, master):
+ 		Frame.__init__(self, master)
+		frame = Frame(self)
+		self.labeltitle = Label(frame, text='Film canon selected:')
+		self.labeldescription = Label(frame, text='')
+		self.labeltotal = Label(frame, text='')
+		self.labelseen = Label(frame, text='')
+		self.labelnot = Label(frame, text='')
+		self.labeltitle.grid(row=1,column=0)
+		self.labeldescription.grid(row=2,column=0)
+		self.labeltotal.grid(row=3,column=0)
+		self.labelseen.grid(row=4,column=0)
+		self.labelnot.grid(row=5,column=0)
+		frame.pack()
+
+	def update_labels(self, updateinfo):
+		self.labeltitle.configure(text = 'Film canon selected: ' + updateinfo)
+		
+
+def fill_list_box(listofentries,menutofill):
+	"""empty menu, and then fill with the contents of list"""
+	menutofill.delete(0, END)
+	for row in listofentries:
+		menutofill.insert(END,row)
+
+def process_film_line(filmline):
+	'''break on underscores, process Y or N, and return 
+	Y/N, film title (corrected for terminal "the" etc),
+	ranking on page, plus extrametadata'''
+	# get leftmost: ranking (delimited by first space)
+	try:
+		[ranking,yesno,filmandinfo] = filmline.split(' ', 2)
+	except:
+		filmandinfo = ''
+		'Fix line: ' + filmline
+	if ranking == '~':
+		ranking = ''
+	yesno = yesno.upper()
+	if yesno != 'Y' and yesno != 'N':
+		yesno = ''
+	try:
+		[filmtitle, extrametainfo] = filmandinfo.split('_',1)
+	except:
+		# put it all as the title:
+		filmtitle = filmandinfo
+		extrametainfo = ''
+	return (ranking,yesno,put_the_at_end(filmtitle),extrametainfo)
+
+def put_the_at_end(stringtocheck):
+	# if first word is the or a (what about le la ???)
+	# put at end
+	# LOZENGE
+	return stringtocheck
+
+def put_the_at_start(stringtocheck):
+	# if there is a ", the" clause at end,
+	# put at start, for readability
+	correctedstring = stringtocheck
+	if stringtocheck.endswith(', The'):
+		correctedstring = 'The ' + correctedstring.rstrip(', The')
+	elif stringtocheck.endswith(', A'):
+		correctedstring = 'A ' + correctedstring.rstrip(', A')
+	elif stringtocheck.endswith(', L\''): # lozenge- doesn't work.
+		correctedstring = 'L\'' + correctedstring.rstrip(', L\'')
+	return correctedstring
+
+def process_film_canon_file(filename):
+	f = open(filename)
+	# top 4 lines contain special information
+	# only first line important here:
+	shortdescription = f.readline()
+	
+	for ii in range(3):
+		# burn the other three header lines
+		f.readline()
+	listincanon = []
+	for ii, line in enumerate(f):
+		(ranking,yesno,filmtitle,extrametainfo) = process_film_line(line)
+		listincanon.append((ranking,yesno,filmtitle,extrametainfo))
+	return shortdescription, listincanon
 
 if __name__ == '__main__':
-    maintk = Tk()
-    folder = './canons'
-    listofcanons = []
-    for f in os.listdir(folder):
-        print f
-        listofcanons.append(f)
-    listboxofcanons = CanonListbox(maintk,listofcanons)
-    #listboxofcanons.grid(row=0,column=1)
-    listboxofcanons.pack(expand='Yes',fill='both')
+	folder = './canons'
+	listofcanons = []
+	ultimatelist = []
+	for f in os.listdir(folder):
+		fullpath = './canons/' + f
+		listofinformation = process_film_canon_file(fullpath)
+		ultimatelist.append(listofinformation)
+		listofcanons.append(f)
+	filmdb = FilmDatabase(listofcanons, ultimatelist)
+
+	maintk = Tk()
+	maintk.title('Film Canon')
+	maintk.geometry("1000x500")
+
+	frametop = Frame(maintk)
+	framebottom = Frame(maintk)#,width = 1000, height = 300)
+	frametop.pack()#(anchor=N,expand=True,fill=X)
+	framebottom.pack(side=LEFT,expand=YES,fill=BOTH)
+	dashboard = Dashboard(frametop)
+
+	labelsforfilms = LabelSetFilm(dashboard)
+	labelsforfilms.pack()
 	
-    maintk.mainloop()
+	framelistofcanons = Frame(frametop, labelsforfilms)
 
+	framelistofcanons.pack(side=LEFT,expand=True,fill=BOTH)
 
-
+	listboxofcanons = CanonListbox(framelistofcanons, listofcanons, labelsforfilms)
+	listboxofcanons.pack()
+	dashboard.pack(side=LEFT,expand=True,fill=BOTH)
+	comparisonwidget = ComparisonWidget(framebottom)
+	comparisonwidget.pack(fill=X)
+	maintk.mainloop()
 	# ultimate process:
 	# read in all files in folder
 	# parse for headers, contents (correct for trailing "the"... or make separate file that does that)

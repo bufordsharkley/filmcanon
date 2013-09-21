@@ -16,7 +16,7 @@ last processed_2013 08 04
 12 Y If..._ (1968, Lindsay Anderson)
 13 Y The Ladykillers_ (1955, Alexander Mackendrick)
 14 Y Saturday Night and Sunday Morning_ (1960, Karel Reisz)
-15 Brighton Rock_ (1947, John Boulting)
+15 N Brighton Rock_ (1947, John Boulting)
 16 Y Get Carter_ (1971, Mike Hodges)
 17 Y The Lavender Hill Mob_ (1951, Charles Crichton)
 18 Y Henry V_ (1944, Laurence Olivier)
