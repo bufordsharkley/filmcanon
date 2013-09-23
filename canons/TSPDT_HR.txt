@@ -1,3 +1,6 @@
+They Shoot Pictures, Don't They? "Highly Recommended" list
+
+
 ~ Y Adam's Rib George Cukor 1949
 ~ Y The Age of Innocence Martin Scorsese 1993
 ~ Y Alexander Nevsky Sergei Eisenstein 1938
@@ -61,15 +64,15 @@
 ~  Cries and Whispers Ingmar Bergman 1972
 ~  Crimes and Misdemeanors Woody Allen 1989
 ~  The Crimson Kimono Sam Fuller 1959
-~  Daisy Kenyon Otto Preminger 1947
-~  Dead of Night Alberto Cavalcanti, Basil Dearden, Robert Hamer & Charles Crichton 1945
-~  The Deer Hunter Michael Cimino 1978
-~  Deliverance John Boorman 1972
-~  Design for Living Ernst Lubitsch 1933
-~  Destry Rides Again George Marshall 1939
-~  Detective Story William Wyler 1951
-~  Devil in a Blue Dress Carl Franklin 1995
-~  Diary of a Country Priest Robert Bresson 1950
+~  Daisy Kenyon_ Otto Preminger 1947
+~  Dead of Night_ Alberto Cavalcanti, Basil Dearden, Robert Hamer & Charles Crichton 1945
+~  The Deer Hunter_ Michael Cimino 1978
+~  Deliverance_ John Boorman 1972
+~  Design for Living_ Ernst Lubitsch 1933
+~  Destry Rides Again_ George Marshall 1939
+~  Detective Story_ William Wyler 1951
+~  Devil in a Blue Dress_ Carl Franklin 1995
+~  Diary of a Country Priest_ Robert Bresson 1950
 ~  The Discreet Charm of the Bourgeoisie Luis Buñuel 1972
 ~  Distant Voices, Still Lives Terence Davies 1988
 ~  D.O.A. Rudolph Maté 1949
@@ -204,10 +207,10 @@
 ~  Love Me Tonight Rouben Mamoulian 1932
 ~  Love Streams John Cassavetes 1984
 ~  The Lusty Men Nicholas Ray 1952
-~  Magnolia Paul Thomas Anderson 1999
-~  Make Way for Tomorrow Leo McCarey 1937
-~  The Maltese Falcon John Huston 1941
-~  The Manchurian Candidate John Frankenheimer 1962
+~  Magnolia_ Paul Thomas Anderson 1999
+~  Make Way for Tomorrow_ Leo McCarey 1937
+~  The Maltese Falcon_ John Huston 1941
+~  The Manchurian Candidate_ John Frankenheimer 1962
 ~  Man of the West Anthony Mann 1958
 ~  The Man Who Shot Liberty Valance John Ford 1962
 ~  The Man Who Wasn't There Joel Coen and Ethan Coen 2001

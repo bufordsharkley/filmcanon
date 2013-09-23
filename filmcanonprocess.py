@@ -4,36 +4,39 @@ from Tkinter import *
 import os
 import itertools
 import operator
+import random
 
 class CanonListbox(Frame):
-	def __init__(self, master, canonlist, filmlabels):
+	def __init__(self, master, canonlist):
  		Frame.__init__(self, master)
 		frame = Frame(self)
 		frame.pack()
 		self.lb = Listbox(frame,borderwidth=0, selectborderwidth=0,relief=FLAT, 
-				  selectmode=SINGLE, exportselection=FALSE)
-		self.lb.bind('<B1-Motion>', lambda e, s=self: s._select(e.y))
-		self.lb.bind('<Button-1>', lambda e, s=self: s._select(e.y))
+				  selectmode=EXTENDED, exportselection=FALSE)
+		#self.lb.bind('<B1-Motion>', lambda e, s=self: s._select(e.y))
+		#self.lb.bind('<Button-1>', lambda e, s=self: s._select(e.y))
+		self.lb.bind('<Control-a>', lambda e, s=self: s._selectall())
 		self.lb.pack(side=LEFT, fill=BOTH, expand=YES)
 		s = Scrollbar(frame, orient=VERTICAL, command=self.lb.yview)
 		s.pack(side=RIGHT, fill=Y)
 		self.lb['yscrollcommand'] = s.set
+		random.shuffle(listofcanons) # randomize the order of appearance...
 		fill_list_box(listofcanons,self.lb)
-		self.labels = filmlabels
-	
+
 	def get_selection(self):
 		try:
-			return self.lb.get(self.lb.curselection())
+			filenamestoreturn = []
+			selecteditems = map(int,self.lb.curselection())
+			for index in selecteditems:
+				filenamestoreturn.append(self.lb.get(index))
+			return filenamestoreturn
 		except:
 			# lozenge - restrict to the right exception... that nothing
 			# has been selected
 			return None
 
-	def _select(self, y):
-		filename = self.lb.get(self.lb.nearest(y))
-		self.labels.update_labels(filename)
-		# call labels, and update
-		return
+	def _selectall(self):
+		return [self.lb.select_set(ii) for ii in range(self.lb.size())]
 
 
 class ComparisonWidget(Frame):
@@ -61,11 +64,11 @@ class ComparisonWidget(Frame):
 
 
 		self.lbyes = Listbox(frameyes,borderwidth=0, selectborderwidth=0,relief=FLAT, 
-				  selectmode=SINGLE, exportselection=FALSE)
+				  selectmode=EXTENDED, exportselection=TRUE)
 		syes = Scrollbar(frameyes, orient=VERTICAL, command=self.lbyes.yview)
 		self.lbyes['yscrollcommand'] = syes.set
 		self.lbno = Listbox(frameno,borderwidth=0, selectborderwidth=0,relief=FLAT, 
-				  selectmode=SINGLE, exportselection=FALSE)
+				  selectmode=EXTENDED, exportselection=TRUE)
 		sno = Scrollbar(frameno, orient=VERTICAL, command=self.lbno.yview)
 		self.lbyes.pack(side=LEFT, fill=BOTH, expand=YES)
 		syes.pack(side=LEFT, fill=Y)
@@ -73,12 +76,36 @@ class ComparisonWidget(Frame):
 		sno.pack(side=LEFT, fill=Y)
 		self.lbno['yscrollcommand'] = sno.set
 
-
-	def fill_yes_and_no(self,yeslist,nolist):
+	def fill_yes_and_no(self, yeslist, nolist):
 		fill_list_box(self._yesnolistintoreadable(yeslist),self.lbyes)
 		fill_list_box(self._yesnolistintoreadable(nolist),self.lbno)
 		self.seenstring.set('SEEN: ' + str(len(yeslist)))
 		self.notseenstring.set('NOT SEEN: ' + str(len(nolist)))
+
+	def clear(self):
+		empty_list_box(self.lbyes)
+		empty_list_box(self.lbno)
+		self.seenstring.set('')
+		self.notseenstring.set('')
+
+	def fill_merged_lists(self, mergedyestitles, mergednotitles):
+		sortedyes = sorted(mergedyestitles)
+		sortedno = sorted(mergednotitles)
+		listofgroupedyes = []
+		listofgroupedno = []
+		for key, group in itertools.groupby(sortedyes,key=str.lower):
+			listofgroupedyes.append(list(group))
+		for key, group in itertools.groupby(sortedno,key=str.lower):
+			listofgroupedno.append(list(group))
+		fill_list_box(self._mergesyesnointoreadable(sorted(listofgroupedyes, key=len, reverse=True)),self.lbyes)
+		fill_list_box(self._mergesyesnointoreadable(sorted(listofgroupedno, key=len, reverse=True)),self.lbno)
+		#fill_list_box(self._mergesyesnointoreadable(sorted(listofgroupedyes)),self.lbyes)
+		#fill_list_box(self._mergesyesnointoreadable(sorted(listofgroupedno)),self.lbno)# alphabetical, for checking for near-misses in strings
+		
+	def _mergesyesnointoreadable(self, groupedyesno):
+		# they're lists of lists of movie titles. If len > 1, they all match.
+		readablelist = [str(len(row)) + '     ' + self._processfilmtitle(row[0]) for row in groupedyesno]
+		return readablelist
 
 	def _yesnolistintoreadable(self,yesnolist):
 		"""Save # (if any) and film title, boot rest"""
@@ -93,7 +120,11 @@ class ComparisonWidget(Frame):
 
 	def _processfilmtitle(self, filminfolist):
 		"""Make it look nice in the two boxes"""
-		[titleforfilm,extrainfo] = filminfolist
+		try:
+			[titleforfilm,extrainfo] = filminfolist
+		except:
+			titleforfilm = filminfolist
+			extrainfo = ''
 		try:
 			return put_the_at_start(titleforfilm.rstrip().encode("unicode_escape")) + self._process_extra_info(extrainfo).encode("unicode_escape")
 		except:
@@ -107,20 +138,38 @@ class ComparisonWidget(Frame):
 
 class Dashboard(Frame):
 	"""Contains button for sorting and also text information on canon."""
-	def __init__(self, master):
+	def __init__(self, master,listboxofcanons, filmdb, comparisonwidget,labelswidget):
  		Frame.__init__(self, master)
 		frame = Frame(self)
-		sortbutton = Button(frame, text="SHOW", command=lambda: self._sort_into_boxes(listboxofcanons, filmdb, comparisonwidget)) # LOZENGE - out of scope
+		sortbutton = Button(frame, text="SHOW", command=lambda: self._sort_into_boxes(listboxofcanons, filmdb, comparisonwidget,labelswidget))
 		sortbutton.pack()#.grid(row=0,column=0)
 		frame.pack(side=LEFT, expand=YES)
 
                 #self.label.configure(text= format_time_integer(self.remainingfull))
 
 
-	def _sort_into_boxes(self, listboxofcanons, filmdb, comparisonwidget):
-		filename = listboxofcanons.get_selection()
-		yeslist,nolist = filmdb.break_into_yes_and_no(filename)
-		comparisonwidget.fill_yes_and_no(yeslist,nolist)
+	def _sort_into_boxes(self, listboxofcanons, filmdb, comparisonwidget, labelswidget):
+		filenamelist = listboxofcanons.get_selection()
+		if len(filenamelist) == 1:
+			filename = filenamelist[0]
+			yeslist,nolist = filmdb.break_into_yes_and_no(filename)
+			comparisonwidget.fill_yes_and_no(yeslist,nolist)
+			updateinfo = filename
+			description = filmdb.get_description_from_filename(filename).rstrip()
+			filmno = filmdb.get_numfilms_from_filename(filename)
+			labelswidget.update_labels(fname = filename, desc = description, filmnum = str(filmno))
+		else: # if more than one list is selected, merge:
+			mergedyestitles = []
+			mergednotitles = []
+			for filename in filenamelist:
+				yeslist,nolist = filmdb.break_into_yes_and_no(filename)
+				mergedyestitles.extend([film[2] for film in yeslist])
+				mergednotitles.extend([film[2] for film in nolist])
+			comparisonwidget.clear()
+			labelswidget.clear()
+			labelswidget.update_labels(fname = 'MULTIPLE LIST MERGE')
+			comparisonwidget.fill_merged_lists(mergedyestitles,mergednotitles)
+			
 
 class FilmDatabase:
 	def __init__(self,listofcanons,listoflistoftuplesofdata):
@@ -151,6 +200,12 @@ class FilmDatabase:
 			print 'Error in grouping'
 		return yeslist, nolist
 
+	def get_description_from_filename(self, filename):
+		return self.filmdict[filename][0]
+
+	def get_numfilms_from_filename(self, filename):
+		return len(self.filmdict[filename][1])
+	
 class LabelSetFilm(Frame):
 	"""List of labels for film canon information"""
 	def __init__(self, master):
@@ -159,22 +214,30 @@ class LabelSetFilm(Frame):
 		self.labeltitle = Label(frame, text='Film canon selected:')
 		self.labeldescription = Label(frame, text='')
 		self.labeltotal = Label(frame, text='')
-		self.labelseen = Label(frame, text='')
-		self.labelnot = Label(frame, text='')
 		self.labeltitle.grid(row=1,column=0)
 		self.labeldescription.grid(row=2,column=0)
 		self.labeltotal.grid(row=3,column=0)
-		self.labelseen.grid(row=4,column=0)
-		self.labelnot.grid(row=5,column=0)
 		frame.pack()
 
-	def update_labels(self, updateinfo):
-		self.labeltitle.configure(text = 'Film canon selected: ' + updateinfo)
-		
+	def clear(self):
+		self.labeltitle.configure(text = '')		
+		self.labeldescription.configure(text = '')
+		self.labeltotal.configure(text = '')
+
+	def update_labels(self, fname = '', desc = '', filmnum = ''):
+		self.labeltitle.configure(text = 'Film canon selected: ' + fname)		
+		self.labeldescription.configure(text = desc)
+		if filmnum != '':
+			self.labeltotal.configure(text = 'Canon has ' + filmnum + ' films total')		
+
+def empty_list_box(menutofill):
+	"""empty menu"""
+	menutofill.delete(0, END)
 
 def fill_list_box(listofentries,menutofill):
 	"""empty menu, and then fill with the contents of list"""
-	menutofill.delete(0, END)
+	empty_list_box(menutofill)
+	#menutofill.delete(0, END)
 	for row in listofentries:
 		menutofill.insert(END,row)
 
@@ -199,24 +262,29 @@ def process_film_line(filmline):
 		# put it all as the title:
 		filmtitle = filmandinfo
 		extrametainfo = ''
-	return (ranking,yesno,put_the_at_end(filmtitle),extrametainfo)
+	return (ranking,yesno,put_the_at_end(filmtitle.rstrip()),extrametainfo)
 
 def put_the_at_end(stringtocheck):
-	# if first word is the or a (what about le la ???)
-	# put at end
-	# LOZENGE
-	return stringtocheck
+	correctedstring = stringtocheck
+	tocheck = ['The ', 'A ', 'La ', 'L\'','Il ']
+	for substring in tocheck:
+		if stringtocheck.startswith(substring):
+			# move from the end to the beginning
+			correctedstring = correctedstring[len(substring):] + ', ' + substring[:-1]
+			# if substring was L', we've just severed the apostrophe. Add it back.
+			if substring == 'L\'':
+				correctedstring += '\''
+	return correctedstring
 
 def put_the_at_start(stringtocheck):
 	# if there is a ", the" clause at end,
 	# put at start, for readability
 	correctedstring = stringtocheck
-	if stringtocheck.endswith(', The'):
-		correctedstring = 'The ' + correctedstring.rstrip(', The')
-	elif stringtocheck.endswith(', A'):
-		correctedstring = 'A ' + correctedstring.rstrip(', A')
-	elif stringtocheck.endswith(', L\''): # lozenge- doesn't work.
-		correctedstring = 'L\'' + correctedstring.rstrip(', L\'')
+	tocheck = [', The', ', A', ', La', ', L\'', ', Il']
+	for substring in tocheck:
+		if stringtocheck.endswith(substring):
+			# move from the end to the beginning
+			correctedstring = substring[2:] + ' ' + correctedstring[:-len(substring)]
 	return correctedstring
 
 def process_film_canon_file(filename):
@@ -235,6 +303,40 @@ def process_film_canon_file(filename):
 	return shortdescription, listincanon
 
 if __name__ == '__main__':
+
+	# lozenge - make this less clunky
+	class Usage(Exception):
+		def __init__(self, msg):
+			self.msg = msg
+
+	import sys
+	import getopt
+	
+	try:
+		opts, args = getopt.getopt(sys.argv[1:], "ho:vt:z:w:r:", ["help", "output=", "threshold="])
+	except getopt.error, msg:
+		raise Usage(msg)
+
+
+	# options:
+        '''for option, value in opts:
+            if option == "-v":
+                verbose = True
+            if option in ("-h", "--help"):
+                raise Usage(help_message)
+            if option in ("-o", "--output"):
+                output = value
+            if option in ("-t", "--threshoold"):
+                threshold = int(value)
+            if option == "-z":
+                zipcode = int(value)
+            if option == "-w":
+                weeks = int(value)
+            if option == "-r":
+                radius = int(value)'''
+
+
+
 	folder = './canons'
 	listofcanons = []
 	ultimatelist = []
@@ -244,7 +346,7 @@ if __name__ == '__main__':
 		ultimatelist.append(listofinformation)
 		listofcanons.append(f)
 	filmdb = FilmDatabase(listofcanons, ultimatelist)
-
+	
 	maintk = Tk()
 	maintk.title('Film Canon')
 	maintk.geometry("1000x500")
@@ -253,20 +355,20 @@ if __name__ == '__main__':
 	framebottom = Frame(maintk)#,width = 1000, height = 300)
 	frametop.pack()#(anchor=N,expand=True,fill=X)
 	framebottom.pack(side=LEFT,expand=YES,fill=BOTH)
-	dashboard = Dashboard(frametop)
 
-	labelsforfilms = LabelSetFilm(dashboard)
-	labelsforfilms.pack()
+	labelsforfilms = LabelSetFilm(frametop)
 	
 	framelistofcanons = Frame(frametop, labelsforfilms)
 
 	framelistofcanons.pack(side=LEFT,expand=True,fill=BOTH)
 
-	listboxofcanons = CanonListbox(framelistofcanons, listofcanons, labelsforfilms)
+	listboxofcanons = CanonListbox(framelistofcanons, listofcanons)
 	listboxofcanons.pack()
-	dashboard.pack(side=LEFT,expand=True,fill=BOTH)
 	comparisonwidget = ComparisonWidget(framebottom)
 	comparisonwidget.pack(fill=X)
+	dashboard = Dashboard(frametop, listboxofcanons, filmdb, comparisonwidget, labelsforfilms)
+	dashboard.pack(side=LEFT,expand=True,fill=BOTH)
+	labelsforfilms.pack()
 	maintk.mainloop()
 	# ultimate process:
 	# read in all files in folder

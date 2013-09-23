@@ -1,6 +1,6 @@
 Academy Award for Best Picture Winners
 last updated from source_2013 08 04
-last processed_2013 08 04
+last processed_2013 09 22
 
 2012 Y Argo
 2011 N The Artist
@@ -31,7 +31,7 @@ last processed_2013 08 04
 1986 Y Platoon 
 1985 N Out of Africa 
 1984 Y Amadeus 
-1983 N Terms of Endearment 
+1983 Y Terms of Endearment 
 1982 Y Gandhi 
 1981 N Chariots of Fire 
 1980 Y Ordinary People 

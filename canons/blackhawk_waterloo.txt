@@ -1,0 +1,104 @@
+Blackhawk Waterloo Top 100.
+updated from source: 04 02 2011
+last processed: ...
+
+1 Y Barry Lyndon_
+2 Y The Shining_
+3 Y A Clockwork Orange_
+4 Y The Godfather, Part II_
+5 Y Full Metal Jacket_
+6 Y The Godfather_
+7 Y Wild Strawberries_
+8 Y Once Upon a Time in the West_
+9 Y Casino_
+10 Y Apocalypse Now_
+11 Y Taxi Driver_
+12 Y Metropolis_
+13 Y MASH_
+14 Y Mulholland Drive_
+15 Y The Seventh Seal_
+16 Y Vertigo_
+17 Y 2001: A Space Odyssey_
+18 Y Cries and Whispers_
+19 Y Persona_
+20 Y Sunset Boulevard_
+21 Y Nashville_
+22 Y Paths of Glory_
+23 Y GoodFellas_
+24 Y Spione_
+25 Y Fight Club_
+26 Y Sleeping Beauty_
+27 Y Double Indemnity_
+28 Y Rio Bravo_
+29 Y Citizen Kane_
+30 Y Chinatown_
+31 Y Late Spring_
+32 Y McCabe & Mrs. Miller_
+33 Y Raiders of the Lost Ark_
+34 Y 2046_
+35 Y Alien_
+36 Y In the Mood for Love_
+37 Y Magnolia_
+38 Y Fantasia_
+39 Y Seven_
+40 Y Blade Runner_
+41 Y Shame_
+42 Y Mean Streets_
+43 Y Winter Light_
+44 Y Sunrise:A Song of Two Humans_
+45 Y The Virgin Spring_
+46 Y The Thin Red Line_
+47 Y The New World_
+48 Y 8 1/2_
+49 Y Three Colors:Blue_
+50 Y Criss Cross_
+51 Y The Searchers_
+52 Y The Big Lebowski_
+53 Y Last Year at Marienbad_
+54 Y The Passenger_
+55 Y Touch of Evil_
+56 Y Star Wars_
+57 Y The Leopard_
+58 Y Three Colors:Red_
+59 Y Blow Out_
+60 Y American Graffiti_
+61 Y Salo, or:The 120 Days of Sodom_
+62 Y The Killing_
+63 Y Peter Pan_
+64 Y Point Blank_
+65 Y Manhattan_
+66 N Saraband_
+67 Y Die Hard_
+68 Y No Country for Old Men_
+69 N Carlito's Way_
+70 Y Annie Hall_
+71 Y Chungking Express_
+72 Y The Long Goodbye_
+73 Y Psycho_
+74 Y California Split_
+75 Y Thirty-Two Short Films About Glenn Gould_
+76 Y The Big Sleep_
+77 Y Obsession_
+78 Y The Killing of a Chinese Bookie_
+79 N Casualties of War_
+80 Y Aliens_
+81 Y Back to the Future_
+82 Y Eraserhead_
+83 Y Short Cuts_
+84 Y The Good, the Bad, and the Ugly_
+85 N Exotica_
+86 Y Hannah and Her Sisters_
+87 Y The Umbrellas of Cherbourg_
+88 Y His Girl Friday_
+89 Y Casablanca_
+90 Y The Set-Up_
+91 Y The Last Detail_
+92 Y Deliverance_
+93 Y Umberto D._
+94 Y Ordet_
+95 Y My Life to Live_
+96 Y The Graduate_
+97 Y Notorious_
+98 Y North by Northwest_
+99 Y Deconstructing Harry_
+100 Y Detour
