@@ -22,7 +22,7 @@ last processed_2013 08 04
 18 Y Henry V_ (1944, Laurence Olivier)
 19 N Chariots of Fire_ (1981, Hugh Hudson)
 20 Y A Matter of Life and Death_ (1946, Powell Pressburger)
-21 N The Long Good Friday_ (1980, John Mackenzie)
+21 Y The Long Good Friday_ (1980, John Mackenzie)
 22 Y The Servant_ (1963, Joseph Losey)
 23 N Four Weddings and a Funeral_ (1994, Mike Newell)
 24 Y Whisky Galore!_ (1949, Alexander Mackendrick)
