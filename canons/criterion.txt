@@ -1,0 +1,829 @@
+1 Y Grand Illusion Jean Renoir 1937 France
+2 Y Seven Samurai Akira Kurosawa 1954 Japan
+3 Y The Lady Vanishes Alfred Hitchcock 1938 United Kingdom
+4 Y Amarcord Federico Fellini 1973 Italy
+5 Y The 400 Blows François Truffaut 1959 France
+6 Y Beauty and the Beast Jean Cocteau 1946 France
+7 Y A Night to Remember Roy Ward Baker 1958 United Kingdom
+8 Y The Killer John Woo 1989 Hong Kong
+9 Y Hard Boiled John Woo 1992 Hong Kong
+10 Y Walkabout Nicolas Roeg 1971 Australia
+11 Y The Seventh Seal Ingmar Bergman 1957 Sweden
+12 Y This Is Spinal Tap Rob Reiner 1984 United States
+13 Y The Silence of the Lambs Jonathan Demme 1991 United States
+▢ 14 Samurai I: Musashi Miyamoto Hiroshi Inagaki 1954 Japan
+▢ 15 Samurai II: Duel at Ichijoji Temple Hiroshi Inagaki 1955 Japan
+▢ 16 Samurai III: Duel at Ganryu Island Hiroshi Inagaki 1956 Japan
+▢ 17 Salò, or The 120 Days of Sodom Pier Paolo Pasolini 1976 Italy
+18 Y The Naked Kiss Samuel Fuller 1964 United States
+19 Y Shock Corridor Samuel Fuller 1963 United States
+▢ 20 Sid & Nancy Alex Cox 1986 United Kingdom
+21 Y Dead Ringers David Cronenberg 1988 United States
+22 Y Summertime David Lean 1955 United States
+23 Y RoboCop Paul Verhoeven 1987 United States
+24 Y High and Low Akira Kurosawa 1963 Japan
+25 Y Alphaville Jean­Luc Godard 1965 France
+26 Y The Long Good Friday John Mackenzie 1979 United Kingdom
+▢ 27 Flesh for Frankenstein Paul Morrissey 1973 United States
+▢ 28 Blood for Dracula Paul Morrissey 1974 United States
+29 Y Picnic at Hanging Rock Peter Weir 1975 Australia
+30 Y M Fritz Lang 1931 Germany
+31 Y Great Expectations David Lean 1946 United Kingdom
+32 Y Oliver Twist David Lean 1948 United Kingdom
+33 Y Nanook of the North Robert Flaherty 1922 United States
+34 Y Andrei Rublev Andrei Tarkovsky 1969 Soviet Union
+35 Y Diabolique Henri­Georges Clouzot 1955 France
+36 Y The Wages of Fear Henri­Georges Clouzot 1953 France
+37 Y Time Bandits Terry Gilliam 1981 United Kingdom
+38 Y Branded to Kill Seijun Suzuki 1967 Japan
+39 Y Tokyo Drifter Seijun Suzuki 1966 Japan
+40 Y Armageddon Michael Bay 1998 United States
+41 Y Henry V Laurence Olivier 1944 United Kingdom
+42 Y Fishing with John John Lurie 1992 United States
+▢ 43 Lord of the Flies Peter Brook 1963 United Kingdom
+44 Y The Red Shoes Michael Powell... 1948 United Kingdom
+45 Y Taste of Cherry Abbas Kiarostami 1997 Iran
+46 Y The Most Dangerous Game Ernest B. Schoedsack... 1932 United States
+47 Y Insomnia Erik Skjoldbjærg 1997 Norway
+48 Y Black Orpheus Marcel Camus 1959 France
+49 Y Nights of Cabiria Federico Fellini 1957 Italy
+50 Y And the Ship Sails On Federico Fellini 1984 Italy
+51 Y Brazil Terry Gilliam 1985 United Kingdom
+52 Y Yojimbo Akira Kurosawa 1961 Japan
+53 Y Sanjuro Akira Kurosawa 1962 Japan
+54 Y For All Mankind Al Reinert 1989 United States
+55 Y The Unbearable Lightness of Being Philip Kaufman 1988 United States
+56 Y The 39 Steps Alfred Hitchcock 1935 United Kingdom
+57 Y Charade Stanley Donen 1963 United States
+58 Y Peeping Tom Michael Powell 1960 United Kingdom
+▢ 59 The Night Porter Liliana Cavani 1974 Italy
+60 Y Autumn Sonata Ingmar Bergman 1978 Sweden
+61 Y Monty Python’s Life of Brian Terry Jones 1979 United Kingdom
+62 Y The Passion ofJoan of Arc Carl Th. Dreyer 1928 France
+63 Y Carnival of Souls Herk Harvey 1962 United States
+64 Y The Third Man Carol Reed 1949 United Kingdom
+65 Y Rushmore Wes Anderson 1998 United States
+66 Y The Orphic Trilogy Jean Cocteau France
+67 Y The Blood of a Poet Jean Cocteau 1930 France
+68 Y Orpheus Jean Cocteau 1950 France
+69 Y Testament of Orpheus Jean Cocteau 1959 France
+70 Y The Last Temptation of Christ Martin Scorsese 1988 United States
+71 Y The Magic Flute Ingmar Bergman 1975 Sweden
+72 Y Le million Rene Clair 1931 France
+73 Y Cleo from 5 to 7 Agnes Varda 1962 France
+74 Y Vagabond Agnes Varda 1985 France
+▢ 75 Chasing Amy Kevin Smith 1997 United States
+76 Y Brief Encounter David Lean 1945 United Kingdom
+77 Y And God Created Woman Roger Vadim 1956 France
+78 Y The Bank Dick Edward Cline 1940 United States
+79 Y W. C. Fields—Six Short Films Monte Brice... 1933 United States
+80 The Element of Crime Lars von Trier 1984 Denmark
+81 Variety Lights Federico Fellini... 1950 Italy
+82 Hamlet Laurence Olivier 1948 United Kingdom
+83 The Harder They Come Perry Henzell 1973 United States
+84 Good Morning Yasujiro Ozu 1959 Japan
+85 Pygmalion Anthony Asquith... 1938 United Kingdom
+86 Eisenstein: The Sound Years Sergei Eisenstein
+87 Alexander Nevsky Sergei Eisenstein 1938 Russia
+88 Ivan the Terrible, Part II Sergei Eisenstein 1958 Soviet Union
+89 Sisters Brian De Palma 1973 United States
+90 Kwaidan Masaki Kobayashi 1965 Japan
+91 The Blob Irvin S. Yeaworth Jr. 1958 United States
+▢ 92 Fiend Without a Face Arthur Crabtree 1958 United Kingdom
+93 Black Narcissus Michael Powell... 1947 United Kingdom
+94 I Know Where I’m Going! Michael Powell... 1945 United Kingdom
+95 All That Heaven Allows Douglas Sirk 1955 United States
+96 Y Written on the Wind Douglas Sirk 1956 United States
+97 Y Do the Right Thing Spike Lee 1989 United States
+98 Y L’avventura Michelangelo 1960 Italy
+99 Y Gimme Shelter David Maysles... 1970 United States
+▢ 100 Beastie Boys Video Anthology Various 2000 United States
+101 Y Cries and Whispers Ingmar Bergman 1972 Sweden
+102 Y The Discreet Charm of the Bourgeoisie Luis Buñuel 1972 France
+103 Y The Lady Eve Preston Sturges 1941 United States
+▢ 104 Double Suicide Masahiro Shinoda 1969 Japan
+105 Y Spartacus Stanley Kubrick 1960 United States
+106 Y Coup de torchon Bertrand Tavernier 1981 France
+▢ 107 Mona Lisa Neil Jordan 1986 United Kingdom
+108 Y The Rock Michael Bay 1996 United States
+109 Y The Scarlet Empress Josef von Sternberg 1934 United States
+110 Y M. Hulot’s Holiday Jacques Tati 1953 France
+111 Y Mon oncle Jacques Tati 1958 France
+112 Y Playtime Jacques Tati 1967 France
+113 Y Big Deal on Madonna Street Mario Monicelli 1958 Italy
+114 Y My Man Godfrey Gregory La Cava 1936 United States
+115 Y Rififi Jules Dassin 1955 France
+116 Y The Hidden Fortress Akira Kurosawa 1958 Japan
+117 Y Diary of a Chambermaid Luis Buñuel 1964 France
+118 Y Sullivan’s Travels Preston Sturges 1942 United States
+119 Y Withnail and I Bruce Robinson 1986 United Kingdom
+▢ 120 How to Get Ahead in Advertising Bruce Robinson 1988 United Kingdom
+121 Y Billy Liar John Schlesinger 1963 United Kingdom
+122 Y Salesman Albert Maysles... 1968 United States
+123 Y Grey Gardens Albert Maysles... 1976 United States
+▢ 124 Carl Theodor Dreyer [BOX]
+125 Y Day of Wrath Carl Th. Dreyer 1943 Denmark
+126 Y Ordet Carl Th. Dreyer 1955 Denmark
+127 Y Gertrud Carl Th. Dreyer 1964 Denmark
+▢ 128 Carl Th. Dreyer—My Metier Torben Skjødt Jensen 1995 Denmark
+129 Y Le trou Jacques Becker 1960 France
+130 Y The Shop on Main Street Jan Kadar... 1965 Czechoslovakia
+131 Y Closely Watched Trains Jiří Menzel 1966 Czechoslovakia
+132 Y The Ruling Class Peter Medak 1972 United Kingdom
+133 Y The Vanishing George Sluizer 1988 Netherlands
+134 Y Haxan Benjamin Christensen 1922 Denmark
+135 Y Rebecca Alfred Hitchcock 1940 United States
+136 Y Spellbound Alfred Hitchcock 1945 United States
+137 Y Notorious Alfred Hitchcock 1946 United States
+138 Y Rashomon Akira Kurosawa 1950 Japan
+139 Y Wild Strawberries Ingmar Bergman 1957 Sweden
+140 Y 8 1/2 Federico Fellini 1963 Italy
+141 Y Children of Paradise Marcel Carne 1945 France
+142 Y The Last Wave Peter Weir 1977 Australia
+143 Y That Obscure Object of Desire Luis Buñuel 1977 France
+144 Y Loves of a Blonde Milos Forman 1965 Czechoslovakia
+145 Y The Firemen’s Ball Milos Forman 1967 Czechoslovakia
+146 Y The Cranes Are Flying Mikhail Kalatozov 1957 Soviet Union
+147 Y In the Mood for Love Wong Kar­wai 2000 Hong Kong
+148 Y Ballad of a Soldier Grigori Chukhrai 1959 Soviet Union
+149 Y Juliet of the Spirits Federico Fellini 1965 Italy
+150 Y Bob le flambeur Jean­Pierre Melville 1956 France
+▢ 151 Traffic Steven Soderbergh 2000 United States
+152 Y George Washington David Gordon Green 2000 United States
+▢ 153 General Idi Amin Dada Barbet Schroeder 1974 France
+154 Y The Horse’s Mouth Ronald Neame 1958 United Kingdom
+155 Y Tokyo Olympiad Kon Ichikawa 1965 Japan
+156 Y Hearts and Minds Peter Davis 1974 United States
+157 Y The Royal Tenenbaums Wes Anderson 2001 United States
+158 Y The Importance of Being Earnest Anthony Asquith 1952 United Kingdom
+159 Y Red Beard Akira Kurosawa 1965 Japan
+160 Y A nous la liberte Rene Clair 1931 France
+161 Y Under the Roofs of Paris Rene Clair 1930 France
+162 Y Ratcatcher Lynne Ramsay 1999 United Kingdom
+▢ 163 Hopscotch Ronald Neame 1980 United States
+164 Y Solaris Andrei Tarkovsky 1972 Soviet Union
+165 Y Man Bites Dog Remy Belvaux... 1992 France
+166 Y Down by Law Jim Jarmusch 1986 United States
+167 Y The Complete Monterey Pop Festival United States
+168 Y Monterey Pop D. A. Pennebaker 1967 United States
+169 Y Jimi Plays Monterey & Shake! Otis at
+170 Y Trouble in Paradise Ernst Lubitsch 1932 United States
+171 Y Contempt Jean­Luc Godard 1963 France
+172 Y Pepe le moko Julien Duvivier 1937 France
+173 Y The Life and Death of Colonel Blimp Michael Powell... 1943 United Kingdom
+174 Y Band of Outsiders Jean­Luc Godard 1964 France
+175 Y Fear and Loathing in Las Vegas Terry Gilliam 1998 United States
+176 Y The Killers United States
+177 Y The Lost Honor of Katharina Blum Volker Schlöndorff... 1975 Germany
+178 Y My Life as a Dog Lasse Hallström 1985 Sweden
+▢ 179 I Am Curious . . .
+▢ 180 I Am Curious—Yellow Vilgot Sjöman 1967 Sweden
+▢ 181 I Am Curious—Blue Vilgot Sjöman 1967 Sweden
+182 Y Straw Dogs Sam Peckinpah 1971 United States
+183 Y Les dames du Bois de Boulogne Robert Bresson 1945 France
+▢ 184 By Brakhage: An Anthology, Volume
+185 Y The Adventures of Antoine Doinel François Truffaut France
+186 Y Stolen Kisses François Truffaut 1968 France
+187 Y Bed and Board François Truffaut 1970 France
+188 Y Love on the Run François Truffaut 1979 France
+189 Y The White Sheik Federico Fellini 1952 Italy
+190 Y Throne of Blood Akira Kurosawa 1957 Japan
+▢ 191 Jubilee Derek Jarman 1978 United Kingdom
+▢ 192 Coup de grâce Volker Schlöndorff 1976 Germany
+193 Y Quai des Orfevres Henri­Georges Clouzot 1947 France
+194 Y Il Posto Ermanno Olmi 1961 Italy
+195 Y I fidanzati Ermanno Olmi 1962 Italy
+196 Y Hiroshima mon amour Alain Resnais 1959 France
+197 Y Night and Fog Alain Resnais 1955 France
+198 Y Ali: Fear Eats the Soul Rainer Werner 1974 Germany
+199 Y Schizopolis Steven Soderbergh 1996 United States
+▢ 200 Y The Honeymoon Killers Leonard Kastle 1970 United States
+201 Y Umberto D. Vittorio De Sica 1952 Italy
+▢ 202 Indiscretion of an American Wife Vittorio De Sica 1953 Italy
+▢ 203 The BRD Trilogy Rainer Werner
+204 Y The Marriage of Maria Braun Rainer Werner 1978 West Germany
+205 Y Veronika Voss Rainer Werner 1982 Germany
+▢ 206 Lola Rainer Werner 1981 Germany
+▢ 207 The Pornographers Shohei Imamura 1966 Japan
+▢ 208 A Film Trilogy
+209 Y Through a Glass Darkly Ingmar Bergman 1961 Sweden
+210 Y Winter Light Ingmar Bergman 1962 Sweden
+211 Y The Silence Ingmar Bergman 1963 Sweden
+▢ 212 Ingmar Bergman Makes a Movie Vilgot Sjöman 1962 Sweden
+213 Y Richard III Laurence Olivier 1955 United Kingdom
+214 Y The Devil and Daniel Webster William Dieterle 1941 United States
+215 Y Knife in the Water Roman Polanski 1962 Poland
+216 Y The Rules of the Game Jean Renoir 1939 France
+217 Y Tokyo Story Yasujiro Ozu 1953 Japan
+218 Y Le cercle rouge Jean­Pierre Melville 1970 France
+219 Y La strada Federico Fellini 1954 Italy
+220 Y Naked Lunch David Cronenberg 1991 Canada
+221 Y Ikiru Akira Kurosawa 1952 Japan
+222 Y Diary of a Country Priest Robert Bresson 1951 France
+▢ 223 Maîtresse Barbet Schroeder 1973 France
+224 Y Pickup on South Street Samuel Fuller 1953 United States
+225 Y Tunes of Glory Ronald Neame 1960 United Kingdom
+226 Y Onibaba Kaneto Shindo 1964 Japan
+227 Y Le Corbeau Henri­Georges Clouzot 1943 France
+▢ 228 Salvatore Giuliano Francesco Rosi 1961 Italy
+229 Y Scenes from a Marriage Ingmar Bergman 1973 Sweden
+230 Y 3 Women Robert Altman 1977 United States
+231 Y The Testament of Dr. Mabuse Fritz Lang 1933 Germany
+232 Y A Story of Floating Weeds/Floating Weeds: Two Films by Yasujiro Ozu
+233 Y Stray Dog Akira Kurosawa 1949 Japan
+234 Y The Tin Drum Volker Schlöndorff 1979 Germany
+235 Y The Leopard Luchino Visconti 1963 Italy
+▢ 236 Mamma Roma Pier Paolo Pasolini 1962 Italy
+237 Y Smiles of a Summer Night Ingmar Bergman 1955 Sweden
+238 Y A Woman Is a Woman Jean­Luc Godard 1961 France
+239 Y The Lower Depths
+240 Y Early Summer Yasujiro Ozu 1951 Japan
+▢ 241 Stage and Spectacle [BOX]
+▢ 242 The Golden Coach Jean Renoir 1953 France
+243 Y French Cancan Jean Renoir 1955 France
+▢ 244 Elena and Her Men Jean Renoir 1956 France
+245 Y Port of Shadows Marcel Carne 1938 France
+246 Y I vitelloni Federico Fellini 1953 Italy
+▢ 247 Slacker Richard Linklater 1991 United States
+248 Y Videodrome David Cronenberg 1983 Canada
+249 Y The Battle of Algiers Gillo Pontecorvo 1966 Italy
+▢ 250 John Cassavetes: Five Films [BOX]
+251 Y Shadows John Cassavetes 1959 United States
+252 Y Faces John Cassavetes 1968 United States
+253 Y A Woman Under the Influence John Cassavetes 1974 United States
+254 Y The Killing of a Chinese Bookie John Cassavetes 1976 United States
+255 Y Opening Night John Cassavetes 1976 United States
+▢ 256 A Constant Forge Charles Kiselyak 2000 United States
+257 Y Secret Honor Robert Altman 1984 United States
+▢ 258 Tanner ’88 Robert Altman 1988 United States
+▢ 259 Fat Girl Catherine Breillat 2001 France
+260 Y Eyes Without a Face Georges Franju 1960 France
+▢ 261 Fanny and Alexander Box Set Ingmar Bergman Sweden
+▢ 262 Fanny and Alexander — The Television Version
+263 Y Fanny and Alexander — The Theatrical
+▢ 264 The Making of Fanny and Alexander Ingmar Bergman 1982 Sweden
+265 Y Short Cuts Robert Altman 1993 United States
+▢ 266 The King of Kings Cecil B. DeMille 1927 United States
+267 Y Kagemusha Akira Kurosawa 1980 Japan
+268 Y Youth of the Beast Seijun Suzuki 1963 Japan
+269 Y Fighting Elegy Seijun Suzuki 1966 Japan
+270 Y Casque d’or Jacques Becker 1952 France
+271 Y Touchez pas au grisbi Jacques Becker 1954 France
+▢ 272 La commare secca Bernardo Bertolucci 1962 Italy
+273 Y Thieves’ Highway Jules Dassin 1949 United States
+274 Y Night and the City Jules Dassin 1950 United States
+▢ 275 Tout va bien Jean­Luc Godard... 1972 France
+276 Y The River Jean Renoir 1951 France
+277 Y My Own Private Idaho Gus Van Sant 1991 United States
+278 Y L’eclisse Michelangelo 1962 Italy
+▢ 279 Young Törless Volker Schlöndorff 1966 Germany
+▢ 280 The Sword of Doom Kihachi Okamoto 1966 Japan
+281 Y Jules and Jim François Truffaut 1962 France
+▢ 282 Andrzej Wajda: Three War Films Andrzej Wajda Poland
+▢ 283 A Generation Andrzej Wajda 1955 Poland
+▢ 284 Kanal Andrzej Wajda 1957 Poland
+285 Y Ashes and Diamonds Andrzej Wajda 1958 Poland
+286 Y Divorce Italian Style Pietro Germi 1961 Italy
+287 Y Burden of Dreams Les Blank 1982 United States
+288 Y F for Fake Orson Welles 1975 United States
+289 Y Hoop Dreams Steve James 1994 United States
+290 Y The Phantom of Liberty Luis Buñuel 1974 France
+291 Y Heaven Can Wait Ernst Lubitsch 1943 United States
+292 Y Unfaithfully Yours Preston Sturges 1948 United States
+▢ 293 The Flowers of St. Francis Roberto Rossellini 1950 Italy
+294 Y The Browning Version Anthony Asquith 1951 United Kingdom
+▢ 295 Crazed Fruit Kô Nakahira 1956 Japan
+296 Y Le notti bianche Luchino Visconti 1957 Italy
+297 Y Au hasard Balthazar Robert Bresson 1966 France
+▢ 298 Gate of Flesh Seijun Suzuki 1964 Japan
+▢ 299 Story of a Prostitute Seijun Suzuki 1965 Japan
+300 Y The Life Aquatic with Steve Zissou Wes Anderson 2004 United States
+▢ 301 An Angel at My Table Jane Campion 1990 New Zealand
+302 Y Harakiri Masaki Kobayashi 1962 Japan
+▢ 303 Bad Timing Nicolas Roeg 1980 United Kingdom
+304 Y The Man Who Fell to Earth Nicolas Roeg 1976 United States
+305 Y Boudu Saved from Drowning Jean Renoir 1932 France
+306 Y Le Samouraï Jean­Pierre Melville 1967 France
+307 Y Naked Mike Leigh 1993 United Kingdom
+308 Y Masculin feminin Jean­Luc Godard 1966 France
+309 Y Ugetsu Kenji Mizoguchi 1953 Japan
+310 Y Samurai Rebellion Masaki Kobayashi 1967 Japan
+▢ 311 Sword of the Beast Hideo Gosha 1965 Japan
+▢ 312 Samurai Spy Masahiro Shinoda 1965 Japan
+▢ 313 Kill! Kihachi Okamoto 1968 Japan
+314 Y Pickpocket Robert Bresson 1959 France
+315 Y Shoot the Piano Player François Truffaut 1960 France
+316 Y Ran Akira Kurosawa 1985 Japan
+317 Y The Tales of Hoffmann Michael Powell... 1951 United Kingdom
+318 Y Forbidden Games Rene Clement 1952 France
+319 Y The Bad Sleep Well Akira Kurosawa 1960 Japan
+320 Y Young Mr. Lincoln John Ford 1939 United States
+321 Y The Virgin Spring Ingmar Bergman 1960 Sweden
+322 Y The Complete Mr. Arkadin Orson Welles 1955 United States
+323 Y The Children Are Watching Us Vittorio De Sica 1944 Italy
+324 Y La bête humaine Jean Renoir 1938 France
+325 Y Kind Hearts and Coronets Robert Hamer 1949 United Kingdom
+326 Y Metropolitan Whit Stillman 1990 United States
+327 Y 3 Films by Louis Malle Louis Malle France
+328 Y Murmur of the Heart Louis Malle 1972 France
+329 Y Lacombe, Lucien Louis Malle 1974 France
+330 Y Au revoir les enfants Louis Malle 1987 France
+331 Y Late Spring Yasujiro Ozu 1949 Japan
+332 Y Viridiana Luis Buñuel 1961 Spain
+▢ 333 Fists in the Pocket Marco Bellocchio 1965 Italy
+334 Y Harlan County USA Barbara Kopple 1976 United States
+335 Y Elevator to the Gallows Louis Malle 1957 France
+336 Y Dazed and Confused Richard Linklater 1993 United States
+▢ 337 À nos amours Maurice Pialat 1983 France
+▢ 338 Equinox Jack Woods 1970 United States
+339 Y Yi Yi Edward Yang 2000 Taiwan
+340 Y Koko: A Talking Gorilla Barbet Schroeder 1978 France
+▢ 341 A Canterbury Tale Michael Powell... 1944 United Kingdom
+▢ 342 Six Moral Tales Eric Rohmer France
+▢ 343 The Bakery Girl of Monceau Eric Rohmer 1963 France
+▢ 344 Suzanne’s Career Eric Rohmer 1963 France
+▢ 345 My Night at Maud’s Eric Rohmer 1969 France
+▢ 346 La collectionneuse Eric Rohmer 1967 France
+347 Y Claire’s Knee Eric Rohmer 1970 France
+348 Y Love in the Afternoon Eric Rohmer 1972 France
+349 Y Kicking and Screaming Noah Baumbach 1995 United States
+350 Y Seduced and Abandoned Pietro Germi 1964 Italy
+351 The Spirit of the Beehive Víctor Erice 1973 Spain
+357 The Fallen Idol Carol Reed 1948 United Kingdom
+358 Pandora’s Box Georg Wilhelm Pabst 1929 Germany
+359 The Double Life of Veronique Krzysztof Kieślowski 1991 France
+363 Mouchette Robert Bresson 1967 France
+374 Bicycle Thieves Vittorio De Sica 1948 Italy
+375 Green for Danger Sidney Gilliat 1946 United Kingdom
+378 Fires on the Plain Kon Ichikawa 1959 Japan
+380 The Naked City Jules Dassin 1948 United States
+381 La haine Mathieu Kassovitz 1995 France
+383 Brute Force Jules Dassin 1947 United States
+384 Vengeance Is Mine Shohei Imamura 1979 Japan
+385 Army of Shadows Jean­Pierre Melville 1969 France
+386 Sansho the Bailiff Kenji Mizoguchi 1954 Japan
+387 La Jetee/Sans Soleil Chris Marker France
+389 WR: Mysteries of the Organism Dušan Makavejev 1971 Yugoslavia
+391 If.... Lindsay Anderson 1968 United Kingdom
+394 Woman in the Dunes Hiroshi Teshigahara 1964 Japan
+396 Ace in the Hole Billy Wilder 1951 United States
+397 Ivan’s Childhood Andrei Tarkovsky 1962 Soviet Union
+398 Les enfants terribles Jean­Pierre Melville 1950 France
+399 House of Games David Mamet 1987 United States
+400 Stranger Than Paradise Jim Jarmusch 1984 United States
+401 Night on Earth Jim Jarmusch 1991 United States
+402 The Milky Way Luis Buñuel 1969 France
+403 Cría cuervos... Carlos Saura 1976 Spain
+405 The Threepenny Opera Georg Wilhelm Pabst 1931 Germany
+408 Breathless Jean­Luc Godard 1960 France
+409 Days of Heaven Terrence Malick 1978 United States
+410 Under the Volcano John Huston 1984 United States
+412 Sawdust and Tinsel Ingmar Bergman 1953 Sweden
+413 Drunken Angel Akira Kurosawa 1948 Japan
+414 Two­Lane Blacktop Monte Hellman 1971 United States
+417 This Sporting Life Lindsay Anderson 1963 United Kingdom
+421 Pierrot le fou Jean­Luc Godard 1965 France
+422 The Last Emperor Bernardo Bertolucci 1987 China
+424 Mafioso Alberto Lattuada 1962 Italy
+428 Blast of Silence Allen Baron 1961 United States
+429 The Lovers Louis Malle 1958 France
+430 The Fire Within Louis Malle 1963 France
+431 The Thief of Bagdad Ludwig Berger... 1940 United Kingdom
+434 Classe tous risques Claude Sautet 1960 France
+435 The Furies Anthony Mann 1950 United States
+437 Vampyr Carl Th. Dreyer 1932 Denmark
+439 Trafic Jacques Tati 1971 France
+440 Brand upon the Brain! Guy Maddin 2006 Canada
+441 The Small Back Room Michael Powell... 1949 United Kingdom
+445 The Earrings of Madame de . . . Max Ophuls 1953 France
+446 An Autumn Afternoon Yasujiro Ozu 1962 Japan
+447 Le doulos Jean­Pierre Melville 1962 France
+448 Le deuxieme souffle Jean­Pierre Melville 1966 France
+449 Missing Costa­Gavras 1982 United States
+450 Bottle Rocket Wes Anderson 1996 United States
+452 The Spy Who Came in from the Cold Martin Ritt 1965 United States
+453 Chungking Express Wong Kar­wai 1994 Hong Kong
+454 Europa Lars von Trier 1991 Denmark
+457 Magnificent Obsession Douglas Sirk 1954 United States
+458 El Norte Gregory Nava 1983 United States
+459 The Exterminating Angel Luis Buñuel 1962 Mexico
+460 Simon of the Desert Luis Buñuel 1965 Mexico
+461 Hobson’s Choice David Lean 1954 United Kingdom
+462 The Last Metro François Truffaut 1980 France
+466 In the Realm of the Senses Nagisa Oshima 1976 Japan
+469 The Hit Stephen Frears 1984 United Kingdom
+470 Wise Blood John Huston 1979 United States
+475 The Friends of Eddie Coyle Peter Yates 1973 United States
+476 The Curious Case of Benjamin Button David Fincher 2008 United States
+478 Last Year at Marienbad Alain Resnais 1961 France
+479 My Dinner with Andre Louis Malle 1981 United States
+481 Made in U.S.A Jean­Luc Godard 1966 France
+482 2 or 3 Things I Know About Her Jean­Luc Godard 1967 France
+483 Repulsion Roman Polanski 1965 United Kingdom
+484 Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles Chantal Akerman 1975 Belgium
+485 The Last Days of Disco Whit Stillman 1998 United States
+490 Wings of Desire Wim Wenders 1987 Germany
+491 Z Costa­Gavras 1969 France
+492 A Christmas Tale Arnaud Desplechin 2008 France
+497 Rome Open City Roberto Rossellini 1945 Italy
+498 Paisan Roberto Rossellini 1946 Italy
+499 Germany Year Zero Roberto Rossellini 1948 Germany
+500 Roberto Rossellini’s War Trilogy
+501 Paris, Texas Wim Wenders 1984 Germany
+503 Lola Montes Max Ophuls 1955 France
+505 Make Way for Tomorrow Leo McCarey 1937 United States
+507 Bigger Than Life Nicholas Ray 1956 United States
+512 Vivre sa vie Jean­Luc Godard 1962 France
+516 Stagecoach John Ford 1939 United States
+519 Close­up Abbas Kiarostami 1990 Iran
+521 Mystery Train Jim Jarmusch 1989 United States
+522 Red Desert Michelangelo 1964 Italy
+523 Night Train to Munich Carol Reed 1940 United Kingdom
+524 The Only Son/There Was a Father: Two Films by Yasujiro Ozu
+525 The Only Son Yasujiro Ozu 1936 Japan
+526 There Was a Father Yasujiro Ozu 1942 Japan
+528 3 Silent Classics by Josef von Sternberg Josef von Sternberg United States
+529 Underworld Josef von Sternberg 1927 United States
+530 The Last Command Josef von Sternberg 1928 United States
+531 The Docks of New York Josef von Sternberg 1928 United States
+533 Crumb Terry Zwigoff 1995 United States
+536 The Thin Red Line Terrence Malick 1998 United States
+537 The Magician Ingmar Bergman 1958 Sweden
+538 Paths of Glory Stanley Kubrick 1957 United States
+539 House Nobuhiko Obayashi 1977 Japan
+540 The Darjeeling Limited Wes Anderson 2007 United States
+541 The Night of the Hunter Charles Laughton 1955 United States
+543 Y Modern Times Charlie Chaplin 1936 United States
+544 Y Head Bob Rafelson 1968 United States
+545 Y Easy Rider Dennis Hopper 1969 United States
+546 Y Five Easy Pieces Bob Rafelson 1970 United States
+549 Y The Last Picture Show Peter Bogdanovich 1971 United States
+550 Y The King of Marvin Gardens Bob Rafelson 1972 United States
+552 Y Broadcast News James L. Brooks 1987 United States
+555 Y Sweet Smell of Success Alexander Mackendrick1957 United States
+556 Y Senso Luchino Visconti 1954 Italy
+557 Y The Times of Harvey Milk Robert Epstein 1984 United States
+561 Y Kes Ken Loach 1970 United Kingdom
+562 Y Blow Out Brian De Palma 1981 United States
+563 Y Something Wild Jonathan Demme 1986 United States
+565 Y The Great Dictator Charles Chaplin 1940 United States
+568 Y Kiss Me Deadly Robert Aldrich 1955 United States
+569 Y People on Sunday Robert Siodmak... 1930 Germany
+572 Y Leon Morin, Priest Jean­Pierre Melville 1961 France
+573 Y The Music Room Satyajit Ray 1958 India
+575 Y The Killing Stanley Kubrick 1956 United States
+577 Y Cul­de­sac Roman Polanski 1966 United Kingdom
+578 Y The Complete Jean Vigo France
+579 Y The Phantom Carriage Victor Sjöström 1921 Sweden
+583 Y The Four Feathers Zoltan Korda 1939 United Kingdom
+586 Y Island of Lost Souls Erle C. Kenton 1932 United States
+587 Y Three Colors Krzysztof Kieślowski France
+588 Y Three Colors: Blue Krzysztof Kieślowski 1993 France
+589 Y Three Colors: White Krzysztof Kieślowski 1993 France
+590 Y Three Colors: Red Krzysztof Kieślowski 1994 France
+591 Y 12 Angry Men Sidney Lumet 1957 United States
+592 Y Design for Living Ernst Lubitsch 1933 United States
+593 Y Belle de jour Luis Buñuel 1967 France
+600 Y Anatomy of a Murder Otto Preminger 1959 United States
+602 Y The War Room Chris Hegedus... 1993 United States
+608 Y Harold and Maude Hal Ashby 1971 United States
+611 Y Being John Malkovich Spike Jonze 1999 United States
+615 Y The Gold Rush Charles Chaplin United States
+626 Y Les visiteurs du soir Marcel Carne 1942 France
+630 Y Rosemary’s Baby Roman Polanski 1968 United States
+635 Y Weekend Jean­Luc Godard 1967 France
+636 Y Heaven’s Gate Michael Cimino 1980 United States
+637 Y Purple Noon Rene Clement 1960 France
+638 Y Following Christopher Nolan 1999 United Kingdom
+640 Y Koyaanisqatsi Godfrey Reggio 1983 United States
+641 Y Powaqqatsi Godfrey Reggio 1988 United States
+643 Y The Man Who Knew Too Much Alfred Hitchcock 1934 United Kingdom
+647 Y On the Waterfront Elia Kazan 1954 United States
+649 Y Ministry of Fear Fritz Lang 1944 United States
+650 Y A Man Escaped Robert Bresson 1956 France
+651 Y Badlands Terrence Malick 1973 United States
+652 Y Monsieur Verdoux Charles Chaplin 1947 United States
+▢ 653 Gate of Hell Teinosuke Kinugasa 1953 Japan
+654 Y Repo Man Alex Cox 1984 United States
+▢ 655 Pierre Etaix Pierre Etaix France
+▢ 656 Jubal Delmer Daves 1956 United States
+657 Y 3:10 to Yuma Delmer Daves 1957 United States
+▢ 658 Medium Cool Haskell Wexler 1969 United States
+▢ 659 Life Is Sweet Mike Leigh 1990 United Kingdom
+660 Y Things to Come William Cameron 1936 United Kingdom
+▢ 661 Marketa Lazarova František Vlacil 1967 Czechoslovakia
+662 Y Safety Last! Fred Newmeyer... 1923 United States
+▢ 663 Shoah Claude Lanzmann 1985 France
+▢ 664 The Life of Oharu Kenji Mizoguchi 1952 Japan
+▢ 665 Babette’s Feast Gabriel Axel 1987 Denmark
+▢ 666 The Devil’s Backbone Guillermo del Toro 2001 Spain
+667 Y Seconds John Frankenheimer 1966 United States
+▢ 668 The Big City Satyajit Ray 1963 India
+▢ 669 Charulata Satyajit Ray 1964 India
+670 Y To Be or Not to Be Ernst Lubitsch 1942 United States
+▢ 671 La Cage aux Folles Edouard Molinaro 1978 France
+▢ 672 3 Films by Roberto Rossellini Starring Ingrid Bergman
+▢ 673 Stromboli Roberto Rossellini 1950 Italy
+▢ 674 Europe ’51 Roberto Rossellini 1952 Italy
+675 Y Journey to Italy Roberto Rossellini 1954 Italy
+▢ 351 The Spirit of the Beehive Víctor Erice 1973 Spain
+▢ 352 Jigoku Nobuo Nakagawa 1960 Japan
+▢ 353 Sólo con tu pareja Alfonso Cuarón 1991 Mexico
+▢ 354 Clean, Shaven Lodge Kerrigan 1994 United States
+▢ 355 Hands over the City Francesco Rosi 1963 Italy
+▢ 356 Sweetie Jane Campion 1989 New Zealand
+▢ 357 The Fallen Idol Carol Reed 1948 United Kingdom
+▢ 358 Pandora’s Box Georg Wilhelm Pabst 1929 Germany
+▢ 359 The Double Life of Veronique Krzysztof Kieślowski 1991 France
+▢ 360 Symbiopsychotaxiplasm William Greaves 1968 United States
+▢ 361 The Beales of Grey Gardens Albert Maysles... 2006 United States
+▢ 362 Border Radio Allison Anders... 1987 United States
+▢ 363 Mouchette Robert Bresson 1967 France
+▢ 364 Monsters and Madmen United States
+▢ 365 First Man into Space Robert Day 1959 United States
+▢ 366 The Atomic Submarine Spencer G. Bennet 1959 United States
+▢ 367 The Haunted Strangler Robert Day 1958 United States
+▢ 368 Corridors of Blood Robert Day 1959 United States
+▢ 369 Paul Robeson:
+▢ 370 The Emperor Jones Dudley Murphy 1933 United States
+▢ 371 Body and Soul Oscar Micheaux 1925 United States
+▢ 372 Sanders of the River Zoltan Korda 1935 United Kingdom
+▢ 373 The Proud Valley Pen Tennyson 1940 United Kingdom
+▢ 374 Bicycle Thieves Vittorio De Sica 1948 Italy
+▢ 375 Green for Danger Sidney Gilliat 1946 United Kingdom
+▢ 376 49th Parallel Michael Powell 1941 United Kingdom
+▢ 377 When a Woman Ascends the Stairs Mikio Naruse 1960 Japan
+▢ 378 Fires on the Plain Kon Ichikawa 1959 Japan
+▢ 379 The Burmese Harp Kon Ichikawa 1956 Japan
+▢ 380 The Naked City Jules Dassin 1948 United States
+▢ 381 La haine Mathieu Kassovitz 1995 France
+▢ 382 Overlord Stuart Cooper 1975 United Kingdom
+▢ 383 Brute Force Jules Dassin 1947 United States
+▢ 384 Vengeance Is Mine Shohei Imamura 1979 Japan
+▢ 385 Army of Shadows Jean­Pierre Melville 1969 France
+▢ 386 Sansho the Bailiff Kenji Mizoguchi 1954 Japan
+▢ 387 La Jetee/Sans Soleil Chris Marker France
+▢ 388 The Two of Us Claude Berri 1967 France
+▢ 389 WR: Mysteries of the Organism Dušan Makavejev 1971 Yugoslavia
+▢ 390 Sweet Movie Dušan Makavejev 1974 France
+▢ 391 If.... Lindsay Anderson 1968 United Kingdom
+▢ 392 Three Films by Hiroshi Teshigahara Hiroshi Teshigahara Japan
+▢ 393 Pitfall Hiroshi Teshigahara 1962 Japan
+▢ 394 Woman in the Dunes Hiroshi Teshigahara 1964 Japan
+▢ 395 The Face of Another Hiroshi Teshigahara 1966 Japan
+▢ 396 Ace in the Hole Billy Wilder 1951 United States
+▢ 397 Ivan’s Childhood Andrei Tarkovsky 1962 Soviet Union
+▢ 398 Les enfants terribles Jean­Pierre Melville 1950 France
+▢ 399 House of Games David Mamet 1987 United States
+▢ 400 Stranger Than Paradise Jim Jarmusch 1984 United States
+▢ 401 Night on Earth Jim Jarmusch 1991 United States
+▢ 402 The Milky Way Luis Buñuel 1969 France
+▢ 403 Cría cuervos . . . Carlos Saura 1976 Spain
+▢ 404 Robinson Crusoe on Mars Byron Haskin 1964 United States
+▢ 405 The Threepenny Opera Georg Wilhelm Pabst 1931 Germany
+▢ 406 Martha Graham: Dance on Film Nathan Kroll 1959 United States
+▢ 407 Mala Noche Gus Van Sant 1985 United States
+▢ 408 Breathless Jean­Luc Godard 1960 France
+▢ 409 Days of Heaven Terrence Malick 1978 United States
+▢ 410 Under the Volcano John Huston 1984 United States
+▢ 411 Berlin Alexanderplatz Rainer Werner 1980 Germany
+▢ 412 Sawdust and Tinsel Ingmar Bergman 1953 Sweden
+▢ 413 Drunken Angel Akira Kurosawa 1948 Japan
+▢ 414 Two­Lane Blacktop Monte Hellman 1971 United States
+▢ 415 The Naked Prey Cornel Wilde 1966 United States
+▢ 416 Miss Julie Alf Sjöberg 1951 Sweden
+▢ 417 This Sporting Life Lindsay Anderson 1963 United Kingdom
+▢ 418 4 by Agnes Varda Agnes Varda France
+▢ 419 La Pointe Courte Agnes Varda 1956 France
+▢ 420 Le bonheur Agnes Varda 1965 France
+▢ 421 Pierrot le fou Jean­Luc Godard 1965 France
+▢ 422 The Last Emperor Bernardo Bertolucci 1987 China
+▢ 423 Walker Alex Cox 1987 United States
+▢ 424 Mafioso Alberto Lattuada 1962 Italy
+▢ 425 Antonio Gaudí Hiroshi Teshigahara 1984 Japan
+▢ 426 The Ice Storm Ang Lee 1997 United States
+▢ 427 Death of a Cyclist Juan Antonio Bardem 1955 Spain
+▢ 428 Blast of Silence Allen Baron 1961 United States
+▢ 429 The Lovers Louis Malle 1958 France
+▢ 430 The Fire Within Louis Malle 1963 France
+▢ 431 The Thief of Bagdad Ludwig Berger... 1940 United Kingdom
+▢ 432 Mishima: A Life in Four Chapters Paul Schrader 1985 United States
+▢ 433 Patriotism Yukio Mishima... 1966 Japan
+▢ 434 Classe tous risques Claude Sautet 1960 France
+▢ 435 The Furies Anthony Mann 1950 United States
+▢ 436 Before the Rain Milcho Manchevski 1994 Macedonia
+▢ 437 Vampyr Carl Th. Dreyer 1932 Denmark
+▢ 438 Mon oncle Antoine Claude Jutra 1971 Canada
+▢ 439 Trafic Jacques Tati 1971 France
+▢ 440 Brand upon the Brain! Guy Maddin 2006 Canada
+▢ 441 The Small Back Room Michael Powell... 1949 United Kingdom
+▢ 442 Twenty­Four Eyes Keisuke Kinoshita 1954 Japan
+▢ 443 La ronde Max Ophuls 1950 France
+▢ 444 Le plaisir Max Ophuls 1952 France
+▢ 445 The Earrings of Madame de . . . Max Ophuls 1953 France
+▢ 446 An Autumn Afternoon Yasujiro Ozu 1962 Japan
+▢ 447 Le doulos Jean­Pierre Melville 1962 France
+▢ 448 Le deuxieme souffle Jean­Pierre Melville 1966 France
+▢ 449 Missing Costa­Gavras 1982 United States
+▢ 450 Bottle Rocket Wes Anderson 1996 United States
+▢ 451 Fanfan la Tulipe Christian­Jaque 1952 France
+▢ 452 The Spy Who Came in from the Cold Martin Ritt 1965 United States
+▢ 453 Chungking Express Wong Kar­wai 1994 Hong Kong
+▢ 454 Europa Lars von Trier 1991 Denmark
+▢ 455 White Dog Samuel Fuller 1982 United States
+▢ 456 The Taking of Power by Louis XIV Roberto Rossellini 1966 Italy
+▢ 457 Magnificent Obsession Douglas Sirk 1954 United States
+▢ 458 El Norte Gregory Nava 1983 United States
+▢ 459 The Exterminating Angel Luis Buñuel 1962 Mexico
+▢ 460 Simon of the Desert Luis Buñuel 1965 Mexico
+▢ 461 Hobson’s Choice David Lean 1954 United Kingdom
+▢ 462 The Last Metro François Truffaut 1980 France
+▢ 463 Il Generale Della Rovere Roberto Rossellini 1959 Italy
+▢ 464 Danton Andrzej Wajda 1983 France
+▢ 465 Dodes’ka­den Akira Kurosawa 1970 Japan
+▢ 466 In the Realm of the Senses Nagisa Oshima 1976 Japan
+▢ 467 Empire of Passion Nagisa Oshima 1978 Japan
+▢ 468 Science Is Fiction: 23 Films by Jean Painleve
+▢ 469 The Hit Stephen Frears 1984 United Kingdom
+▢ 470 Wise Blood John Huston 1979 United States
+▢ 471 Pigs, Pimps & Prostitutes: Shohei Imamura Japan
+▢ 472 Pigs and Battleships Shohei Imamura 1962 Japan
+▢ 473 The Insect Woman Shohei Imamura 1963 Japan
+▢ 474 Intentions of Murder Shohei Imamura 1964 Japan
+▢ 475 The Friends of Eddie Coyle Peter Yates 1973 United States
+▢ 476 The Curious Case of Benjamin Button David Fincher 2008 United States
+▢ 477 Bergman Island Marie Nyreröd 2006 Sweden
+▢ 478 Last Year at Marienbad Alain Resnais 1961 France
+▢ 479 My Dinner with Andre Louis Malle 1981 United States
+▢ 480 The Human Condition Masaki Kobayashi 1959 Japan
+▢ 481 Made in U.S.A Jean­Luc Godard 1966 France
+▢ 482 2 or 3 Things I Know About Her Jean­Luc Godard 1967 France
+▢ 483 Repulsion Roman Polanski 1965 United Kingdom
+▢ 484 Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles Chantal Akerman 1975 Belgium
+▢ 485 The Last Days of Disco Whit Stillman 1998 United States
+▢ 486 Homicide David Mamet 1991 United States
+▢ 487 That Hamilton Woman Alexander Korda 1941 United Kingdom
+▢ 488 Howards End James Ivory 1992 United Kingdom
+▢ 489 Monsoon Wedding Mira Nair 2001 India
+▢ 490 Wings of Desire Wim Wenders 1987 Germany
+▢ 491 Z Costa­Gavras 1969 France
+▢ 492 A Christmas Tale Arnaud Desplechin 2008 France
+▢ 493 Gomorrah Matteo Garrone 2008 Italy
+▢ 494 Downhill Racer Michael Ritchie 1969 United States
+▢ 495 The Golden Age of Television United States
+▢ 496 Che Steven Soderbergh 2008 United States
+▢ 497 Rome Open City Roberto Rossellini 1945 Italy
+▢ 498 Paisan Roberto Rossellini 1946 Italy
+▢ 499 Germany Year Zero Roberto Rossellini 1948 Germany
+▢ 500 Roberto Rossellini’s War Trilogy
+▢ 501 Paris, Texas Wim Wenders 1984 Germany
+▢ 502 Revanche Götz Spielmann 2008 Austria
+▢ 503 Lola Montes Max Ophuls 1955 France
+▢ 504 Hunger Steve McQueen 2008 United Kingdom
+▢ 505 Make Way for Tomorrow Leo McCarey 1937 United States
+▢ 506 Dillinger Is Dead Marco Ferreri 1969 Italy
+▢ 507 Bigger Than Life Nicholas Ray 1956 United States
+▢ 508 Letters from Fontainhas:
+▢ 509 Ossos Pedro Costa 1997 Portugal
+▢ 510 In Vanda’s Room Pedro Costa 2000 Portugal
+▢ 511 Colossal Youth Pedro Costa 2006 Portugal
+▢ 512 Vivre sa vie Jean­Luc Godard 1962 France
+▢ 513 Summer Hours Olivier Assayas 2008 France
+▢ 514 Ride with the Devil Ang Lee 1999 United States
+▢ 515 The Fugitive Kind Sidney Lumet 1960 United States
+▢ 516 Stagecoach John Ford 1939 United States
+▢ 517 By Brakhage: An Anthology, Volume Two
+▢ 518 By Brakhage: An Anthology, Volumes One and Two
+▢ 519 Close­up Abbas Kiarostami 1990 Iran
+▢ 520 Everlasting Moments Jan Troell 2008 Sweden
+▢ 521 Mystery Train Jim Jarmusch 1989 United States
+▢ 522 Red Desert Michelangelo 1964 Italy
+▢ 523 Night Train to Munich Carol Reed 1940 United Kingdom
+▢ 524 The Only Son/There Was a Father: Two Films by Yasujiro Ozu
+▢ 525 The Only Son Yasujiro Ozu 1936 Japan
+▢ 526 There Was a Father Yasujiro Ozu 1942 Japan
+▢ 527 The Secret of the Grain Abdellatif Kechiche 2007 France
+▢ 528 3 Silent Classics by Josef von Sternberg Josef von Sternberg United States
+▢ 529 Underworld Josef von Sternberg 1927 United States
+▢ 530 The Last Command Josef von Sternberg 1928 United States
+▢ 531 The Docks of New York Josef von Sternberg 1928 United States
+▢ 532 Louie Bluie Terry Zwigoff 1985 United States
+▢ 533 Crumb Terry Zwigoff 1995 United States
+▢ 534 L’enfance nue Maurice Pialat 1968 France
+▢ 535 Merry Christmas Mr. Lawrence Nagisa Oshima 1983 Japan
+▢ 536 The Thin Red Line Terrence Malick 1998 United States
+▢ 537 The Magician Ingmar Bergman 1958 Sweden
+▢ 538 Paths of Glory Stanley Kubrick 1957 United States
+▢ 539 House Nobuhiko Obayashi 1977 Japan
+▢ 540 The Darjeeling Limited Wes Anderson 2007 United States
+▢ 541 The Night of the Hunter Charles Laughton 1955 United States
+▢ 542 Antichrist Lars von Trier 2009 Denmark
+▢ 543 Modern Times Charlie Chaplin 1936 United States
+▢ 544 Head Bob Rafelson 1968 United States
+▢ 545 Easy Rider Dennis Hopper 1969 United States
+▢ 546 Five Easy Pieces Bob Rafelson 1970 United States
+▢ 547 Drive, He Said Jack Nicholson 1970 United States
+▢ 548 A Safe Place Henry Jaglom 1971 United States
+▢ 549 The Last Picture Show Peter Bogdanovich 1971 United States
+▢ 550 The King of Marvin Gardens Bob Rafelson 1972 United States
+▢ 551 Cronos Guillermo del Toro 1993 Mexico
+▢ 552 Broadcast News James L. Brooks 1987 United States
+▢ 553 Fish Tank Andrea Arnold 2009 United Kingdom
+▢ 554 Still Walking Hirokazu Kore­eda 2008 Japan
+▢ 555 Sweet Smell of Success Alexander Mackendrick1957 United States
+▢ 556 Senso Luchino Visconti 1954 Italy
+▢ 557 The Times of Harvey Milk Robert Epstein 1984 United States
+▢ 558 Topsy­Turvy Mike Leigh 1999 United Kingdom
+▢ 559 The Mikado Victor Schertzinger 1939 United States
+▢ 560 White Material Claire Denis 2009 France
+▢ 561 Kes Ken Loach 1970 United Kingdom
+▢ 562 Blow Out Brian De Palma 1981 United States
+▢ 563 Something Wild Jonathan Demme 1986 United States
+▢ 564 Pale Flower Masahiro Shinoda 1964 Japan
+▢ 565 The Great Dictator Charles Chaplin 1940 United States
+▢ 566 Insignificance Nicolas Roeg 1985 United Kingdom
+▢ 567 The Makioka Sisters Kon Ichikawa 1983 Japan
+▢ 568 Kiss Me Deadly Robert Aldrich 1955 United States
+▢ 569 People on Sunday Robert Siodmak... 1930 Germany
+▢ 570 Zazie dans le metro Louis Malle 1960 France
+▢ 571 Black Moon Louis Malle 1975 France
+▢ 572 Leon Morin, Priest Jean­Pierre Melville 1961 France
+▢ 573 The Music Room Satyajit Ray 1958 India
+▢ 574 Life During Wartime Todd Solondz 2010 United States
+▢ 575 The Killing Stanley Kubrick 1956 United States
+▢ 576 Secret Sunshine Lee Chang­dong 2007 South Korea
+▢ 577 Cul­de­sac Roman Polanski 1966 United Kingdom
+▢ 578 The Complete Jean Vigo France
+▢ 579 The Phantom Carriage Victor Sjöström 1921 Sweden
+▢ 580 Le beau Serge Claude Chabrol 1958 France
+▢ 581 Les cousins Claude Chabrol 1959 France
+▢ 582 Carlos Olivier Assayas 2010 France
+▢ 583 The Four Feathers Zoltan Korda 1939 United Kingdom
+▢ 584 Kuroneko Kaneto Shindo 1968 Japan
+▢ 585 Identification of a Woman Michelangelo 1982 Italy
+▢ 586 Island of Lost Souls Erle C. Kenton 1932 United States
+▢ 587 Three Colors Krzysztof Kieślowski France
+▢ 588 Three Colors: Blue Krzysztof Kieślowski 1993 France
+▢ 589 Three Colors: White Krzysztof Kieślowski 1993 France
+▢ 590 Three Colors: Red Krzysztof Kieślowski 1994 France
+▢ 591 12 Angry Men Sidney Lumet 1957 United States
+▢ 592 Design for Living Ernst Lubitsch 1933 United States
+▢ 593 Belle de jour Luis Buñuel 1967 France
+▢ 594 Godzilla Ishiro Honda 1954 Japan
+▢ 595 The Moment of Truth Francesco Rosi 1965 Italy
+▢ 596 Three Outlaw Samurai Hideo Gosha 1964 Japan
+▢ 597 Tiny Furniture Lena Dunham 2010 United States
+▢ 598 World on a Wire Rainer Werner 1973 Germany
+▢ 599 Vanya on 42nd Street Louis Malle 1994 United States
+▢ 600 Anatomy of a Murder Otto Preminger 1959 United States
+▢ 601 Letter Never Sent Mikhail Kalatozov 1959 Soviet Union
+▢ 602 The War Room Chris Hegedus... 1993 United States
+▢ 603 David Lean Directs Noël Coward United Kingdom
+▢ 604 In Which We Serve David Lean... 1942 United Kingdom
+▢ 605 This Happy Breed David Lean 1944 United Kingdom
+▢ 606 Blithe Spirit David Lean 1945 United Kingdom
+▢ 607 A Hollis Frampton Odyssey Hollis Frampton United States
+▢ 608 Harold and Maude Hal Ashby 1971 United States
+▢ 609 ¡Alambrista! Robert M. Young 1977 United States
+▢ 610 The Organizer Mario Monicelli 1963 Italy
+▢ 611 Being John Malkovich Spike Jonze 1999 United States
+▢ 612 Certified Copy Abbas Kiarostami 2010 Italy
+▢ 613 Summer Interlude Ingmar Bergman 1951 Sweden
+▢ 614 Summer with Monika Ingmar Bergman 1953 Sweden
+▢ 615 The Gold Rush Charles Chaplin United States
+▢ 616 Shallow Grave Danny Boyle 1994 United Kingdom
+▢ 617 And Everything Is Going Fine Steven Soderbergh 2010 United States
+▢ 618 Gray’s Anatomy Steven Soderbergh 1997 United States
+▢ 619 Le Havre Aki Kaurismaki 2011 Finland
+▢ 620 La promesse Luc Dardenne... 1996 Belgium
+▢ 621 Rosetta Luc Dardenne... 1999 Belgium
+▢ 622 Weekend Andrew Haigh 2011 United Kingdom
+▢ 623 Lonesome Paul Fejos 1928 United States
+▢ 624 Quadrophenia Franc Roddam 1979 United Kingdom
+▢ 625 Eating Raoul Paul Bartel 1982 United States
+▢ 626 Les visiteurs du soir Marcel Carne 1942 France
+▢ 627 The Game David Fincher 1997 United States
+▢ 628 The Forgiveness of Blood Joshua Marston 2011 United States
+▢ 629 Sunday Bloody Sunday John Schlesinger 1971 United Kingdom
+▢ 630 Rosemary’s Baby Roman Polanski 1968 United States
+▢ 631 Trilogy of Life Pier Paolo Pasolini Italy
+▢ 632 The Decameron Pier Paolo Pasolini 1971 Italy
+▢ 633 The Canterbury Tales Pier Paolo Pasolini 1972 Italy
+▢ 634 Arabian Nights Pier Paolo Pasolini 1974 Italy
+▢ 635 Weekend Jean­Luc Godard 1967 France
+▢ 636 Heaven’s Gate Michael Cimino 1980 United States
+▢ 637 Purple Noon Rene Clement 1960 France
+▢ 638 Following Christopher Nolan 1999 United Kingdom
+▢ 639 The Qatsi Trilogy Godfrey Reggio United States
+▢ 640 Koyaanisqatsi Godfrey Reggio 1983 United States
+▢ 641 Powaqqatsi Godfrey Reggio 1988 United States
+▢ 642 Naqoyqatsi Godfrey Reggio 2002 United States
+▢ 643 The Man Who Knew Too Much Alfred Hitchcock 1934 United Kingdom
+▢ 644 Pina Wim Wenders 2011 Germany
+▢ 645 The Ballad of Narayama Keisuke Kinoshita 1958 Japan
+▢ 646 The Kid with a Bike Jean­Pierre Dardenne... 2011 Belgium
+▢ 647 On the Waterfront Elia Kazan 1954 United States
+▢ 648 Chronicle of a Summer Jean Rouch... 1961 France
+▢ 649 Ministry of Fear Fritz Lang 1944 United States
+
+7/11/13 Films - List - The Criterion 

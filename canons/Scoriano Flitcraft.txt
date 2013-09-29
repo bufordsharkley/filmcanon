@@ -17,7 +17,7 @@ Processed: 22 09 2013
 ~ N Berlin Alexanderplatz
 ~ Y A Man Escaped
 ~ N Breaker Morant
-~ Y Il Conformista
+~ Y The Conformist
 ~ Y Battle of Algiers
 ~ Y Once Upon a Time in the West
 ~ Y Night and Fog
@@ -32,7 +32,7 @@ Processed: 22 09 2013
 ~ Y Ashes and Diamonds
 ~ Y Annie Hall
 ~ Y City of God
-~ Y M   
+~ Y M
 ~ Y Unforgiven
 ~ Y High Noon
 ~ Y Pulp Fiction
@@ -54,7 +54,7 @@ Processed: 22 09 2013
 ~ Y Mean Streets
 ~ Y Trois Colours Trilogy
 ~ Y Cool Hand Luke
-~ Y All the President’s Men
+~ Y All the President's Men
 ~ Y 8 1/2
 ~ Y Jules et Jim
 ~ Y Grand Illusion
@@ -101,4 +101,3 @@ Processed: 22 09 2013
 ~ Y The Unbearable Lightness of Being
 ~ Y Fires on the Plains
 ~ Y On the Waterfront
-Honorable Mentions: Six Moral Tales, Miller’s Crossing, Breathless, Diner, Umberto D., The Secret in their Eyes, The Friends of Eddie Coyle, Touchez Pas Au Grisbi, Matewan, La Promesse, The Wrestler, Straw Dogs, Brute Force, Elmer Gantry, Big Night, 4 months 3 weeks and 2 days, Bicycle Thieves, Missing, Black Hawk Down, Blind Chance, Flags of Our Fathers/Letters From Iwo Jima, Broadway Danny Rose, Coup de grâce, The Cranes are Flying, Do the Right Thing, Ikiru, Kanal, Killer of Sheep, Le notte bianche, Elephant, The Apu Trilogy, A Streetcar Named Desire, Young Törless, Z, The Merchant of the Four Seasons, Pride of the Yankees

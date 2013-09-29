@@ -1,60 +1,60 @@
 They Shoot Pictures, Don't They? "Highly Recommended" list
 
 
-~ Y Adam's Rib George Cukor 1949
-~ Y The Age of Innocence Martin Scorsese 1993
-~ Y Alexander Nevsky Sergei Eisenstein 1938
-~ Y All About My Mother Pedro Almodóvar 1999
-~ Y Almost Famous Cameron Crowe 2000
-~ N America, America Elia Kazan 1963
-~ Y Angel Face Otto Preminger 1953
-~ Y Angels with Dirty Faces Michael Curtiz 1938
-~ Y Annie Hall Woody Allen 1977
-~ Y Aparajito Satyajit Ray 1956
-~ N The Art of Vision Stan Brakhage 1964
-~ Y The Asphalt Jungle John Huston 1950
-~ Y Atlantic City Louis Malle 1980
-~ Y Au Hasard, Balthazar Robert Bresson 1966
-~ Y Au Revoir, Les Enfants Louis Malle 1987
-~ Y An Autumn Afternoon Yasujiro Ozu 1962
-~ N Autumn Leaves Robert Aldrich 1956
-~ N An Autumn Tale Eric Rohmer 1998
-~ Y Baby Doll Elia Kazan 1956
-~ Y The Bad and the Beautiful Vincente Minnelli 1952
-~ Y Band of Outsiders Jean-Luc Godard 1964
-~ Y Berlin Alexanderplatz Rainer Werner Fassbinder 1980
-~  Beyond the Forest King Vidor 1949
-~  Bhowani Junction George Cukor 1956
-~  Bicycle Thieves Vittorio De Sica 1948
-~  The Big Knife Robert Aldrich 1955
-~  The Birds Alfred Hitchcock 1963
-~  A Blonde in Love Milos Forman 1965
-~  Blow Out Brian De Palma 1981
-~  Body and Soul Robert Rossen 1947
-~  Bonjour Tristesse Otto Preminger 1958
-~  Bonnie and Clyde Arthur Penn 1967
-~  Born to Kill Robert Wise 1947
-~  Bound Andy & Larry Wachowski 1996
-~  Bowling for Columbine Michael Moore 2002
-~  Bringing Up Baby Howard Hawks 1938
-~  Broken Blossoms D.W. Griffith 1919
-~  Bubble Steven Soderbergh 2006
-~  Bullets Over Broadway Woody Allen 1994
-~  California Split Robert Altman 1974
-~  Call Northside 777 Henry Hathaway 1948
-~  The Cameraman Edward Sedgwick & Buster Keaton (Uncredited) 1928
-~  The Candidate Michael Ritchie 1972
-~  Cape Fear J. Lee Thompson 1961
-~  Cape Fear Martin Scorsese 1991
-~  Casablanca Michael Curtiz 1942
-~  Casino Martin Scorsese 1995
-~  Casque d'or Jacques Becker 1952
-~  Caught Max Ophuls 1949
-~  Ceiling Zero Howard Hawks 1935
-~  Charulata Satyajit Ray 1964
-~  Chloe in the Afternoon Eric Rohmer 1972
-~  Christmas in July Preston Sturges 1940
-~  A City of Sadness Hou Hsiao-Hsien 1989
+~ Y Adam's Rib_ George Cukor 1949
+~ Y The Age of Innocence_ Martin Scorsese 1993
+~ Y Alexander Nevsky_ Sergei Eisenstein 1938
+~ Y All About My Mother_ Pedro Almodóvar 1999
+~ Y Almost Famous_ Cameron Crowe 2000
+~ N America, America_ Elia Kazan 1963
+~ Y Angel Face_ Otto Preminger 1953
+~ Y Angels with Dirty Faces_ Michael Curtiz 1938
+~ Y Annie Hall_ Woody Allen 1977
+~ Y Aparajito_ Satyajit Ray 1956
+~ N The Art of Vision_ Stan Brakhage 1964
+~ Y The Asphalt Jungle_ John Huston 1950
+~ Y Atlantic City_ Louis Malle 1980
+~ Y Au Hasard Balthazar_ Robert Bresson 1966
+~ Y Au Revoir Les Enfants_ Louis Malle 1987
+~ Y An Autumn Afternoon_ Yasujiro Ozu 1962
+~ N Autumn Leaves_ Robert Aldrich 1956
+~ N An Autumn Tale_ Eric Rohmer 1998
+~ Y Baby Doll_ Elia Kazan 1956
+~ Y The Bad and the Beautiful_ Vincente Minnelli 1952
+~ Y Band of Outsiders_ Jean-Luc Godard 1964
+~ Y Berlin Alexanderplatz_ Rainer Werner Fassbinder 1980
+~ N Beyond the Forest_ King Vidor 1949
+~ N Bhowani Junction_ George Cukor 1956
+~ Y Bicycle Thieves_ Vittorio De Sica 1948
+~ Y The Big Knife_ Robert Aldrich 1955
+~ Y The Birds_ Alfred Hitchcock 1963
+~ Y A Blonde in Love_ Milos Forman 1965
+~ Y Blow Out_ Brian De Palma 1981
+~ Y Body and Soul_ Robert Rossen 1947
+~ N Bonjour Tristesse_ Otto Preminger 1958
+~ Y Bonnie and Clyde_ Arthur Penn 1967
+~ Y Born to Kill_ Robert Wise 1947
+~ N Bound_ Andy & Larry Wachowski 1996
+~ Y Bowling for Columbine_ Michael Moore 2002
+~ Y Bringing Up Baby_ Howard Hawks 1938
+~ Y Broken Blossoms_ D.W. Griffith 1919
+~ Y Bubble_ Steven Soderbergh 2006
+~ Y Bullets Over Broadway_ Woody Allen 1994
+~ Y California Split_ Robert Altman 1974
+~ Y Call Northside 777_ Henry Hathaway 1948
+~ Y The Cameraman_ Edward Sedgwick & Buster Keaton (Uncredited) 1928
+~ N The Candidate_ Michael Ritchie 1972
+~ Y Cape Fear (Thompson)_ J. Lee Thompson 1961
+~ N Cape Fear (Scorsese)_ Martin Scorsese 1991
+~ Y Casablanca_ Michael Curtiz 1942
+~ Y Casino_ Martin Scorsese 1995
+~ Y Casque d'or_ Jacques Becker 1952
+~ Y Caught_ Max Ophuls 1949
+~ N Ceiling Zero Howard Hawks 1935
+~ N Charulata Satyajit Ray 1964
+~ Y Chloe in the Afternoon Eric Rohmer 1972
+~ Y Christmas in July Preston Sturges 1940
+~ N A City of Sadness Hou Hsiao-Hsien 1989
 ~  Clash by Night Fritz Lang 1952
 ~  Close-Up Abbas Kiarostami 1989
 ~  The Color Purple Steven Spielberg 1985
@@ -71,11 +71,12 @@ They Shoot Pictures, Don't They? "Highly Recommended" list
 ~  Design for Living_ Ernst Lubitsch 1933
 ~  Destry Rides Again_ George Marshall 1939
 ~  Detective Story_ William Wyler 1951
+~ Y Le Deuxieme Souffle_ Jean-Pierre Melville 1966
 ~  Devil in a Blue Dress_ Carl Franklin 1995
 ~  Diary of a Country Priest_ Robert Bresson 1950
 ~  The Discreet Charm of the Bourgeoisie Luis Buñuel 1972
 ~  Distant Voices, Still Lives Terence Davies 1988
-~  D.O.A. Rudolph Maté 1949
+~  D.O.A. Rudolph Mate 1949
 ~  Dodsworth William Wyler 1936
 ~  Dog Day Afternoon Sidney Lumet 1975
 ~  Do the Right Thing Spike Lee 1989
@@ -92,7 +93,7 @@ They Shoot Pictures, Don't They? "Highly Recommended" list
 ~  Election Alexander Payne 1999
 ~  Elephant Gus Van Sant 2003
 ~  Elevator to the Gallows Louis Malle 1957
-~  Exotica Atom Egoyan 1994
+~ N Exotica Atom Egoyan 1994
 ~  Europa '51 Roberto Rossellini 1951
 ~  Fahrenheit 9/11 Michael Moore 2004
 ~  Fail-Safe Sidney Lumet 1964
@@ -140,7 +141,7 @@ They Shoot Pictures, Don't They? "Highly Recommended" list
 ~  Home from the Hill Vincente Minnelli 1960
 ~  Homicide David Mamet 1991
 ~  Horse Feathers Norman Z. McLeod 1932
-~  Hotel du Nord Marcel Carné 1938
+~  Hotel du Nord Marcel Carne 1938
 ~  The House by the River Fritz Lang 1950
 ~  House of Bamboo Sam Fuller 1955
 ~  The House of Mirth Terence Davies 2000
@@ -188,44 +189,44 @@ They Shoot Pictures, Don't They? "Highly Recommended" list
 ~ Y Late Spring_ Yasujiro Ozu 1949
 ~ N The Lawless_ Joseph Losey 1949
 ~ Y Le Boucher_ Claude Chabrol 1970
-~ Y Le Jour se leve_ Marcel Carné 1939
-~ Y Le Million_ René Clair 1931
-~ N L'Enfer Claude Chabrol 1993
-~  Le Samourai Jean-Pierre Melville 1967
-~  Les Diaboliques Henri-Georges Clouzot 1955
-~  Les Enfants du Paradis Marcel Carné 1945
-~  Les Vampires Louis Feuillade 1915
-~  A Letter to Three Wives Joseph L. Mankiewicz 1949
-~  Liebelei Ophuls, Max 1932
-~  The Life of Oharu Kenji Mizoguchi 1952
-~  Lilith Robert Rossen 1964
-~  The Limey Steven Soderbergh 1999
-~  The Long Day Closes Terence Davies 1992
-~  The Long Voyage Home John Ford 1940
-~  Lost in Translation Sofia Coppola 2003
-~  Love Affair Leo McCarey 1939
-~  Love Me Tonight Rouben Mamoulian 1932
-~  Love Streams John Cassavetes 1984
-~  The Lusty Men Nicholas Ray 1952
+~ Y Le Jour se leve_ Marcel Carne 1939
+~ Y Le Million_ Rene Clair 1931
+~ N L'Enfer_ Claude Chabrol 1993
+~  Le Samourai_ Jean-Pierre Melville 1967
+~  Les Diaboliques_ Henri-Georges Clouzot 1955
+~  Les Enfants du Paradis_ Marcel Carne 1945
+~  Les Vampires_ Louis Feuillade 1915
+~  A Letter to Three Wives_ Joseph L. Mankiewicz 1949
+~  Liebelei_ Ophuls, Max 1932
+~  The Life of Oharu_ Kenji Mizoguchi 1952
+~  Lilith_ Robert Rossen 1964
+~  The Limey_ Steven Soderbergh 1999
+~  The Long Day Closes_ Terence Davies 1992
+~  The Long Voyage Home_ John Ford 1940
+~  Lost in Translation_ Sofia Coppola 2003
+~  Love Affair_ Leo McCarey 1939
+~  Love Me Tonight_ Rouben Mamoulian 1932
+~  Love Streams_ John Cassavetes 1984
+~  The Lusty Men_ Nicholas Ray 1952
 ~  Magnolia_ Paul Thomas Anderson 1999
 ~  Make Way for Tomorrow_ Leo McCarey 1937
 ~  The Maltese Falcon_ John Huston 1941
 ~  The Manchurian Candidate_ John Frankenheimer 1962
-~  Man of the West Anthony Mann 1958
-~  The Man Who Shot Liberty Valance John Ford 1962
-~  The Man Who Wasn't There Joel Coen and Ethan Coen 2001
-~  The Man With a Movie Camera Dziga Vertov 1929
-~  The Man Without a Past Aki Kaurismäki 2002
-~  Marnie Alfred Hitchcock 1964
-~  Masculin Feminin Jean-Luc Godard 1966
-~  The Mating Season Mitchell Leisen 1951
-~  Mikey and Nicky Elaine May 1976
-~  A Moment of Innocence Mohsen Makhmalbaf 1995
-~  Monkey Business Norman Z. McLeod 1931
-~  Mon Oncle Jacques Tati 1958
-~  Monsieur Hire Patrice Leconte 1989
-~  Monsieur Verdoux Charles Chaplin 1947
-~  Moolaade Ousmane Sembene 2004
+~  Man of the West_ Anthony Mann 1958
+~  The Man Who Shot_ Liberty Valance John Ford 1962
+~  The Man Who Wasn't There_ Joel Coen and Ethan Coen 2001
+~  The Man With a Movie Camera_ Dziga Vertov 1929
+~  The Man Without a Past_ Aki Kaurismäki 2002
+~  Marnie_ Alfred Hitchcock 1964
+~  Masculin Feminin_ Jean-Luc Godard 1966
+~  The Mating Season_ Mitchell Leisen 1951
+~  Mikey and Nicky_ Elaine May 1976
+~  A Moment of Innocence_ Mohsen Makhmalbaf 1995
+~  Monkey Business_ Norman Z. McLeod 1931
+~  Mon Oncle_ Jacques Tati 1958
+~  Monsieur Hire_ Patrice Leconte 1989
+~  Monsieur Verdoux_ Charles Chaplin 1947
+~  Moolaade_ Ousmane Sembene 2004
 ~ Y Moonrise_ Frank Borzage 1948
 ~ Y Morocco_ Josef von Sternberg 1930
 ~ Y Mouchette_ Robert Bresson 1966
@@ -240,158 +241,157 @@ They Shoot Pictures, Don't They? "Highly Recommended" list
 ~ Y My Name is Julia Ross_ Joseph H. Lewis 1945
 ~ Y Naked_ Mike Leigh 1993
 ~ N The Naked Jungle_ Byron Haskin 1954
-~  Nanook of the North Robert Flaherty 1922
-~  Napoleon Abel Gance 1927
-~  The Navigator Buster Keaton & Donald Crisp 1924
-~  New York, New York Martin Scorsese 1977
-~  Niagara Henry Hathaway 1953
-~  Night and Fog Alain Resnais 1955
-~  Night and the City Jules Dassin 1950
-~  A Night at the Opera Sam Wood 1935
-~  Night of the Demon Jacques Tourneur 1957
-~  Night of the Living Dead George A. Romero 1968
-~  Ninotchka Ernst Lubitsch 1939
-~  No Man of Her Own Mitchell Leisen 1950
-~  Nosferatu F.W. Murnau 1922
-~  Notorious Alfred Hitchcock 1946
-~  Now, Voyager Irving Rapper 1942
-~  The Nutty Professor Jerry Lewis 1963
-~  Odds Against Tomorrow Robert Wise 1959
-~  The Old Dark House James Whale 1932
-~  Oliver Twist David Lean 1948
-~  On Dangerous Ground Nicholas Ray 1951
-~  One Flew Over the Cuckoo's Nest Milos Forman 1975
-~  Only Angels Have Wings Howard Hawks 1939
-~  On the Town Stanley Donen & Gene Kelly 1949
-~  On the Waterfront Elia Kazan 1954
-~  Ordet Carl Dreyer 1955
-~  Orpheus Jean Cocteau 1950
-~  Othello Orson Welles 1952
-~  The Others Alejandro Amenábar 2001
-~  Our Hospitality Buster Keaton & John Blystone 1923
-~  The Outlaw Josey Wales Clint Eastwood 1976
-~  Paisan Roberto Rossellini 1946
-~  Pandora and the Flying Dutchman Albert Lewin 1951
-~  Paris, Texas Wim Wenders 1984
-~  The Passion of Joan of Arc Carl Dreyer 1928
-~  Phantom Lady Robert Siodmak 1944
-~  The Phantom of Liberty Luis Buñuel 1974
-~  The Phenix City Story Phil Karlson 1955
-~  Pickup on South Street Sam Fuller 1953
-~  Playtime Jacques Tati 1967
-~  Plein Soleil René Clément 1960
-~  Point Blank John Boorman 1967
-~  The Prowler Joseph Losey 1951
-~  Punch-Drunk Love Paul Thomas Anderson 2002
-~  Raiders of the Lost Ark Steven Spielberg 1981
-~  Raise the Red Lantern Zhang Yimou 1991
-~  Raising Arizona Joel Coen and Ethan Coen 1987
-~  Ran Akira Kurosawa 1985
-~  Rashomon Akira Kurosawa 1950
-~  The Reckless Moment Max Ophuls 1949
-~  Remember My Name Alan Rudolph 1978
-~  Ride Lonesome Budd Boetticher 1959
-~  Ride with the Devil Ang Lee 1999
-~  Rififi Jules Dassin 1955
-~  The Roaring Twenties Raoul Walsh 1939
-~  Rosemary's Baby Roman Polanski 1968
-~  Rosetta Jean-Pierre Dardenne & Luc Dardenne 1999
-~  The Royal Tenenbaums Wes Anderson 2001
-~  Ruby Gentry King Vidor 1952
-~  Salvador Oliver Stone 1986
-~  Sans Soleil Chris Marker 1983
-~  Saving Private Ryan Steven Spielberg 1998
-~  Schindler's List Steven Spielberg 1993
-~  Second Breath Jean-Pierre Melville 1966
-~  The Set-Up Robert Wise 1949
-~  Seven David Fincher 1995
-~  Seven Chances Buster Keaton 1925
-~  Seven Days in May John Frankenheimer 1964
-~  Seven Men from Now Budd Boetticher 1956
-~  The Seven Samurai Akira Kurosawa 1954
-~  The Seventh Victim Mark Robson 1943
+~  Nanook of the North_ Robert Flaherty 1922
+~  Napoleon_ Abel Gance 1927
+~  The Navigator_ Buster Keaton & Donald Crisp 1924
+~  New York, New York_ Martin Scorsese 1977
+~  Niagara_ Henry Hathaway 1953
+~  Night and Fog_ Alain Resnais 1955
+~  Night and the City_ Jules Dassin 1950
+~  A Night at the Opera_ Sam Wood 1935
+~  Night of the Demon_ Jacques Tourneur 1957
+~  Night of the Living Dead_ George A. Romero 1968
+~  Ninotchka_ Ernst Lubitsch 1939
+~  No Man of Her Own_ Mitchell Leisen 1950
+~  Nosferatu_ F.W. Murnau 1922
+~  Notorious_ Alfred Hitchcock 1946
+~  Now, Voyager_ Irving Rapper 1942
+~  The Nutty Professor_ Jerry Lewis 1963
+~  Odds Against Tomorrow_ Robert Wise 1959
+~  The Old Dark House_ James Whale 1932
+~  Oliver Twist_ David Lean 1948
+~  On Dangerous Ground_ Nicholas Ray 1951
+~  One Flew Over the Cuckoo's Nest_ Milos Forman 1975
+~  Only Angels Have Wings_ Howard Hawks 1939
+~  On the Town_ Stanley Donen & Gene Kelly 1949
+~  On the Waterfront_ Elia Kazan 1954
+~  Ordet_ Carl Dreyer 1955
+~  Orpheus_ Jean Cocteau 1950
+~  Othello_ Orson Welles 1952
+~  The Others_ Alejandro Amenábar 2001
+~  Our Hospitality_ Buster Keaton & John Blystone 1923
+~  The Outlaw Josey Wales_ Clint Eastwood 1976
+~  Paisan_ Roberto Rossellini 1946
+~  Pandora and the Flying Dutchman_ Albert Lewin 1951
+~  Paris, Texas_ Wim Wenders 1984
+~  The Passion of Joan of Arc_ Carl Dreyer 1928
+~  Phantom Lady_ Robert Siodmak 1944
+~  The Phantom of Liberty_ Luis Buñuel 1974
+~  The Phenix City Story_ Phil Karlson 1955
+~  Pickup on South Street_ Sam Fuller 1953
+~  Playtime_ Jacques Tati 1967
+~  Point Blank_ John Boorman 1967
+~  The Prowler_ Joseph Losey 1951
+~  Punch-Drunk Love_ Paul Thomas Anderson 2002
+~  Purple Noon_ Rene Clement 1960
+~  Raiders of the Lost Ark_ Steven Spielberg 1981
+~  Raise the Red Lantern_ Zhang Yimou 1991
+~  Raising Arizona_ Joel Coen and Ethan Coen 1987
+~  Ran_ Akira Kurosawa 1985
+~  Rashomon_ Akira Kurosawa 1950
+~  The Reckless Moment_ Max Ophuls 1949
+~  Remember My Name_ Alan Rudolph 1978
+~  Ride Lonesome_ Budd Boetticher 1959
+~  Ride with the Devil_ Ang Lee 1999
+~ Y Rififi_ Jules Dassin 1955
+~ Y The Roaring Twenties_ Raoul Walsh 1939
+~ Y Rosemary's Baby_ Roman Polanski 1968
+~ Y Rosetta_ Jean-Pierre Dardenne & Luc Dardenne 1999
+~ Y The Royal Tenenbaums_ Wes Anderson 2001
+~ N Ruby Gentry_ King Vidor 1952
+~ N Salvador_ Oliver Stone 1986
+~ Y Sans Soleil_ Chris Marker 1983
+~ Y Saving Private Ryan_ Steven Spielberg 1998
+~ Y Schindler's List_ Steven Spielberg 1993
+~ Y The Set-Up_ Robert Wise 1949
+~ Y Se7en_ David Fincher 1995
+~ Y Seven Chances Buster Keaton 1925
+~ Y Seven Days in May John Frankenheimer 1964
+~ Y Seven Men from Now Budd Boetticher 1956
+~ Y The Seven Samurai Akira Kurosawa 1954
+~ Y The Seventh Victim Mark Robson 1943
 ~  Shadows John Cassavetes 1959
-~  Shanghai Triad Zhang Yimou 1995
-~  Shoot the Piano Player François Truffaut 1960
-~  The Silence of the Lambs Jonathan Demme 1991
-~  A Simple Plan Sam Raimi 1998
-~  The Sleeping Tiger Joseph Losey 1954
-~  Sleep My Love Douglas Sirk 1948
-~  Sleepy Hollow Tim Burton 1999
-~  Smoke Wayne Wang 1995
-~  The Soft Skin François Truffaut 1964
-~  Solaris Andrei Tarkovsky 1972
-~  Son of Paleface Frank Tashlin 1952
-~  The Spanish Prisoner David Mamet 1997
-~  Spartacus Stanley Kubrick 1960
-~  The Spiral Staircase Robert Siodmak 1946
-~  The Spirit of the Beehive Victor Erice 1973
-~  Stella Dallas King Vidor 1937
-~  Stolen Kisses François Truffaut 1968
-~  Storm Warning Stuart Heisler 1951
-~  Story of a Love Affair Michelangelo Antonioni 1950
-~  Storytelling Todd Solondz 2001
-~  The Story of the Late Chrysanthemums Kenji Mizoguchi 1939
-~  The Straight Story David Lynch 1999
-~  The Stranger Orson Welles 1946
-~  A Streetcar Named Desire Elia Kazan 1951
-~  Sudden Fear David Miller 1952
-~  Sullivan's Travels Preston Sturges 1941
-~  Sunshine State John Sayles 2002
-~  The Sweet Hereafter Atom Egoyan 1997
-~  Tabu F.W. Murnau 1931
-~  The Tall T Budd Boetticher 1957
-~  Targets Peter Bogdanovich 1968
-~  A Taste of Cherry Abbas Kiarostami 1997
-~  Text of Light Stan Brakhage 1974
-~  They Won't Believe Me Irving Pichel 1947
-~  They Won't Forget Mervyn LeRoy 1937
-~  Thieves' Highway Jules Dassin 1949
-~  The Thing (From Another World) Howard Hawks & Christian Nyby 1951
-~  The Third Lover Claude Chabrol 1962
-~  The 39 Steps Alfred Hitchcock 1939
-~  This Man Must Die Claude Chabrol 1969
-~  Three Comrades Frank Borzage 1932
-~  Three Kings David O. Russell 1999
-~  Thunder Bay Anthony Mann 1953
-~  To Each His Own Mitchell Leisen 1946
-~  Tokyo Drifter Seijun Suzuki 1966
-~  The Tomb of Ligeia Roger Corman 1965
-~  The Treasure of the Sierra Madre John Huston 1948
-~  Tristana_ Luis Buñuel 1970
-~  Trouble in Mind_ Alan Rudolph 1985
-~  Trust_ Hal Hartley 1990
-~  Try and Get Me!_ Cy Endfield 1951
-~  Two Weeks in Another Town_ Vincente Minnelli 1962
-~  Ugetsu Monogatari_ Kenji Mizoguchi 1953
-~  Umberto D._ Vittorio De Sica 1952
-~  The Umbrellas of Cherbourg_ Jacques Demy 1964
-~  The Underneath_ Steven Soderbergh 1995
-~  Under the Roofs of Paris_ René Clair 1930
-~  Underworld, U.S.A._ Sam Fuller 1961
-~  Une Partie Campagne_ Jean Renoir 1936
-~  Unforgiven_ Clint Eastwood 1992
-~  The Unknown_ Tod Browning 1927
-~  The Untouchables_ Brian De Palma 1987
-~  The Verdict_ Sidney Lumet 1982
-~  Viridiana_ Luis Buñuel 1961
-~  The Wages of Fear_ Henri-Georges Clouzot 1952
-~  Warlock_ Edward Dmytryk 1959
-~  Where the Sidewalk Ends_ Otto Preminger 1950
-~  While the City Sleeps_ Fritz Lang 1956
-~  Whirlpool_ Otto Preminger 1949
-~  White Dog_ Sam Fuller 1982
-~  White Heat_ Raoul Walsh 1949
-~  Wild River_ Elia Kazan 1960
-~  The Wind_ Victor Sjöström 1928
-~  The Wind Will Carry Us_ Abbas Kiarostami 1999
-~  Wings of Desire_ Wim Wenders 1987
-~  The Wizard of Oz_ Victor Fleming 1939
-~  A Woman Under the Influence_ John Cassavetes 1974
-~  The Women_ George Cukor 1939
-~  Wonderland_ Michael Winterbottom 1999
-~  The World of Apu_ Satyajit Ray 1959
-~  The Year My Voice Broke_ John Duigan 1987
-~  Young at Heart_ Gordon Douglas 1954
-~  Young Man with a Horn_ Michael Curtiz 1950
-~  Z_ Constantin Costa-Gavras 1969
+~  Shanghai Triad_ Zhang Yimou 1995
+~  Shoot the Piano Player_ François Truffaut 1960
+~  The Silence of the Lambs_ Jonathan Demme 1991
+~  A Simple Plan_ Sam Raimi 1998
+~  The Sleeping Tiger_ Joseph Losey 1954
+~  Sleep My Love_ Douglas Sirk 1948
+~  Sleepy Hollow_ Tim Burton 1999
+~  Smoke_ Wayne Wang 1995
+~  The Soft Skin_ François Truffaut 1964
+~  Solaris_ Andrei Tarkovsky 1972
+~  Son of Paleface_ Frank Tashlin 1952
+~  The Spanish Prisoner_ David Mamet 1997
+~  Spartacus_ Stanley Kubrick 1960
+~  The Spiral Staircase_ Robert Siodmak 1946
+~  The Spirit of the Beehive_ Victor Erice 1973
+~  Stella Dallas_ King Vidor 1937
+~  Stolen Kisses_ Francois Truffaut 1968
+~  Storm Warning_ Stuart Heisler 1951
+~  Story of a Love Affair_ Michelangelo Antonioni 1950
+~  Storytelling_ Todd Solondz 2001
+~  The Story of the Late Chrysanthemums_ Kenji Mizoguchi 1939
+~  The Straight Story_ David Lynch 1999
+~  The Stranger_ Orson Welles 1946
+~  A Streetcar Named Desire_ Elia Kazan 1951
+~ Y Sudden Fear_ David Miller 1952
+~ Y Sullivan's Travels_ Preston Sturges 1941
+~ N Sunshine State_ John Sayles 2002
+~ N The Sweet Hereafter_ Atom Egoyan 1997
+~ Y Tabu_ F.W. Murnau 1931
+~ Y The Tall T_ Budd Boetticher 1957
+~ Y Targets_ Peter Bogdanovich 1968
+~ Y A Taste of Cherry_ Abbas Kiarostami 1997
+~ N Text of Light_ Stan Brakhage 1974
+~ N They Won't Believe Me_ Irving Pichel 1947
+~ N They Won't Forget_ Mervyn LeRoy 1937
+~ Y Thieves' Highway_ Jules Dassin 1949
+~ Y The Thing (From Another World)_ Howard Hawks & Christian Nyby 1951
+~ N The Third Lover_ Claude Chabrol 1962
+~ Y The 39 Steps_ Alfred Hitchcock 1939
+~ N This Man Must Die_ Claude Chabrol 1969
+~ N Three Comrades_ Frank Borzage 1932
+~ Y Three Kings_ David O. Russell 1999
+~ N Thunder Bay_ Anthony Mann 1953
+~ N To Each His Own_ Mitchell Leisen 1946
+~ Y Tokyo Drifter_ Seijun Suzuki 1966
+~ N The Tomb of Ligeia_ Roger Corman 1965
+~ Y The Treasure of the Sierra Madre_ John Huston 1948
+~ Y Tristana_ Luis Buñuel 1970
+~ N Trouble in Mind_ Alan Rudolph 1985
+~ Y Trust_ Hal Hartley 1990
+~ N Try and Get Me!_ Cy Endfield 1951
+~ N Two Weeks in Another Town_ Vincente Minnelli 1962
+~ Y Ugetsu_ Kenji Mizoguchi 1953
+~ Y Umberto D._ Vittorio De Sica 1952
+~ Y The Umbrellas of Cherbourg_ Jacques Demy 1964
+~ N The Underneath_ Steven Soderbergh 1995
+~ Y Under the Roofs of Paris_ Rene Clair 1930
+~ Y Underworld, U.S.A._ Sam Fuller 1961
+~ Y Une Partie Campagne_ Jean Renoir 1936
+~ Y Unforgiven_ Clint Eastwood 1992
+~ Y The Unknown_ Tod Browning 1927
+~ Y The Untouchables_ Brian De Palma 1987
+~ Y The Verdict_ Sidney Lumet 1982
+~ Y Viridiana_ Luis Buñuel 1961
+~ Y The Wages of Fear_ Henri-Georges Clouzot 1952
+~ N Warlock_ Edward Dmytryk 1959
+~ Y Where the Sidewalk Ends_ Otto Preminger 1950
+~ Y While the City Sleeps_ Fritz Lang 1956
+~ Y Whirlpool_ Otto Preminger 1949
+~ N White Dog_ Sam Fuller 1982
+~ Y White Heat_ Raoul Walsh 1949
+~ N Wild River_ Elia Kazan 1960
+~ Y The Wind_ Victor Sjöström 1928
+~ N The Wind Will Carry Us_ Abbas Kiarostami 1999
+~ Y Wings of Desire_ Wim Wenders 1987
+~ Y The Wizard of Oz_ Victor Fleming 1939
+~ Y A Woman Under the Influence_ John Cassavetes 1974
+~ Y The Women_ George Cukor 1939
+~ N Wonderland_ Michael Winterbottom 1999
+~ Y The World of Apu_ Satyajit Ray 1959
+~ N The Year My Voice Broke_ John Duigan 1987
+~ N Young at Heart_ Gordon Douglas 1954
+~ N Young Man with a Horn_ Michael Curtiz 1950
+~ Y Z_ Constantin Costa-Gavras 1969

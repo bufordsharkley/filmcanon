@@ -1,0 +1,104 @@
+Library book whose identity has been since forgotten
+
+
+
+~ Y The Adventures of Robin Hood
+~ Y The African Queen
+~ Y All about Eve
+~ Y All Quiet on the Western Front
+~ Y Apocalypse Now
+~ Y Bad Day at Black Rock
+~ Y Bambi
+~ Y The Bank Dick
+~ Y The Battleship Potemkin
+~ Y The Best Years of Our Lives
+~ Y Bicycle Thieves
+~ Y The Big Sleep
+~ Y The Birth of a Nation
+~ Y Bonnie and Clyde
+~ Y Breathless
+~ Y Bringing up Baby
+~ Y Butch Cassidy and the Sundance Kid
+~ Y Cabaret
+~ Y Casablanca
+~ Y Chinatown
+~ Y Citizen Kane
+~ Y The Discreet Charm of the Bourgeoisie
+~ Y Dog Day Afternoon
+~ Y Double Indemnity
+~ Y Duck Soup
+~ Y Les Enfants du Paradis
+~ Y E.T.
+~ Y Frankenstein
+~ Y The General
+~ N Genevieve
+~ Y The Godfather
+~ Y The Godfather Part II
+~ Y The Gold Rush
+~ Y Gone With the Wind
+~ Y La Grande Illusion
+~ Y The Grapes of Wrath
+~ Y Great Expectations
+~ Y Gregory's Girl
+~ Y Hannah and Her Sisters
+~ Y High Noon
+~ Y His Girl Friday
+~ Y I Know Where I'm Going
+~ Y It Happened One Night
+~ Y It's a Wonderful Life
+~ Y Forbidden Games
+~ Y Kind Hearts and Coronets
+~ Y The Lady Eve
+~ Y The Lady Vanishes
+~ Y Laura
+~ Y The Lavender Hill Mob
+~ Y Lawrence of Arabia
+~ Y The Leopard
+~ Y The Maltese Falcon
+~ Y M*A*S*H
+~ Y A Matter of Life and Death
+~ Y Mean Streets
+~ Y Modern Times
+~ Y My Darling Clementine
+~ Y Napoleon
+~ Y Nashville
+~ Y The Nights of Cabiria
+~ Y Ninotchka
+~ N Oh! Mr Porter
+~ Y On the Waterfront
+~ Y Orpheus
+~ N Pat and Mike
+~ Y Pather Panchali
+~ Y Paths of Glory
+~ Y Psycho
+~ Y Pygmalion
+~ Y Raging Bull
+~ Y Ran
+~ Y Rashomon
+~ Y Red River
+~ Y The Red Shoes
+~ Y La Regle du Jeu
+~ Y Richard III
+~ Y The Searchers
+~ Y The Seven Samurai
+~ Y The Seventh Seal
+~ Y Shane
+~ Y Singin' in the Rain
+~ Y Sleeper
+~ Y Some Like it Hot
+~ Y Stagecoach
+~ Y La Strada
+~ Y Sunset Boulevard
+~ Y Taxi Driver
+~ Y The Thief of Baghdad
+~ Y The Third Man
+~ Y The Thirty-Nine Steps
+~ Y To Be or Not to Be
+~ Y The Treasure of the Sierra Madre
+~ Y Top Hat
+~ Y 2001: A Space Odyssey 
+~ Y Whisky Galore
+~ Y The Wild Bunch
+~ Y Wild Strawberries
+~ Y The Wizard of Oz
+~ Y Z

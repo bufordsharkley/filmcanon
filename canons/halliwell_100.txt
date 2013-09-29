@@ -1,0 +1,104 @@
+Halliwell Top 100
+
+
+
+1 Y Tokyo Story
+2 Y Rules of the Game
+3 Y Lawrence of Arabia 
+4 N The Godfather Trilogy
+5 Y The Seven Samurai
+6 Y Citizen Kane 
+7 Y Raging Bull 
+8 Y Vertigo 
+9 Y Some Like it Hot 
+10 Y 8 1/2
+11 Y Doctor Strangelove
+12 Y Singin' in the Rain
+13 Y Taxi Driver
+14 Y The Searchers
+15 Y The Seventh Seal
+16 Y Sweet Smell of Success
+17 Y Sunset Boulevard
+18 Y The Third Man
+19 Y The Apu Trilogy
+20 Y Les Enfants du Paradis
+21 Y The Discreet Charm of the Bourgeoisie
+22 Y Andrei Rublev
+23 Y The Passion of Joan of Arc
+24 Y Viridiana
+25 Y Toy Story
+26 Y Rashomon
+27 Y Wild Strawberries
+28 Y To Be or Not to Be
+29 Y Sunrise
+30 N The Lord of the Rings Trilogy
+31 Y 2001: A Space Odyssey
+32 Y The Battle of Algiers
+33 Y Alexander Nevsky
+34 Y Belle de Jour
+35 Y Casablanca
+36 Y GoodFellas
+37 Y Tristana
+38 Y The Magnificent Ambersons
+39 Y Breaking the Waves
+40 Y Sullivan's Travels
+41 Y Frankenstein
+42 Y The Battleship Potemkin
+43 Y Double Indemnity
+44 Y One Flew Over the Cuckoo's Nest
+45 Y Weekend
+46 Y Jules et Jim
+47 Y À Bout de Souffle
+48 Y Bonnie and Clyde
+49 Y Wings of Desire
+50 Y Fitzcarraldo
+51 Y If . . .
+52 Y The Wild Bunch
+53 Y The Red Shoes
+54 Y Annie Hall
+55 Y Tom Jones
+56 Y On the Waterfront
+57 Y West Side Story
+58 Y Saturday Night and Sunday Morning
+59 Y The Grapes of Wrath
+60 Y Great Expectations
+61 Y The Leopard
+62 Y Schindler's List
+63 Y Ashes and Diamonds
+64 Y A Nous la Liberté
+65 Y Antoine Doinel Tetralogy
+66 Y Mr Smith Goes to Washington
+67 Y Monsieur Hulot's Holiday
+68 N Laurel and Hardy Shorts
+69 Y Chinatown
+70 Y Star Wars Trilogy
+71 Y Gosford Park
+72 Y Rear Window
+73 Y Aguirre: The Wrath of God
+74 Y A Short Film About Killing
+75 Y M*A*S*H
+76 Y Viskningar och Rop
+77 Y All the President's Men
+78 Y Cabiria
+79 Y King Kong
+80 Y Gone with the Wind
+81 Y All Quiet on the Western Front
+82 Y Fanny and Alexander
+83 Y North by Northwest
+84 Y The Band Wagon
+85 Y Yojimbo
+86 Y Brief Encounter
+87 Y Deliverance
+88 Y Fargo
+89 Y Cabaret
+90 Y Once Upon a Time in America
+91 Y Days of Heaven
+92 Y The Adventures of Robin Hood
+93 Y High Noon
+94 Y His Girl Friday
+95 Y Manhattan
+96 Y Duck Soup
+97 Y Henry V
+98 Y This is Spinal Tap
+99 Y Bad Day at Black Rock
+100 Y The Graduate

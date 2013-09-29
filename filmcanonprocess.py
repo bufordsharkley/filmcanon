@@ -16,6 +16,7 @@ class CanonListbox(Frame):
 		#self.lb.bind('<B1-Motion>', lambda e, s=self: s._select(e.y))
 		#self.lb.bind('<Button-1>', lambda e, s=self: s._select(e.y))
 		self.lb.bind('<Control-a>', lambda e, s=self: s._selectall())
+		self.lb.bind('<Control-A>', lambda e, s=self: s._selectall())
 		self.lb.pack(side=LEFT, fill=BOTH, expand=YES)
 		s = Scrollbar(frame, orient=VERTICAL, command=self.lb.yview)
 		s.pack(side=RIGHT, fill=Y)
@@ -75,12 +76,18 @@ class ComparisonWidget(Frame):
 		self.lbno.pack(side=LEFT, fill=BOTH, expand=YES)
 		sno.pack(side=LEFT, fill=Y)
 		self.lbno['yscrollcommand'] = sno.set
+		self.lbyes.bind('<Control-a>', lambda e, s=self: s._selectall())
+		self.lbno.bind('<Control-a>', lambda e, s=self: s._selectall())
 
 	def fill_yes_and_no(self, yeslist, nolist):
 		fill_list_box(self._yesnolistintoreadable(yeslist),self.lbyes)
 		fill_list_box(self._yesnolistintoreadable(nolist),self.lbno)
 		self.seenstring.set('SEEN: ' + str(len(yeslist)))
 		self.notseenstring.set('NOT SEEN: ' + str(len(nolist)))
+
+	def _selectall(self):
+		return [self.lbyes.select_set(ii) for ii in range(self.lbyes.size())]
+
 
 	def clear(self):
 		empty_list_box(self.lbyes)
@@ -249,8 +256,10 @@ def process_film_line(filmline):
 	try:
 		[ranking,yesno,filmandinfo] = filmline.split(' ', 2)
 	except:
-		filmandinfo = ''
-		'Fix line: ' + filmline
+		filmandinfo = 'FIXLINEFIXLINE'
+		ranking = ''
+		yesno = 'N'
+		print 'Fix line: ' + filmline
 	if ranking == '~':
 		ranking = ''
 	yesno = yesno.upper()
@@ -266,7 +275,7 @@ def process_film_line(filmline):
 
 def put_the_at_end(stringtocheck):
 	correctedstring = stringtocheck
-	tocheck = ['The ', 'A ', 'La ', 'L\'','Il ']
+	tocheck = ['The ', 'A ', 'La ', 'L\'','Il ', 'An ']
 	for substring in tocheck:
 		if stringtocheck.startswith(substring):
 			# move from the end to the beginning
@@ -280,7 +289,7 @@ def put_the_at_start(stringtocheck):
 	# if there is a ", the" clause at end,
 	# put at start, for readability
 	correctedstring = stringtocheck
-	tocheck = [', The', ', A', ', La', ', L\'', ', Il']
+	tocheck = [', The', ', A', ', La', ', L\'', ', Il', ', An']
 	for substring in tocheck:
 		if stringtocheck.endswith(substring):
 			# move from the end to the beginning

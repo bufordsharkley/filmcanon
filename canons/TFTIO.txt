@@ -1,4 +1,4 @@
-TFTIO Top 100 (unordered)
+TFTIO Top 100
 From source: 09 02 2011
 Processed: ___
 
@@ -6,8 +6,8 @@ Processed: ___
 ~ Y 24 Hour Party People
 ~ Y 28 Days Later
 ~ Y After Life
-~ Y Aguirre, Wrath Of God
-~ N Alfie (1966)
+~ Y Aguirre: The Wrath Of God
+~ N Alfie_ (1966)
 ~ Y Aliens
 ~ Y Annie Hall
 ~ Y Babe
