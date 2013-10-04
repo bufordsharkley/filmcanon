@@ -512,57 +512,57 @@ Already taken from many sources (see ____ for details)
 508 Y African Queen, The_ (1951) Huston, John USA 105min
 509 Y Ben-Hur_ (1959) Wyler, William USA 212min
 510 N Angel at My Table, An_ (1990) Campion, Jane New Zealand 158min
-511  All That Jazz_ (1979) Fosse, Bob USA 123min
-512  All the President's Men_ (1976) Pakula, Alan J. USA 138min
-513  Wedding March, The_ (1928) von Stroheim, Erich USA 113min
-514  39 Steps, The_ (1935) Hitchcock, Alfred UK 87min
-515  By the Bluest of Seas_ (1936) Barnet, Boris USSR 71min
-516  Manchurian Candidate, The_ (1962) Frankenheimer, John USA 126min
-517  Platform_ (2000) Jia Zhangke Hong Kong 154min
-518  Pinocchio_ (1940) Sharpsteen & Luske USA 88min
-519  Rebecca_ (1940) Hitchcock, Alfred USA 130min
-520  Some Came Running_ (1958) Minnelli, Vincente USA 136min
-521  Carrie_ (1976) De Palma, Brian USA 97min
-522  Pat Garrett and Billy the Kid_ (1973) Peckinpah, Sam USA 122min
-523  Hannah and Her Sisters_ (1986) Allen, Woody USA 106min
-524  12 Angry Men_ (1957) Lumet, Sidney USA 95min
-525  Claire's Knee_ (1970) Rohmer, Eric France 105min
-526  Teorema_ (1968) Pasolini, Pier Paolo Italy 98min
-527  Cat People_ (1942) Tourneur, Jacques USA 73min
-528  Rebel Without a Cause_ (1955) Ray, Nicholas USA 111min
-529  Vampires, Les_ (1915) Feuillade, Louis France 440min
-530  Silence of the Lambs, The_ (1991) Demme, Jonathan USA 118min
-531  Marriage of Maria Braun, The_ (1978) Fassbinder, Rainer Werner West Germany 120min
-532  Raising Arizona_ (1987) Coen Brothers USA 92min
+511 Y All That Jazz_ (1979) Fosse, Bob USA 123min
+512 Y All the President's Men_ (1976) Pakula, Alan J. USA 138min
+513 N Wedding March, The_ (1928) von Stroheim, Erich USA 113min
+514 Y 39 Steps, The_ (1935) Hitchcock, Alfred UK 87min
+515 N By the Bluest of Seas_ (1936) Barnet, Boris USSR 71min
+516 Y Manchurian Candidate, The_ (1962) Frankenheimer, John USA 126min
+517 N Platform_ (2000) Jia Zhangke Hong Kong 154min
+518 Y Pinocchio_ (1940) Sharpsteen & Luske USA 88min
+519 Y Rebecca_ (1940) Hitchcock, Alfred USA 130min
+520 Y Some Came Running_ (1958) Minnelli, Vincente USA 136min
+521 Y Carrie_ (1976) De Palma, Brian USA 97min
+522 Y Pat Garrett and Billy the Kid_ (1973) Peckinpah, Sam USA 122min
+523 Y Hannah and Her Sisters_ (1986) Allen, Woody USA 106min
+524 Y 12 Angry Men_ (1957) Lumet, Sidney USA 95min
+525 Y Claire's Knee_ (1970) Rohmer, Eric France 105min
+526 N Teorema_ (1968) Pasolini, Pier Paolo Italy 98min
+527 Y Cat People_ (1942) Tourneur, Jacques USA 73min
+528 Y Rebel Without a Cause_ (1955) Ray, Nicholas USA 111min
+529 Y Vampires, Les_ (1915) Feuillade, Louis France 440min
+530 Y Silence of the Lambs, The_ (1991) Demme, Jonathan USA 118min
+531 Y Marriage of Maria Braun, The_ (1978) Fassbinder, Rainer Werner West Germany 120min
+532 Y Raising Arizona_ (1987) Coen Brothers USA 92min
 533 N Barren Lives_ (1963) dos Santos, Nelson Pereira Brazil 135min
 534 Y French Connection, The_ (1971) Friedkin, William USA 104min
 535 Y Heaven's Gate_ (1980) Cimino, Michael USA 219min
 536 Y Elephant Man, The_ (1980) Lynch, David USA 125min
 537 Y Eternal Sunshine of the Spotless Mind_ (2004) Gondry, Michel USA 108min
 538  Tiger of Eschnapur, The_ (1958) Lang, Fritz West Germany 101min
-539  Casino_ (1995) Scorsese, Martin USA 182min
-540  Sicilia!_ (1999) Straub & Huillet Italy 76min
-541  They Live by Night_ (1948) Ray, Nicholas USA 95min
-542  Foolish Wives_ (1922) von Stroheim, Erich USA 117min
-543  Punch-Drunk Love_ (2002) Anderson, Paul Thomas USA 95min
-544  Au revoir les enfants_ (1987) Malle, Louis France 103min
-545  Our Hospitality_ (1923) Keaton & Blystone USA 74min
-546  Europa '51_ (1952) Rossellini, Roberto Italy 113min
-547  Idiots, The_ (1998) von Trier, Lars Denmark 117min
-548  Short Film About Killing, A_ (1987) Kieslowski, Krzysztof Poland 85min
-549  The Road Warrior_ (1981) Miller, George Australia 94min
-550  Passion_ (1982) Godard, Jean-Luc France 87min
-551  Mother and Son_ (1997) Sokurov, Aleksandr Russia 73min
-552  Lusty Men, The_ (1952) Ray, Nicholas USA 113min
+539 Y Casino_ (1995) Scorsese, Martin USA 182min
+540 N Sicilia!_ (1999) Straub & Huillet Italy 76min
+541 Y They Live by Night_ (1948) Ray, Nicholas USA 95min
+542 Y Foolish Wives_ (1922) von Stroheim, Erich USA 117min
+543 Y Punch-Drunk Love_ (2002) Anderson, Paul Thomas USA 95min
+544 Y Au revoir les enfants_ (1987) Malle, Louis France 103min
+545 Y Our Hospitality_ (1923) Keaton & Blystone USA 74min
+546 N Europa '51_ (1952) Rossellini, Roberto Italy 113min
+547 Y Idiots, The_ (1998) von Trier, Lars Denmark 117min
+548 Y Short Film About Killing, A_ (1987) Kieslowski, Krzysztof Poland 85min
+549 Y The Road Warrior_ (1981) Miller, George Australia 94min
+550 N Passion_ (1982) Godard, Jean-Luc France 87min
+551 N Mother and Son_ (1997) Sokurov, Aleksandr Russia 73min
+552 N Lusty Men, The_ (1952) Ray, Nicholas USA 113min
 553  They Were Expendable_ (1945) Ford, John USA 135min
-554  Million, Le_ (1931) Clair, Rene France 85min
-555  Woman of Paris, A_ (1923) Chaplin, Charles USA 81min
-556  Masculin Feminin_ (1966) Godard, Jean-Luc France 103min
-557  Detour_ (1945) Ulmer, Edgar G. USA 69min
-558  Hard Day's Night, A_ (1964) Lester, Richard UK 85min
-559  Mon oncle_ (1958) Tati, Jacques France 126min
-560  Full Metal Jacket_ (1987) Kubrick, Stanley USA 116min
-561  Ferris Bueller's Day Off_ (1986) Hughes, John USA 103min
+554 Y Million, Le_ (1931) Clair, Rene France 85min
+555 Y Woman of Paris, A_ (1923) Chaplin, Charles USA 81min
+556 Y Masculin Feminin_ (1966) Godard, Jean-Luc France 103min
+557 Y Detour_ (1945) Ulmer, Edgar G. USA 69min
+558 Y Hard Day's Night, A_ (1964) Lester, Richard UK 85min
+559 Y Mon oncle_ (1958) Tati, Jacques France 126min
+560 Y Full Metal Jacket_ (1987) Kubrick, Stanley USA 116min
+561 Y Ferris Bueller's Day Off_ (1986) Hughes, John USA 103min
 562 N Numero deux_ (1975) Godard, Jean-Luc France 88min
 563 Y Shock Corridor_ (1963) Fuller, Samuel USA 101min
 564 Y Port of Shadows_ (1938) Carne, Marcel France 91min
@@ -572,80 +572,80 @@ Already taken from many sources (see ____ for details)
 568 Y Talk to Her_ (2002) Almodovar, Pedro Spain 112min
 569 Y Damned, The_ (1969) Visconti, Luchino Italy 155min
 570 N Death of Mr. Lazarescu, The_ (2005) Puiu, Cristi Romania 154min
-571  City of God_ (2002) Meirelles, Fernando Brazil 129min
-572  Grido, Il_ (1957) Antonioni, Michelangelo Italy 111min
-573  Jour se leve, Le_ (1939) Carne, Marcel France 93min
-574  Bande a part_ (1964) Godard, Jean-Luc France 97min
-575  Splendor in the Grass_ (1961) Kazan, Elia USA 124min
-576  Red Circle, The_ (1970) Melville, Jean-Pierre France 150min
-577  Antonio das Mortes_ (1969) Rocha, Glauber Brazil 95min
-578  Scarface_ (1983) De Palma, Brian USA 170min
-579  Ninotchka_ (1939) Lubitsch, Ernst USA 110min
-580  Party, The_ (1968) Edwards, Blake USA 99min
-581  Ghost and Mrs. Muir, The_ (1947) Mankiewicz, Joseph L. USA 104min
-582  Anatomy of a Murder_ (1959) Preminger, Otto USA 160min
-583  Tin Drum, The_ (1979) Schlondorff, Volker West Germany 142min
-584  She Wore a Yellow Ribbon_ (1949) Ford, John USA 103min
-585  Chronicle of Anna Magdalena Bach, The_ (1968) Straub, Jean-Marie West Germany 94min
-586  Flaming Creatures_ (1963) Smith, Jack USA 43min
-587  Navigator, The_ (1924) Keaton & Crisp USA 59min
-588  Breakfast at Tiffany's_ (1961) Edwards, Blake USA 115min
-589  Bambi_ (1942) Hand, David USA 69min
-590  Phantom of Liberty, The_ (1974) Bunuel, Luis France 104min
-591  Faster, Pussycat! Kill! Kill!_ (1965) Meyer, Russ USA 83min
-592  Dead Man_ (1995) Jarmusch, Jim USA 121min
-593  Farewell, My Concubine_ (1993) Chen Kaige Hong Kong 155min
-594  White Heat_ (1949) Walsh, Raoul USA 114min
+571 Y City of God_ (2002) Meirelles, Fernando Brazil 129min
+572 N Grido, Il_ (1957) Antonioni, Michelangelo Italy 111min
+573 Y Jour se leve, Le_ (1939) Carne, Marcel France 93min
+574 Y Bande a part_ (1964) Godard, Jean-Luc France 97min
+575 Y Splendor in the Grass_ (1961) Kazan, Elia USA 124min
+576 Y Red Circle, The_ (1970) Melville, Jean-Pierre France 150min
+577 N Antonio das Mortes_ (1969) Rocha, Glauber Brazil 95min
+578 Y Scarface_ (1983) De Palma, Brian USA 170min
+579 Y Ninotchka_ (1939) Lubitsch, Ernst USA 110min
+580 Y Party, The_ (1968) Edwards, Blake USA 99min
+581 Y Ghost and Mrs. Muir, The_ (1947) Mankiewicz, Joseph L. USA 104min
+582 Y Anatomy of a Murder_ (1959) Preminger, Otto USA 160min
+583 Y Tin Drum, The_ (1979) Schlondorff, Volker West Germany 142min
+584 Y She Wore a Yellow Ribbon_ (1949) Ford, John USA 103min
+585 N Chronicle of Anna Magdalena Bach, The_ (1968) Straub, Jean-Marie West Germany 94min
+586 N Flaming Creatures_ (1963) Smith, Jack USA 43min
+587 Y Navigator, The_ (1924) Keaton & Crisp USA 59min
+588 N Breakfast at Tiffany's_ (1961) Edwards, Blake USA 115min
+589 Y Bambi_ (1942) Hand, David USA 69min
+590 Y Phantom of Liberty, The_ (1974) Bunuel, Luis France 104min
+591 Y Faster, Pussycat! Kill! Kill!_ (1965) Meyer, Russ USA 83min
+592 Y Dead Man_ (1995) Jarmusch, Jim USA 121min
+593 Y Farewell, My Concubine_ (1993) Chen Kaige Hong Kong 155min
+594 Y White Heat_ (1949) Walsh, Raoul USA 114min
 595 N Land Without Bread_ (1932) Bunuel, Luis Spain 28min
 596 Y Rocky_ (1976) Avildsen, John G. USA 119min
 597 Y Diaboliques, Les_ (1955) Clouzot, Henri-Georges France 114min
 598 Y Salesman_ (1968) Maysles Brothers, Zwerin USA 85min
 599 N Hatari!_ (1962) Hawks, Howard USA 159min
-600  Producers, The_ (1968) Brooks, Mel USA 88min
+600 Y Producers, The_ (1968) Brooks, Mel USA 88min
 601 N Black Girl_ (1966) Sembene, Ousmane France 65min
 602 Y All Quiet on the Western Front_ (1930) Milestone, Lewis USA 133min
 603 Y Fight Club_ (1999) Fincher, David USA 139min
 604 N Possession_ (1981) Zulawski, Andrzej France 127min
 605 Y Uncle Boonmee Who Can Recall His Past Lives_ (2010) Weerasethakul, Apichatpong Thailand 113min
 606 N Gleaners & I, The_ (2000) Varda, Agnes France 82min
-607  Shawshank Redemption, The_ (1994) Darabont, Frank USA 142min
-608  Secrets & Lies_ (1996) Leigh, Mike UK 142min
-609  Lancelot du Lac_ (1974) Bresson, Robert France 84min
-610  In Vanda's Room_ (2000) Costa, Pedro Portugal 170min
-611  Purple Rose of Cairo, The_ (1985) Allen, Woody USA 82min
-612  Gimme Shelter_ (1970) Maysles Brothers, Zwerin USA 91min
-613  Circus, The_ (1928) Chaplin, Charles USA 72min
-614  Saturday Night and Sunday Morning_ (1960) Reisz, Karel UK 89min
-615  Young Frankenstein_ (1974) Brooks, Mel USA 105min
-616  Grey Gardens_ (1975) Maysles Brothers, Hovde, Meyer USA 95min
-617  Yol_ (1982) Goren & Guney Turkey 111min
-618  My Friend Ivan Lapshin_ (1986) German, Aleksey USSR 99min
-619  Empire_ (1964) Warhol, Andy USA 485min
-620  Place in the Sun, A_ (1951) Stevens, George USA 122min
-621  Hoop Dreams_ (1994) James, Steve USA 170min
-622  Olympia_ (1938) Riefenstahl, Leni Germany 220min
-623  Moonfleet_ (1955) Lang, Fritz USA 89min
-624  Ossessione_ (1942) Visconti, Luchino Italy 140min
-625  Dazed and Confused_ (1993) Linklater, Richard USA 94min
-626  Being There_ (1979) Ashby, Hal USA 130min
-627  W.R.: Mysteries of the Organism_ (1971) Makavejev, Dusan Yugoslavia 84min
+607 Y Shawshank Redemption, The_ (1994) Darabont, Frank USA 142min
+608 N Secrets & Lies_ (1996) Leigh, Mike UK 142min
+609 Y Lancelot du Lac_ (1974) Bresson, Robert France 84min
+610 N In Vanda's Room_ (2000) Costa, Pedro Portugal 170min
+611 Y Purple Rose of Cairo, The_ (1985) Allen, Woody USA 82min
+612 Y Gimme Shelter_ (1970) Maysles Brothers, Zwerin USA 91min
+613 Y Circus, The_ (1928) Chaplin, Charles USA 72min
+614 Y Saturday Night and Sunday Morning_ (1960) Reisz, Karel UK 89min
+615 Y Young Frankenstein_ (1974) Brooks, Mel USA 105min
+616 Y Grey Gardens_ (1975) Maysles Brothers, Hovde, Meyer USA 95min
+617 N Yol_ (1982) Goren & Guney Turkey 111min
+618 N My Friend Ivan Lapshin_ (1986) German, Aleksey USSR 99min
+619 N Empire_ (1964) Warhol, Andy USA 485min
+620 Y Place in the Sun, A_ (1951) Stevens, George USA 122min
+621 Y Hoop Dreams_ (1994) James, Steve USA 170min
+622 Y Olympia_ (1938) Riefenstahl, Leni Germany 220min
+623 Y Moonfleet_ (1955) Lang, Fritz USA 89min
+624 Y Ossessione_ (1942) Visconti, Luchino Italy 140min
+625 Y Dazed and Confused_ (1993) Linklater, Richard USA 94min
+626 Y Being There_ (1979) Ashby, Hal USA 130min
+627 Y W.R.: Mysteries of the Organism_ (1971) Makavejev, Dusan Yugoslavia 84min
 628 N Code Unknown_ (2000) Haneke, Michael France 116min
 629 Y Invasion of the Body Snatchers_ (1956) Siegel, Don USA 80min
 630 N Belle noiseuse, La_ (1991) Rivette, Jacques France 240min
-631  Lolita_ (1962) Kubrick, Stanley UK 152min
-632  Loves of a Blonde_ (1965) Forman, Milos Czechoslovakia 88min
-633  Songs from the Second Floor_ (2000) Andersson, Roy Sweden 98min
-634  Hart of London, The_ (1970) Chambers, Jack Canada 80min
-635  Turin Horse, The_ (2011) Tarr, Bela Hungary 146min
-636  After Life_ (1998) Koreeda, Hirokazu Japan 118min
-637  Virgin Spring, The_ (1959) Bergman, Ingmar Sweden 88min
-638  From the Clouds to the Resistance_ (1979) Straub & Huillet Italy 104min
-639  Red Balloon, The_ (1956) Lamorisse, Albert France 34min
-640  Bitter Tears of Petra von Kant, The_ (1972) Fassbinder, Rainer Werner West Germany 124min
-641  Right Stuff, The_ (1983) Kaufman, Philip USA 193min
-642  Dogville_ (2003) von Trier, Lars Denmark 177min
-643  Amants du Pont-Neuf, Les_ (1991) Carax, Leos France 126min
-644  I Walked with a Zombie_ (1943) Tourneur, Jacques USA 69min
+631 Y Lolita_ (1962) Kubrick, Stanley UK 152min
+632 Y Loves of a Blonde_ (1965) Forman, Milos Czechoslovakia 88min
+633 N Songs from the Second Floor_ (2000) Andersson, Roy Sweden 98min
+634 N Hart of London, The_ (1970) Chambers, Jack Canada 80min
+635 N Turin Horse, The_ (2011) Tarr, Bela Hungary 146min
+636 N After Life_ (1998) Koreeda, Hirokazu Japan 118min
+637 Y Virgin Spring, The_ (1959) Bergman, Ingmar Sweden 88min
+638 N From the Clouds to the Resistance_ (1979) Straub & Huillet Italy 104min
+639 Y Red Balloon, The_ (1956) Lamorisse, Albert France 34min
+640 Y Bitter Tears of Petra von Kant, The_ (1972) Fassbinder, Rainer Werner West Germany 124min
+641 Y Right Stuff, The_ (1983) Kaufman, Philip USA 193min
+642 Y Dogville_ (2003) von Trier, Lars Denmark 177min
+643 N Amants du Pont-Neuf, Les_ (1991) Carax, Leos France 126min
+644 Y I Walked with a Zombie_ (1943) Tourneur, Jacques USA 69min
 645 N Son, The_ (2002) Dardenne Brothers Belgium 103min
 646 N Subarnarekha_ (1965) Ghatak, Ritwik India 143min
 647 Y WALL-E_ (2008) Stanton, Andrew USA 98min
@@ -662,107 +662,107 @@ Already taken from many sources (see ____ for details)
 658 Y Titicut Follies_ (1967) Wiseman, Frederick USA 87min
 659 Y Othello_ (1952) Welles, Orson Italy 90min
 660 N Yellow Earth_ (1984) Chen Kaige China 89min
-661  End of Summer, The_ (1961) Ozu, Yasujiro Japan 103min
-662  Spione_ (1928) Lang, Fritz Germany 90min
-663  Who's Afraid of Virginia Woolf?_ (1966) Nichols, Mike USA 129min
-664  Requiem for a Dream_ (2000) Aronofsky, Darren USA 100min
-665  Killer, The_ (1989) Woo, John Hong Kong 110min
-666  My Life as a Dog_ (1985) Hallstrom, Lasse Sweden 101min
-667  It's a Gift_ (1934) McLeod, Norman Z. USA 73min
-668  Hawks and the Sparrows, The_ (1966) Pasolini, Pier Paolo Italy 88min
-669  Evil Dead II_ (1987) Raimi, Sam USA 85min
-670  Boogie Nights_ (1997) Anderson, Paul Thomas USA 155min
-671  White Ribbon, The_ (2009) Haneke, Michael Germany 144min
-672  Miller's Crossing_ (1990) Coen Brothers USA 115min
-673  Mr. Smith Goes to Washington_ (1939) Capra, Frank USA 129min
-674  Dumbo_ (1941) Sharpsteen, Ben USA 64min
-675  Spartacus_ (1960) Kubrick, Stanley USA 184min
-676  Cool Hand Luke_ (1967) Rosenberg, Stuart USA 126min
+661 Y End of Summer, The_ (1961) Ozu, Yasujiro Japan 103min
+662 Y Spione_ (1928) Lang, Fritz Germany 90min
+663 Y Who's Afraid of Virginia Woolf?_ (1966) Nichols, Mike USA 129min
+664 Y Requiem for a Dream_ (2000) Aronofsky, Darren USA 100min
+665 Y Killer, The_ (1989) Woo, John Hong Kong 110min
+666 Y My Life as a Dog_ (1985) Hallstrom, Lasse Sweden 101min
+667 Y It's a Gift_ (1934) McLeod, Norman Z. USA 73min
+668 N Hawks and the Sparrows, The_ (1966) Pasolini, Pier Paolo Italy 88min
+669 Y Evil Dead II_ (1987) Raimi, Sam USA 85min
+670 Y Boogie Nights_ (1997) Anderson, Paul Thomas USA 155min
+671 Y White Ribbon, The_ (2009) Haneke, Michael Germany 144min
+672 Y Miller's Crossing_ (1990) Coen Brothers USA 115min
+673 Y Mr. Smith Goes to Washington_ (1939) Capra, Frank USA 129min
+674 Y Dumbo_ (1941) Sharpsteen, Ben USA 64min
+675 Y Spartacus_ (1960) Kubrick, Stanley USA 184min
+676 Y Cool Hand Luke_ (1967) Rosenberg, Stuart USA 126min
 677 N Ascent, The_ (1976) Shepitko, Larisa USSR 105min
 678 Y Fat City_ (1972) Huston, John USA 100min
-679  Veronika Voss_ (1982) Fassbinder, Rainer Werner West Germany 105min
-680  Anatahan_ (1953) von Sternberg, Josef Japan 90min
-681  Nazarin_ (1958) Bunuel, Luis Mexico 94min
-682  Thelma & Louise_ (1991) Scott, Ridley USA 128min
-683  Miracle of Morgan's Creek, The_ (1944) Sturges, Preston USA 99min
-684  Forbidden Games_ (1951) Clement, Rene France 87min
-685  Royal Tenenbaums, The_ (2001) Anderson, Wes USA 109min
+679 N Veronika Voss_ (1982) Fassbinder, Rainer Werner West Germany 105min
+680 N Anatahan_ (1953) von Sternberg, Josef Japan 90min
+681 N Nazarin_ (1958) Bunuel, Luis Mexico 94min
+682 Y Thelma & Louise_ (1991) Scott, Ridley USA 128min
+683 Y Miracle of Morgan's Creek, The_ (1944) Sturges, Preston USA 99min
+684 Y Forbidden Games_ (1951) Clement, Rene France 87min
+685 Y Royal Tenenbaums, The_ (2001) Anderson, Wes USA 109min
 686 N Enfance nue, L'_ (1968) Pialat, Maurice France 80min
 687 N Cairo Station_ (1958) Chahine, Youssef Egypt 76min
-688  Bring Me the Head of Alfredo Garcia_ (1974) Peckinpah, Sam USA 112min
-689  Terminator 2: Judgment Day_ (1991) Cameron, James USA 136min
-690  Scarface_ (1932) Hawks, Howard USA 90min
-691  Outer Space_ (1999) Tscherkassky, Peter Austria 10min
-692  Ceddo_ (1976) Sembene, Ousmane Senegal 117min
-693  Angel_ (1937) Lubitsch, Ernst USA 91min
-694  Mothlight_ (1963) Brakhage, Stan USA 4min
-695  Holy Mountain, The_ (1973) Jodorowsky, Alejandro Mexico 114min
-696  Orlando_ (1992) Potter, Sally UK 94min
-697  Chronicle of a Summer_ (1961) Rouch, Jean & Edgar Morin France 85min
-698  On the Town_ (1949) Donen & Kelly USA 98min
-699  American in Paris, An_ (1951) Minnelli, Vincente USA 115min
-700  Smiles of a Summer Night_ (1955) Bergman, Ingmar Sweden 108min
-701  Lives of Others, The_ (2006) von Donnersmarck, Florian Henckel Germany 138min
-702  Monty Python and the Holy Grail_ (1975) Gilliam & Jones UK 90min
-703  Seven Women_ (1966) Ford, John USA 87min
-704  Seventh Heaven_ (1927) Borzage, Frank USA 119min
-705  Gummo_ (1997) Korine, Harmony USA 88min
-706  Golden Coach, The_ (1952) Renoir, Jean Italy 100min
-707  True Heart Susie_ (1919) Griffith, D.W. USA 87min
-708  Harakiri_ (1962) Kobayashi, Masaki Japan 135min
-709  Ludwig_ (1972) Visconti, Luchino Italy 235min
-710  Cul-de-sac_ (1966) Polanski, Roman UK 111min
-711  Emperor's Naked Army Marches On, The_ (1987) Hara, Kazuo Japan 123min
-712  East of Eden_ (1955) Kazan, Elia USA 115min
+688 Y Bring Me the Head of Alfredo Garcia_ (1974) Peckinpah, Sam USA 112min
+689 Y Terminator 2: Judgment Day_ (1991) Cameron, James USA 136min
+690 Y Scarface_ (1932) Hawks, Howard USA 90min
+691 N Outer Space_ (1999) Tscherkassky, Peter Austria 10min
+692 N Ceddo_ (1976) Sembene, Ousmane Senegal 117min
+693 Y Angel_ (1937) Lubitsch, Ernst USA 91min
+694 N Mothlight_ (1963) Brakhage, Stan USA 4min
+695 Y Holy Mountain, The_ (1973) Jodorowsky, Alejandro Mexico 114min
+696 N Orlando_ (1992) Potter, Sally UK 94min
+697 N Chronicle of a Summer_ (1961) Rouch, Jean & Edgar Morin France 85min
+698 Y On the Town_ (1949) Donen & Kelly USA 98min
+699 Y American in Paris, An_ (1951) Minnelli, Vincente USA 115min
+700 Y Smiles of a Summer Night_ (1955) Bergman, Ingmar Sweden 108min
+701 Y Lives of Others, The_ (2006) von Donnersmarck, Florian Henckel Germany 138min
+702 Y Monty Python and the Holy Grail_ (1975) Gilliam & Jones UK 90min
+703 N Seven Women_ (1966) Ford, John USA 87min
+704 Y Seventh Heaven_ (1927) Borzage, Frank USA 119min
+705 Y Gummo_ (1997) Korine, Harmony USA 88min
+706 N Golden Coach, The_ (1952) Renoir, Jean Italy 100min
+707 N True Heart Susie_ (1919) Griffith, D.W. USA 87min
+708 Y Harakiri_ (1962) Kobayashi, Masaki Japan 135min
+709 N Ludwig_ (1972) Visconti, Luchino Italy 235min
+710 Y Cul-de-sac_ (1966) Polanski, Roman UK 111min
+711 N Emperor's Naked Army Marches On, The_ (1987) Hara, Kazuo Japan 123min
+712 Y East of Eden_ (1955) Kazan, Elia USA 115min
 713 N Seasons, The_ (1975) Peleshian, Artavazd USSR 29min
 714 Y Get Carter_ (1971) Hodges, Mike UK 112min
 715 Y Casque d'or_ (1952) Becker, Jacques France 96min
 716 Y My Own Private Idaho_ (1991) Van Sant, Gus USA 102min
 717 N Woman Next Door, The_ (1981) Truffaut, Francois France 106min
-718  Die Hard_ (1988) McTiernan, John USA 131min
-719  Witness_ (1985) Weir, Peter USA 112min
-720  Thief of Bagdad, The_ (1940) Powell & Pressburger UK 106min
-721  Black Orpheus_ (1959) Camus, Marcel Brazil 103min
-722  Distant_ (2002) Ceylan, Nuri Bilge Turkey 110min
-723  Simon of the Desert_ (1965) Bunuel, Luis Mexico 43min
-724  Misfits, The_ (1961) Huston, John USA 124min
-725  Dames du Bois de Boulogne, Les_ (1945) Bresson, Robert France 85min
-726  Haine, La_ (1995) Kassovitz, Mathieu France 93min
-727  Not Reconciled_ (1965) Straub, Jean-Marie West Germany 53min
-728  Funny Games_ (1997) Haneke, Michael Austria 108min
-729  Abraham's Valley_ (1993) de Oliveira, Manoel Portugal 189min
-730  Fallen Idol, The_ (1948) Reed, Carol UK 94min
-731  Gun Crazy_ (1949) Lewis, Joseph H. USA 86min
-732  Zelig_ (1983) Allen, Woody USA 79min
-733  Cienaga, La_ (2001) Martel, Lucrecia Argentina 99min
-734  Colossal Youth_ (2006) Costa, Pedro Portugal 155min
-735  Outlaw Josey Wales, The_ (1976) Eastwood, Clint USA 135min
-736  Sauve qui peut_ (la vie)_ (1980) Godard, Jean-Luc France 87min
-737  Z_ (1969) Costa-Gavras, Constantin France 127min
-738  Fly, The_ (1986) Cronenberg, David USA 100min
-739  Hitler: A Film from Germany_ (1977) Syberberg, Hans-Jurgen West Germany 442min
-740  American Graffiti_ (1973) Lucas, George USA 110min
-741  Tale of the Wind, A_ (1988) Ivens, Joris France 80min
+718 Y Die Hard_ (1988) McTiernan, John USA 131min
+719 N Witness_ (1985) Weir, Peter USA 112min
+720 Y Thief of Bagdad, The_ (1940) Powell & Pressburger UK 106min
+721 Y Black Orpheus_ (1959) Camus, Marcel Brazil 103min
+722 N Distant_ (2002) Ceylan, Nuri Bilge Turkey 110min
+723 Y Simon of the Desert_ (1965) Bunuel, Luis Mexico 43min
+724 Y Misfits, The_ (1961) Huston, John USA 124min
+725 Y Dames du Bois de Boulogne, Les_ (1945) Bresson, Robert France 85min
+726 Y Haine, La_ (1995) Kassovitz, Mathieu France 93min
+727 N Not Reconciled_ (1965) Straub, Jean-Marie West Germany 53min
+728 N Funny Games_ (1997) Haneke, Michael Austria 108min
+729 N Abraham's Valley_ (1993) de Oliveira, Manoel Portugal 189min
+730 Y Fallen Idol, The_ (1948) Reed, Carol UK 94min
+731 Y Gun Crazy_ (1949) Lewis, Joseph H. USA 86min
+732 Y Zelig_ (1983) Allen, Woody USA 79min
+733 N Cienaga, La_ (2001) Martel, Lucrecia Argentina 99min
+734 N Colossal Youth_ (2006) Costa, Pedro Portugal 155min
+735 Y Outlaw Josey Wales, The_ (1976) Eastwood, Clint USA 135min
+736 N Sauve qui peut (la vie)_ (1980) Godard, Jean-Luc France 87min
+737 Y Z_ (1969) Costa-Gavras, Constantin France 127min
+738 Y Fly, The_ (1986) Cronenberg, David USA 100min
+739 N Hitler: A Film from Germany_ (1977) Syberberg, Hans-Jurgen West Germany 442min
+740 Y American Graffiti_ (1973) Lucas, George USA 110min
+741 N Tale of the Wind, A_ (1988) Ivens, Joris France 80min
 742 N Topsy-Turvy_ (1999) Leigh, Mike UK 160min
 743 Y Dancer in the Dark_ (2000) von Trier, Lars Denmark 140min
 744 Y Vengeance is Mine_ (1979) Imamura, Shohei Japan 129min
 745 Y Last Temptation of Christ, The_ (1988) Scorsese, Martin USA 164min
 746 Y Lone Star_ (1996) Sayles, John USA 135min
 747 N Reds_ (1981) Beatty, Warren USA 200min
-748  Now, Voyager_ (1942) Rapper, Irving USA 117min
-749  L.A. Confidential_ (1997) Hanson, Curtis USA 137min
-750  Wild Child, The_ (1970) Truffaut, Francois France 85min
-751  Kaagaz Ke Phool_ (1959) Dutt, Guru India 148min
-752  Odd Man Out_ (1947) Reed, Carol UK 115min
-753  Tie Xi Qu: West of the Tracks_ (2003) Wang Bing China 551min
-754  A nous la liberte_ (1931) Clair, Rene France 87min
-755  Bete humaine, La_ (1938) Renoir, Jean France 99min
-756  River, The_ (1997) Tsai Ming-liang Taiwan 115min
-757  Seven Chances_ (1925) Keaton, Buster USA 56min
-758  Ballad of Narayama_ (1983) Imamura, Shohei Japan 130min
-759  JFK_ (1991) Stone, Oliver USA 188min
-760  Shanghai Express_ (1932) von Sternberg, Josef USA 80min
-761  Heimat_ (1984) Reitz, Edgar West Germany 940min
+748 Y Now, Voyager_ (1942) Rapper, Irving USA 117min
+749 Y L.A. Confidential_ (1997) Hanson, Curtis USA 137min
+750 N Wild Child, The_ (1970) Truffaut, Francois France 85min
+751 N Kaagaz Ke Phool_ (1959) Dutt, Guru India 148min
+752 Y Odd Man Out_ (1947) Reed, Carol UK 115min
+753 N Tie Xi Qu: West of the Tracks_ (2003) Wang Bing China 551min
+754 Y A nous la liberte_ (1931) Clair, Rene France 87min
+755 Y Bete humaine, La_ (1938) Renoir, Jean France 99min
+756 N The River (Tsai)_ (1997) Tsai Ming-liang Taiwan 115min
+757 Y Seven Chances_ (1925) Keaton, Buster USA 56min
+758 N Ballad of Narayama_ (1983) Imamura, Shohei Japan 130min
+759 Y JFK_ (1991) Stone, Oliver USA 188min
+760 Y Shanghai Express_ (1932) von Sternberg, Josef USA 80min
+761 N Heimat_ (1984) Reitz, Edgar West Germany 940min
 762 Y Streetcar Named Desire, A_ (1951) Kazan, Elia USA 122min
 763 Y Blood of a Poet, The_ (1930) Cocteau, Jean France 58min
 764 Y Princess Mononoke_ (1997) Miyazaki, Hayao Japan 133min
@@ -775,22 +775,22 @@ Already taken from many sources (see ____ for details)
 771 Y Zorns Lemma_ (1970) Frampton, Hollis USA 60min
 772 N Fires Were Started_ (1943) Jennings, Humphrey UK 80min
 773 Y Posto, Il_ (1961) Olmi, Ermanno Italy 93min
-774  Touchez pas au Grisbi_ (1953) Becker, Jacques France 94min
-775  Elephant_ (2003) Van Sant, Gus USA 81min
-776  Big Deal on Madonna Street_ (1958) Monicelli, Mario Italy 91min
-777  Edward Scissorhands_ (1990) Burton, Tim USA 100min
-778  Nuit du carrefour, La_ (1932) Renoir, Jean France 73min
-779  Unsere Afrikareise_ (1966) Kubelka, Peter Austria 13min
-780  Sang des betes, Le_ (1949) Franju, Georges France 20min
-781  Branded to Kill_ (1967) Suzuki, Seijun Japan 91min
-782  India: Matri Bhumi_ (1959) Rossellini, Roberto Italy 90min
-783  Morocco_ (1930) von Sternberg, Josef USA 92min
-784  Zodiac_ (2007) Fincher, David USA 158min
-785  Fellini's Casanova_ (1976) Fellini, Federico Italy 158min
-786  Night of the Demon_ (1957) Tourneur, Jacques UK 82min
-787  Ladies Man, The_ (1961) Lewis, Jerry USA 95min
-788  America, America_ (1963) Kazan, Elia USA 168min
-789  Van Gogh_ (1991) Pialat, Maurice France 155min
+774 Y Touchez pas au Grisbi_ (1953) Becker, Jacques France 94min
+775 Y Elephant_ (2003) Van Sant, Gus USA 81min
+776 Y Big Deal on Madonna Street_ (1958) Monicelli, Mario Italy 91min
+777 Y Edward Scissorhands_ (1990) Burton, Tim USA 100min
+778 N Nuit du carrefour, La_ (1932) Renoir, Jean France 73min
+779 N Unsere Afrikareise_ (1966) Kubelka, Peter Austria 13min
+780 Y Sang des betes, Le_ (1949) Franju, Georges France 20min
+781 Y Branded to Kill_ (1967) Suzuki, Seijun Japan 91min
+782 N India: Matri Bhumi_ (1959) Rossellini, Roberto Italy 90min
+783 Y Morocco_ (1930) von Sternberg, Josef USA 92min
+784 Y Zodiac_ (2007) Fincher, David USA 158min
+785 N Fellini's Casanova_ (1976) Fellini, Federico Italy 158min
+786 Y Night of the Demon_ (1957) Tourneur, Jacques UK 82min
+787 Y Ladies Man, The_ (1961) Lewis, Jerry USA 95min
+788 N America, America_ (1963) Kazan, Elia USA 168min
+789 N Van Gogh_ (1991) Pialat, Maurice France 155min
 790 N Starship Troopers_ (1997) Verhoeven, Paul USA 129min
 791 Y Floating Weeds_ (1959) Ozu, Yasujiro Japan 119min
 792 Y Amelie_ (2001) Jeunet, Jean-Pierre France 122min
@@ -799,126 +799,126 @@ Already taken from many sources (see ____ for details)
 795 Y 42nd Street_ (1933) Bacon, Lloyd USA 89min
 796 Y Usual Suspects, The_ (1995) Singer, Bryan USA 105min
 797 N Incredible Shrinking Man, The_ (1957) Arnold, Jack USA 81min
-798  Roue, La_ (1923) Gance, Abel France 273min
-799  El Dorado_ (1966) Hawks, Howard USA 126min
-800  Grin Without a Cat_ (1977) Marker, Chris France 240min
-801  Juliet of the Spirits_ (1965) Fellini, Federico Italy 148min
-802  Thing from Another World, The_ (1951) Nyby & Hawks USA 87min
-803  Grave of the Fireflies_ (1988) Takahata, Isao Japan 93min
-804  Dog Star Man_ (1964) Brakhage, Stan USA 75min
-805  Trial, The_ (1962) Welles, Orson France 118min
-806  Exotica_ (1994) Egoyan, Atom Canada 104min
-807  Vagabond_ (1985) Varda, Agnes France 106min
-808  Hana-Bi_ (1997) Kitano, Takeshi Japan 103min
-809  Memento_ (2000) Nolan, Christopher USA 113min
-810  Assault on Precinct 13_ (1976) Carpenter, John USA 90min
-811  Man Who Would Be King, The_ (1975) Huston, John USA 129min
+798 Y Roue, La_ (1923) Gance, Abel France 273min
+799 N El Dorado_ (1966) Hawks, Howard USA 126min
+800 N Grin Without a Cat_ (1977) Marker, Chris France 240min
+801 Y Juliet of the Spirits_ (1965) Fellini, Federico Italy 148min
+802 Y Thing from Another World, The_ (1951) Nyby & Hawks USA 87min
+803 Y Grave of the Fireflies_ (1988) Takahata, Isao Japan 93min
+804 N Dog Star Man_ (1964) Brakhage, Stan USA 75min
+805 Y Trial, The_ (1962) Welles, Orson France 118min
+806 N Exotica_ (1994) Egoyan, Atom Canada 104min
+807 Y Vagabond_ (1985) Varda, Agnes France 106min
+808 Y Hana-Bi_ (1997) Kitano, Takeshi Japan 103min
+809 Y Memento_ (2000) Nolan, Christopher USA 113min
+810 N Assault on Precinct 13_ (1976) Carpenter, John USA 90min
+811 Y Man Who Would Be King, The_ (1975) Huston, John USA 129min
 812  Late Chrysanthemums_ (1954) Naruse, Mikio Japan 101min
-813  D'est_ (1993) Akerman, Chantal Belgium 107min
-814  Death of Maria Malibran, The_ (1972) Schroeter, Werner West Germany 104min
-815  National Lampoon's Animal House_ (1978) Landis, John USA 109min
-816  Kwaidan_ (1964) Kobayashi, Masaki Japan 164min
-817  Midnight Run_ (1988) Brest, Martin USA 122min
-818  War and Peace_ (1967) Bondarchuk, Sergei USSR 357min
-819  Blood Simple_ (1984) Coen Brothers USA 97min
-820  Bob le flambeur_ (1955) Melville, Jean-Pierre France 102min
-821  When a Woman Ascends the Stairs_ (1960) Naruse, Mikio Japan 111min
-822  Silent Light_ (2007) Reygadas, Carlos Mexico 136min
-823  Hyenes_ (1992) Mambety, Djibril Diop Senegal 110min
-824  Chant d'amour, Un_ (1950) Genet, Jean France 26min
-825  Big Parade, The_ (1925) Vidor, King USA 141min
-826  Roman Holiday_ (1953) Wyler, William USA 119min
-827  Corbeau, Le_ (1943) Clouzot, Henri-Georges France 92min
-828  Minamata: The Victims and Their World_ (1971) Tsuchimoto, Noriaki Japan 105min
-829  Day the Earth Stood Still, The_ (1951) Wise, Robert USA 92min
-830  Sawdust and Tinsel_ (1953) Bergman, Ingmar Sweden 92min
+813 N D'est_ (1993) Akerman, Chantal Belgium 107min
+814 N Death of Maria Malibran, The_ (1972) Schroeter, Werner West Germany 104min
+815 Y National Lampoon's Animal House_ (1978) Landis, John USA 109min
+816 Y Kwaidan_ (1964) Kobayashi, Masaki Japan 164min
+817 N Midnight Run_ (1988) Brest, Martin USA 122min
+818 N War and Peace_ (1967) Bondarchuk, Sergei USSR 357min
+819 Y Blood Simple_ (1984) Coen Brothers USA 97min
+820 Y Bob le flambeur_ (1955) Melville, Jean-Pierre France 102min
+821 N When a Woman Ascends the Stairs_ (1960) Naruse, Mikio Japan 111min
+822 N Silent Light_ (2007) Reygadas, Carlos Mexico 136min
+823 N Hyenes_ (1992) Mambety, Djibril Diop Senegal 110min
+824 N Chant d'amour, Un_ (1950) Genet, Jean France 26min
+825 Y Big Parade, The_ (1925) Vidor, King USA 141min
+826 Y Roman Holiday_ (1953) Wyler, William USA 119min
+827 Y Corbeau, Le_ (1943) Clouzot, Henri-Georges France 92min
+828 N Minamata: The Victims and Their World_ (1971) Tsuchimoto, Noriaki Japan 105min
+829 Y Day the Earth Stood Still, The_ (1951) Wise, Robert USA 92min
+830 Y Sawdust and Tinsel_ (1953) Bergman, Ingmar Sweden 92min
 831 N Match Factory Girl, The_ (1990) Kaurismaki, Aki Finland 68min
 832 Y Separation, A_ (2011) Farhadi, Asghar Iran 123min
 833 Y Oldboy_ (2003) Park Chan-wook South Korea 120min
 834 N Ten_ (2002) Kiarostami, Abbas France 92min
 835  Red Sorghum_ (1987) Zhang Yimou China 91min
-836  Dirty Harry_ (1971) Siegel, Don USA 102min
-837  Liebelei_ (1932) Ophuls, Max Germany 88min
-838  Carnival in Flanders_ (1935) Feyder, Jacques France 95min
-839  Fort Apache_ (1948) Ford, John USA 127min
-840  M*A*S*H_ (1970) Altman, Robert USA 116min
-841  Duck Amuck_ (1953) Jones, Chuck USA 7min
-842  Pakeezah_ (1972) Amrohi, Kamal India 150min
-843  Mildred Pierce_ (1945) Curtiz, Michael USA 109min
-844  Storm Over Asia_ (1928) Pudovkin, Vsevolod USSR 93min
-845  Threepenny Opera, The_ (1931) Pabst, G.W. Germany 112min
+836 Y Dirty Harry_ (1971) Siegel, Don USA 102min
+837 N Liebelei_ (1932) Ophuls, Max Germany 88min
+838 N Carnival in Flanders_ (1935) Feyder, Jacques France 95min
+839 Y Fort Apache_ (1948) Ford, John USA 127min
+840 Y M*A*S*H_ (1970) Altman, Robert USA 116min
+841 Y Duck Amuck_ (1953) Jones, Chuck USA 7min
+842 N Pakeezah_ (1972) Amrohi, Kamal India 150min
+843 Y Mildred Pierce_ (1945) Curtiz, Michael USA 109min
+844 N Storm Over Asia_ (1928) Pudovkin, Vsevolod USSR 93min
+845 Y Threepenny Opera, The_ (1931) Pabst, G.W. Germany 112min
 846  Equinox Flower_ (1958) Ozu, Yasujiro Japan 118min
-847  Pink Flamingos_ (1972) Waters, John USA 92min
-848  Great Escape, The_ (1963) Sturges, John USA 168min
-849  Mephisto_ (1981) Szabo, Istvan Hungary 135min
-850  Red Beard_ (1965) Kurosawa, Akira Japan 185min
-851  Crumb_ (1994) Zwigoff, Terry USA 119min
-852  Only Son, The_ (1936) Ozu, Yasujiro Japan 87min
-853  Gilda_ (1946) Vidor, Charles USA 110min
-854  Chienne, La_ (1931) Renoir, Jean France 95min
-855  Second Breath_ (1966) Melville, Jean-Pierre France 144min
-856  Blow Out_ (1981) De Palma, Brian USA 107min
-857  Docks of New York, The_ (1928) von Sternberg, Josef USA 76min
-858  Princess Bride, The_ (1987) Reiner, Rob USA 98min
-859  No Country for Old Men_ (2007) Coen Brothers USA 122min
-860  Pepe le Moko_ (1937) Duvivier, Julien France 93min
-861  Lacombe, Lucien_ (1974) Malle, Louis France 137min
-862  4 Months, 3 Weeks and 2 Days_ (2007) Mungiu, Cristian Romania 113min
-863  Mother India_ (1957) Khan, Mehboob India 172min
-864  O Lucky Man!_ (1973) Anderson, Lindsay UK 173min
-865  Ladykillers, The_ (1955) Mackendrick, Alexander UK 90min
-866  Ace in the Hole_ (1951) Wilder, Billy USA 112min
-867  Pan's Labyrinth_ (2006) del Toro, Guillermo Spain 120min
-868  Wild at Heart_ (1990) Lynch, David USA 127min
+847 N Pink Flamingos_ (1972) Waters, John USA 92min
+848 Y Great Escape, The_ (1963) Sturges, John USA 168min
+849 N Mephisto_ (1981) Szabo, Istvan Hungary 135min
+850 Y Red Beard_ (1965) Kurosawa, Akira Japan 185min
+851 Y Crumb_ (1994) Zwigoff, Terry USA 119min
+852 Y Only Son, The_ (1936) Ozu, Yasujiro Japan 87min
+853 Y Gilda_ (1946) Vidor, Charles USA 110min
+854 Y Chienne, La_ (1931) Renoir, Jean France 95min
+855 Y Deuxieme Souffle, La_ (1966) Melville, Jean-Pierre France 144min
+856 Y Blow Out_ (1981) De Palma, Brian USA 107min
+857 Y Docks of New York, The_ (1928) von Sternberg, Josef USA 76min
+858 Y Princess Bride, The_ (1987) Reiner, Rob USA 98min
+859 Y No Country for Old Men_ (2007) Coen Brothers USA 122min
+860 Y Pepe le Moko_ (1937) Duvivier, Julien France 93min
+861 Y Lacombe, Lucien_ (1974) Malle, Louis France 137min
+862 Y 4 Months, 3 Weeks and 2 Days_ (2007) Mungiu, Cristian Romania 113min
+863 N Mother India_ (1957) Khan, Mehboob India 172min
+864 Y O Lucky Man!_ (1973) Anderson, Lindsay UK 173min
+865 Y Ladykillers, The_ (1955) Mackendrick, Alexander UK 90min
+866 Y Ace in the Hole_ (1951) Wilder, Billy USA 112min
+867 Y Pan's Labyrinth_ (2006) del Toro, Guillermo Spain 120min
+868 Y Wild at Heart_ (1990) Lynch, David USA 127min
 869 N Man's Castle_ (1933) Borzage, Frank USA 66min
 870 Y Brokeback Mountain_ (2005) Lee, Ang USA 134min
 871 N Arnulf Rainer_ (1960) Kubelka, Peter Austria 7min
-872  Syndromes and a Century_ (2006) Weerasethakul, Apichatpong Thailand 105min
-873  New York, New York_ (1977) Scorsese, Martin USA 164min
-874  My Man Godfrey_ (1936) La Cava, Gregory USA 95min
+872 Y Syndromes and a Century_ (2006) Weerasethakul, Apichatpong Thailand 105min
+873 Y New York, New York_ (1977) Scorsese, Martin USA 164min
+874 Y My Man Godfrey_ (1936) La Cava, Gregory USA 95min
 875  Ju Dou_ (1990) Zhang Yimou Japan 95min
-876  Beyond the Valley of the Dolls_ (1970) Meyer, Russ USA 109min
-877  Rififi_ (1955) Dassin, Jules France 115min
+876 N Beyond the Valley of the Dolls_ (1970) Meyer, Russ USA 109min
+877 Y Rififi_ (1955) Dassin, Jules France 115min
 878  Movie, A_ (1958) Conner, Bruce USA 12min
-879  Insider, The_ (1999) Mann, Michael USA 155min
-880  As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty_ (2000) Mekas, Jonas USA 288min
-881  Femme est une femme, Une_ (1961) Godard, Jean-Luc France 83min
-882  Humanity and Paper Balloons_ (1937) Yamanaka, Sadao Japan 86min
-883  Rushmore_ (1998) Anderson, Wes USA 93min
-884  Story of a Cheat, The_ (1936) Guitry, Sacha France 85min
-885  Act of Seeing with One's Own Eyes, The_ (1971) Brakhage, Stan USA 32min
-886  Princess Yang Kwei Fei_ (1955) Mizoguchi, Kenji Japan 98min
-887  Doomed Love_ (1978) de Oliveira, Manoel Portugal 260min
-888  Collectionneuse, La_ (1966) Rohmer, Eric France 88min
-889  Hotel Terminus_ (1987) Ophuls, Marcel USA 267min
-890  Barefoot Contessa, The_ (1954) Mankiewicz, Joseph L. USA 128min
-891  Adventures of Prince Achmed, The_ (1926) Reiniger, Lotte Germany 65min
+879 N Insider, The_ (1999) Mann, Michael USA 155min
+880 N As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty_ (2000) Mekas, Jonas USA 288min
+881 N Femme est une femme, Une_ (1961) Godard, Jean-Luc France 83min
+882 N Humanity and Paper Balloons_ (1937) Yamanaka, Sadao Japan 86min
+883 Y Rushmore_ (1998) Anderson, Wes USA 93min
+884 N Story of a Cheat, The_ (1936) Guitry, Sacha France 85min
+885 N Act of Seeing with One's Own Eyes, The_ (1971) Brakhage, Stan USA 32min
+886 N Princess Yang Kwei Fei_ (1955) Mizoguchi, Kenji Japan 98min
+887 N Doomed Love_ (1978) de Oliveira, Manoel Portugal 260min
+888 N Collectionneuse, La_ (1966) Rohmer, Eric France 88min
+889 N Hotel Terminus_ (1987) Ophuls, Marcel USA 267min
+890 Y Barefoot Contessa, The_ (1954) Mankiewicz, Joseph L. USA 128min
+891 N Adventures of Prince Achmed, The_ (1926) Reiniger, Lotte Germany 65min
 892 N Duel_ (1971) Spielberg, Steven USA 90min
 893 Y Ruggles of Red Gap_ (1935) McCarey, Leo USA 92min
 894 Y Private Life of Sherlock Holmes, The_ (1970) Wilder, Billy USA 125min
 895 N Dust in the Wind_ (1987) Hou Hsiao-hsien Taiwan 109min
 896 Y Synecdoche, New York_ (2008) Kaufman, Charlie USA 124min
 897 Y Yellow Submarine_ (1968) Dunning, George UK 90min
-898  Informer, The_ (1935) Ford, John USA 91min
-899  American Friend, The_ (1977) Wenders, Wim France 127min
-900  Bad Timing_ (1980) Roeg, Nicolas UK 129min
-901  Sweet Hereafter, The_ (1997) Egoyan, Atom Canada 112min
-902  Dracula_ (1958) Fisher, Terence UK 82min
-903  Reason, Debate and a Story_ (1974) Ghatak, Ritwik India 120min
-904  Stardust Memories_ (1980) Allen, Woody USA 91min
-905  Criminal Life of Archibaldo de la Cruz, The_ (1955) Bunuel, Luis Mexico 91min
-906  Devil is a Woman, The_ (1935) von Sternberg, Josef USA 83min
-907  Commune_ (Paris, 1871), La_ (2000) Watkins, Peter France 345min
+898 Y Informer, The_ (1935) Ford, John USA 91min
+899 Y American Friend, The_ (1977) Wenders, Wim France 127min
+900 N Bad Timing_ (1980) Roeg, Nicolas UK 129min
+901 N Sweet Hereafter, The_ (1997) Egoyan, Atom Canada 112min
+902 Y Dracula (Fisher)_ (1958) Fisher, Terence UK 82min
+903 N Reason, Debate and a Story_ (1974) Ghatak, Ritwik India 120min
+904 Y Stardust Memories_ (1980) Allen, Woody USA 91min
+905 N Criminal Life of Archibaldo de la Cruz, The_ (1955) Bunuel, Luis Mexico 91min
+906 Y Devil is a Woman, The_ (1935) von Sternberg, Josef USA 83min
+907 N Commune (Paris, 1871), La_ (2000) Watkins, Peter France 345min
 908 N Bonheur, Le_ (1965) Varda, Agnes France 79min
 909 N And Life Goes On_ (1992) Kiarostami, Abbas Iran 108min
-910  Blues Brothers, The_ (1980) Landis, John USA 130min
-911  Chikamatsu monogatari_ (1954) Mizoguchi, Kenji Japan 100min
-912  Four Nights of a Dreamer_ (1971) Bresson, Robert France 87min
-913  Duel in the Sun_ (1946) Vidor, King USA 130min
-914  Gandhi_ (1982) Attenborough, Richard UK 188min
-915  Excalibur_ (1981) Boorman, John UK 140min
-916  Mon oncle d'Amerique_ (1980) Resnais, Alain France 123min
-917  Placido_ (1961) Berlanga, Luis Garcia Spain 85min
+910 Y Blues Brothers, The_ (1980) Landis, John USA 130min
+911 N Chikamatsu monogatari_ (1954) Mizoguchi, Kenji Japan 100min
+912 N Four Nights of a Dreamer_ (1971) Bresson, Robert France 87min
+913 Y Duel in the Sun_ (1946) Vidor, King USA 130min
+914 Y Gandhi_ (1982) Attenborough, Richard UK 188min
+915 N Excalibur_ (1981) Boorman, John UK 140min
+916 Y Mon oncle d'Amerique_ (1980) Resnais, Alain France 123min
+917 N Placido_ (1961) Berlanga, Luis Garcia Spain 85min
 918 Y Last Detail, The_ (1973) Ashby, Hal USA 105min
 919 Y One, Two, Three_ (1961) Wilder, Billy USA 108min
 920 N Outskirts_ (1933) Barnet, Boris USSR 98min
