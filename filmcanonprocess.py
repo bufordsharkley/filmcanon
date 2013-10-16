@@ -1,6 +1,5 @@
 #!/usr/bin/python
 
-from Tkinter import *
 import os
 import itertools
 import filmdata
@@ -33,3 +32,10 @@ if __name__ == '__main__':
     # fill "files" box with .txt-less filenames. When selected, update label with short header info.
     # 1) Select file. Shows Y on left, N on right
     # 2) Merge files - just merge all files in multiple, show in alphabetical order, descending by "most hit" at top.
+
+    # TO ADD:
+    # edit any canon-- takes you to new page (top level?) where unsorted above (if any), then left and right... "mark as seen"/"mark as not seen"
+    # in merged, show WHERE they come from
+    # sort canons.
+    # search (everything?)
+    # "merge" functionality

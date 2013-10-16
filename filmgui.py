@@ -11,10 +11,12 @@ class ListboxWithScrollbar(Frame):
                   selectmode=EXTENDED, exportselection=TRUE)
         self.lb.bind('<Control-a>', lambda e, s=self: s._selectall())
         self.lb.bind('<Control-A>', lambda e, s=self: s._selectall())
+        self.lb.bind('<Return>', lambda e: self._sort())
         self.lb.pack(side=LEFT, fill=BOTH, expand=YES)
         s = Scrollbar(self, orient=VERTICAL, command=self.lb.yview)
         s.pack(side=LEFT, fill=Y)
         self.lb['yscrollcommand'] = s.set
+        self._sortfunction = None
 
     def fill(self,listofentries):
         """empty menu, and then fill with the contents of list"""
@@ -28,6 +30,13 @@ class ListboxWithScrollbar(Frame):
 
     def _selectall(self):
         return [self.lb.select_set(ii) for ii in range(self.lb.size())]
+
+    def _sort(self):
+        if self._sortfunction:
+            self._sortfunction()
+
+    def update_sort_function(self, newsortfcn):
+        self._sortfunction = newsortfcn
 
 class CanonListbox(ListboxWithScrollbar):
     def __init__(self, master, canonlist):
@@ -55,11 +64,13 @@ class Dashboard(Frame):
     def __init__(self, master,listboxofcanons, filmdb, comparisonwidget,labelswidget):
         Frame.__init__(self, master)
         self._sortfunction = None
-        sortbutton = Button(self, text="SHOW", command = lambda: self._sort(listboxofcanons, filmdb, comparisonwidget, labelswidget))
+        self.datastuff = (listboxofcanons, filmdb, comparisonwidget, labelswidget)
+        sortbutton = Button(self, text="SHOW", command = lambda: self._sort())
         sortbutton.pack()#.grid(row=0,column=0)
         #self.label.configure(text= format_time_integer(self.remainingfull))
 
-    def _sort(self, listboxofcanons, filmdb, comparisonwidget, labelswidget):
+    def _sort(self):
+        (listboxofcanons, filmdb, comparisonwidget, labelswidget) = self.datastuff
         if self._sortfunction:
             self._sortfunction(listboxofcanons, filmdb, comparisonwidget, labelswidget)
         else:
@@ -145,27 +156,29 @@ class Tkinterface(Tk):
         Tk.__init__(self)
         self.title('Film Canon')
         self.geometry("1000x500")
-        frame = Frame(self)
-        frame.pack(expand=True, fill=BOTH)
+        overallframe = Frame(self)
 
-        frametop = Frame(frame)
-        framebottom = Frame(frame)
+        frametop = Frame(overallframe)
+        framebottom = Frame(overallframe)
+        labelsforfilms = LabelSetFilm(frametop)
+        framelistofcanons = Frame(frametop, labelsforfilms)
+        listboxofcanons = CanonListbox(framelistofcanons, listofcanons)
+        self.comparisonwidget = ComparisonWidget(framebottom)
+        self.dashboard = Dashboard(frametop, listboxofcanons, filmdb, self.comparisonwidget, labelsforfilms)
+
+        # wiring between classes:
+        listboxofcanons.update_sort_function(self.dashboard._sort)
+
+        overallframe.pack(expand=True, fill=BOTH)
         frametop.pack()
         framebottom.pack(side=LEFT,expand=YES,fill=BOTH)
-
-        labelsforfilms = LabelSetFilm(frametop)
-        
-        framelistofcanons = Frame(frametop, labelsforfilms)
-
         framelistofcanons.pack(side=LEFT,expand=True,fill=BOTH)
-
-        listboxofcanons = CanonListbox(framelistofcanons, listofcanons)
         listboxofcanons.pack()
-        self.comparisonwidget = ComparisonWidget(framebottom)
         self.comparisonwidget.pack(fill=X)
-        self.dashboard = Dashboard(frametop, listboxofcanons, filmdb, self.comparisonwidget, labelsforfilms)
         self.dashboard.pack(side=LEFT,expand=True,fill=BOTH)
         labelsforfilms.pack()
+
+
 
     def run_continuously(self):
         self.mainloop()
