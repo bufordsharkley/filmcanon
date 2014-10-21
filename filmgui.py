@@ -11,12 +11,10 @@ class ListboxWithScrollbar(Frame):
                   selectmode=EXTENDED, exportselection=TRUE)
         self.lb.bind('<Control-a>', lambda e, s=self: s._selectall())
         self.lb.bind('<Control-A>', lambda e, s=self: s._selectall())
-        self.lb.bind('<Return>', lambda e: self._sort())
         self.lb.pack(side=LEFT, fill=BOTH, expand=YES)
         s = Scrollbar(self, orient=VERTICAL, command=self.lb.yview)
         s.pack(side=LEFT, fill=Y)
         self.lb['yscrollcommand'] = s.set
-        self._sortfunction = None
 
     def fill(self,listofentries):
         """empty menu, and then fill with the contents of list"""
@@ -31,18 +29,13 @@ class ListboxWithScrollbar(Frame):
     def _selectall(self):
         return [self.lb.select_set(ii) for ii in range(self.lb.size())]
 
-    def _sort(self):
-        if self._sortfunction:
-            self._sortfunction()
-
-    def update_sort_function(self, newsortfcn):
-        self._sortfunction = newsortfcn
-
 class CanonListbox(ListboxWithScrollbar):
     def __init__(self, master, canonlist):
         ListboxWithScrollbar.__init__(self, master)
         random.shuffle(canonlist) # randomize the order of appearance...
         self.fill(canonlist)
+        self.lb.bind('<Return>', lambda e: self._sort())
+        self._sortfunction = None
 
     def get_selection(self):
         try:
@@ -58,6 +51,14 @@ class CanonListbox(ListboxWithScrollbar):
 
     def _selectall(self):
         return [self.lb.select_set(ii) for ii in range(self.lb.size())]
+
+    def _sort(self):
+        if self._sortfunction:
+            self._sortfunction()
+
+    def update_sort_function(self, newsortfcn):
+        self._sortfunction = newsortfcn
+
 
 class Dashboard(Frame):
     """Contains button for sorting and also text information on canon."""
@@ -177,8 +178,6 @@ class Tkinterface(Tk):
         self.comparisonwidget.pack(fill=X)
         self.dashboard.pack(side=LEFT,expand=True,fill=BOTH)
         labelsforfilms.pack()
-
-
 
     def run_continuously(self):
         self.mainloop()

@@ -2,7 +2,7 @@ Cannes Film Festival: Palme d'or winners
 last updated from source_2013 08 04
 last processed_2013 08 04
 
-2013 N Blue Is the Warmest Colour_ (2013)
+2013 Y Blue Is the Warmest Colour_ (2013)
 2012 N Amour_ (2012)
 2011 Y The Tree of Life_ (2011)
 2010 Y Uncle Boonmee Who Can Recall His Past Lives_ (2010)
@@ -16,7 +16,7 @@ last processed_2013 08 04
 2002 Y Pianist, The_ (2002)
 2001 Y The Son's Room_ (2001)
 2000 Y Dancer in the Dark_ (2000)
-1999 N Rosetta_ (1999)
+1999 Y Rosetta_ (1999)
 1998 N Eternity and a Day_ (1998)
 1997 Y Taste of Cherry_ (1997)
 1997 Y The Eel_ (1997)
