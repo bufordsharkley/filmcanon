@@ -1,9 +1,8 @@
-#!/usr/bin/python
-
 """Data backend for film canon program"""
 
 import itertools
 import operator
+
 
 class FilmDatabase:
     def __init__(self, canons, listoflistoftuplesofdata):
@@ -22,20 +21,21 @@ class FilmDatabase:
             sorteddata = sorted(listoftuplesoffilmdata, key=operator.itemgetter(1))
         except:
             #print filenameforcanon
-            print 'Error pulling from database'
+            print('Error pulling from database')
             sorteddata = []
-        try:        
-            for key, yesnogroup in itertools.groupby(sorteddata,operator.itemgetter(1)):
+        try:
+            for key, yesnogroup in itertools.groupby(sorteddata,
+                                                     operator.itemgetter(1)):
                 if key == 'Y':
                     yeslist = list(yesnogroup)
                 elif key == 'N':
                     nolist = list(yesnogroup)
                 elif key == '':
-                    print 'Still need to process ' + str(len(list(yesnogroup))) + ' entries.'
+                    print('Still need to process ' + str(len(list(yesnogroup))) + ' entries.')
                 else:
-                    print 'What is this?' + str(list(yesnogroup))
+                    print('What is this?' + str(list(yesnogroup)))
         except:
-            print 'Error in grouping'
+            print('Error in grouping')
         return yeslist, nolist
 
     def get_description_from_filename(self, filename):
@@ -44,8 +44,10 @@ class FilmDatabase:
     def get_numfilms_from_filename(self, filename):
         return len(self.filmdict[filename][1])
 
+
 def process_film_canon_file(filename):
     """Open file, read header, process body into list of tuples"""
+    print(filename)
     f = open(filename)
     # top 4 lines contain special information
     # only first line important here:
@@ -53,11 +55,9 @@ def process_film_canon_file(filename):
     for ii in range(3):
         # burn the other three header lines
         f.readline()
-    listincanon = []
-    for ii, line in enumerate(f):
-        (ranking,yesno,filmtitle,extrametainfo) = process_film_line(line)
-        listincanon.append((ranking,yesno,filmtitle,extrametainfo))
+    listincanon = [process_film_line(line) for line in f]
     return shortdescription, listincanon
+
 
 def process_film_line(filmline):
     '''break on underscores, process Y or N, and return 
@@ -70,7 +70,7 @@ def process_film_line(filmline):
         filmandinfo = 'FIXLINEFIXLINE'
         ranking = ''
         yesno = 'N'
-        print 'Fix line: ' + filmline
+        print('Fix line: ' + filmline)
     if ranking == '~':
         ranking = ''
     yesno = yesno.upper()
@@ -84,16 +84,19 @@ def process_film_line(filmline):
         extrametainfo = ''
     return (ranking,yesno,put_the_at_end(filmtitle.rstrip()),extrametainfo)
 
+
 def sort_into_boxes(listboxofcanons, filmdb, comparisonwidget, labelswidget):
     filenamelist = listboxofcanons.get_selection()
+    print(filenamelist)
     if len(filenamelist) == 1:
         filename = filenamelist[0]
-        yeslist,nolist = filmdb.break_into_yes_and_no(filename)
-        comparisonwidget.fill_yes_and_no(yeslist,nolist)
+        yeslist, nolist = filmdb.break_into_yes_and_no(filename)
+        comparisonwidget.fill_yes_and_no(yeslist, nolist)
         updateinfo = filename
         description = filmdb.get_description_from_filename(filename).rstrip()
         filmno = filmdb.get_numfilms_from_filename(filename)
-        labelswidget.update_labels(fname = filename, desc = description, filmnum = str(filmno))
+        labelswidget.update_labels(fname=filename, desc=description,
+                                   filmnum=str(filmno))
     else: # if more than one list is selected, merge:
         mergedyestitles = []
         mergednotitles = []
@@ -103,7 +106,7 @@ def sort_into_boxes(listboxofcanons, filmdb, comparisonwidget, labelswidget):
             mergednotitles.extend([film[2] for film in nolist])
         comparisonwidget.clear()
         labelswidget.clear()
-        labelswidget.update_labels(fname = 'MULTIPLE LIST MERGE')
+        labelswidget.update_labels(fname='MULTIPLE LIST MERGE')
         comparisonwidget.fill_merged_lists(mergedyestitles,mergednotitles)
 
 
@@ -140,7 +143,7 @@ def processnumber(numberforfilm):
 
 def process_extra_info(extrainfo):
     if extrainfo:
-        return '   ' + extrainfo.rstrip()                
+        return '   ' + extrainfo.rstrip()
     return ''
 
 # (this is way too specific... needs to be generalized)
@@ -151,16 +154,15 @@ def processfilmtitle(filminfolist):
     except:
         titleforfilm = filminfolist
         extrainfo = ''
-    try:
-        return put_the_at_start(titleforfilm.rstrip().encode("unicode_escape")) + process_extra_info(extrainfo).encode("unicode_escape")
-    except:
-        return put_the_at_start(titleforfilm.rstrip().encode("string_escape")) + process_extra_info(extrainfo).encode("string_escape")
+    return put_the_at_start(titleforfilm.rstrip()) + process_extra_info(extrainfo)
     # lozenge - work with spacing to make it look nicer
+
 
 def yesnolistintoreadable(yesnolist):
     """Save # (if any) and film title, boot rest"""
-    readablelist = [processnumber(row[0]) + processfilmtitle(row[2:]) for row in yesnolist]
-    return readablelist
+    return [processnumber(row[0]) + processfilmtitle(row[2:])
+            for row in yesnolist]
+
 
 def mergesyesnointoreadable(groupedyesno):
     # they're lists of lists of movie titles. If len > 1, they all match.
@@ -178,6 +180,3 @@ def group_yes_and_no(mergedyestitles, mergednotitles):
         listofgroupedno.append(list(group))
     return (mergesyesnointoreadable(sorted(listofgroupedyes, key=len, reverse=True)),
             mergesyesnointoreadable(sorted(listofgroupedno, key=len, reverse=True)))
-
-if __name__ == '__main__':
-    pass

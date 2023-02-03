@@ -4,7 +4,7 @@ They Shoot Pictures, Don't They? "Highly Recommended" list
 ~ Y Adam's Rib_ George Cukor 1949
 ~ Y The Age of Innocence_ Martin Scorsese 1993
 ~ Y Alexander Nevsky_ Sergei Eisenstein 1938
-~ Y All About My Mother_ Pedro Almodóvar 1999
+~ Y All About My Mother_ Pedro AlmodÃ³var 1999
 ~ Y Almost Famous_ Cameron Crowe 2000
 ~ N America, America_ Elia Kazan 1963
 ~ Y Angel Face_ Otto Preminger 1953
@@ -55,8 +55,8 @@ They Shoot Pictures, Don't They? "Highly Recommended" list
 ~ Y Chloe in the Afternoon Eric Rohmer 1972
 ~ Y Christmas in July Preston Sturges 1940
 ~ N A City of Sadness Hou Hsiao-Hsien 1989
-~  Clash by Night Fritz Lang 1952
-~  Close-Up Abbas Kiarostami 1989
+~ Y Clash by Night Fritz Lang 1952
+~ Y Close-Up Abbas Kiarostami 1989
 ~  The Color Purple Steven Spielberg 1985
 ~  The Conformist Bernardo Bertolucci 1969
 ~  Contempt Jean-Luc Godard 1963
@@ -74,7 +74,7 @@ They Shoot Pictures, Don't They? "Highly Recommended" list
 ~ Y Le Deuxieme Souffle_ Jean-Pierre Melville 1966
 ~  Devil in a Blue Dress_ Carl Franklin 1995
 ~  Diary of a Country Priest_ Robert Bresson 1950
-~  The Discreet Charm of the Bourgeoisie Luis Buñuel 1972
+~  The Discreet Charm of the Bourgeoisie Luis BuÃ±uel 1972
 ~  Distant Voices, Still Lives Terence Davies 1988
 ~  D.O.A. Rudolph Mate 1949
 ~  Dodsworth William Wyler 1936
@@ -88,12 +88,12 @@ They Shoot Pictures, Don't They? "Highly Recommended" list
 ~  East of Eden Elia Kazan 1955
 ~  The Edge of the World Michael Powell 1937
 ~  Edvard Munch Peter Watkins 1974
-~  El Luis Buñuel 1952
+~  El Luis BuÃ±uel 1952
 ~  El Cid Anthony Mann 1961
 ~  Election Alexander Payne 1999
 ~  Elephant Gus Van Sant 2003
 ~  Elevator to the Gallows Louis Malle 1957
-~ N Exotica Atom Egoyan 1994
+~ Y Exotica Atom Egoyan 1994
 ~  Europa '51 Roberto Rossellini 1951
 ~  Fahrenheit 9/11 Michael Moore 2004
 ~  Fail-Safe Sidney Lumet 1964
@@ -162,7 +162,7 @@ They Shoot Pictures, Don't They? "Highly Recommended" list
 ~  Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles_ Chantal Akerman 1975
 ~  Judex_ Georges Franju 1963
 ~  Ju Dou_ Zhang Yimou 1990
-~ Y Jules et Jim_ François Truffaut 1961
+~ Y Jules et Jim_ FranÃ§ois Truffaut 1961
 ~ Y Kansas City Confidential_ Phil Karlson 1952
 ~ Y The Kid_ Charles Chaplin 1921
 ~ Y The King of Comedy_ Martin Scorsese 1983
@@ -216,7 +216,7 @@ They Shoot Pictures, Don't They? "Highly Recommended" list
 ~  The Man Who Shot_ Liberty Valance John Ford 1962
 ~  The Man Who Wasn't There_ Joel Coen and Ethan Coen 2001
 ~  The Man With a Movie Camera_ Dziga Vertov 1929
-~  The Man Without a Past_ Aki Kaurismäki 2002
+~  The Man Without a Past_ Aki KaurismÃ¤ki 2002
 ~  Marnie_ Alfred Hitchcock 1964
 ~  Masculin Feminin_ Jean-Luc Godard 1966
 ~  The Mating Season_ Mitchell Leisen 1951
@@ -268,7 +268,7 @@ They Shoot Pictures, Don't They? "Highly Recommended" list
 ~  Ordet_ Carl Dreyer 1955
 ~  Orpheus_ Jean Cocteau 1950
 ~  Othello_ Orson Welles 1952
-~  The Others_ Alejandro Amenábar 2001
+~  The Others_ Alejandro AmenÃ¡bar 2001
 ~  Our Hospitality_ Buster Keaton & John Blystone 1923
 ~  The Outlaw Josey Wales_ Clint Eastwood 1976
 ~  Paisan_ Roberto Rossellini 1946
@@ -276,7 +276,7 @@ They Shoot Pictures, Don't They? "Highly Recommended" list
 ~  Paris, Texas_ Wim Wenders 1984
 ~  The Passion of Joan of Arc_ Carl Dreyer 1928
 ~  Phantom Lady_ Robert Siodmak 1944
-~  The Phantom of Liberty_ Luis Buñuel 1974
+~  The Phantom of Liberty_ Luis BuÃ±uel 1974
 ~  The Phenix City Story_ Phil Karlson 1955
 ~  Pickup on South Street_ Sam Fuller 1953
 ~  Playtime_ Jacques Tati 1967
@@ -312,14 +312,14 @@ They Shoot Pictures, Don't They? "Highly Recommended" list
 ~ Y The Seventh Victim Mark Robson 1943
 ~  Shadows John Cassavetes 1959
 ~  Shanghai Triad_ Zhang Yimou 1995
-~  Shoot the Piano Player_ François Truffaut 1960
+~  Shoot the Piano Player_ FranÃ§ois Truffaut 1960
 ~  The Silence of the Lambs_ Jonathan Demme 1991
 ~  A Simple Plan_ Sam Raimi 1998
 ~  The Sleeping Tiger_ Joseph Losey 1954
 ~  Sleep My Love_ Douglas Sirk 1948
 ~  Sleepy Hollow_ Tim Burton 1999
 ~  Smoke_ Wayne Wang 1995
-~  The Soft Skin_ François Truffaut 1964
+~  The Soft Skin_ FranÃ§ois Truffaut 1964
 ~  Solaris_ Andrei Tarkovsky 1972
 ~  Son of Paleface_ Frank Tashlin 1952
 ~  The Spanish Prisoner_ David Mamet 1997
@@ -358,7 +358,7 @@ They Shoot Pictures, Don't They? "Highly Recommended" list
 ~ Y Tokyo Drifter_ Seijun Suzuki 1966
 ~ N The Tomb of Ligeia_ Roger Corman 1965
 ~ Y The Treasure of the Sierra Madre_ John Huston 1948
-~ Y Tristana_ Luis Buñuel 1970
+~ Y Tristana_ Luis BuÃ±uel 1970
 ~ N Trouble in Mind_ Alan Rudolph 1985
 ~ Y Trust_ Hal Hartley 1990
 ~ N Try and Get Me!_ Cy Endfield 1951
@@ -374,7 +374,7 @@ They Shoot Pictures, Don't They? "Highly Recommended" list
 ~ Y The Unknown_ Tod Browning 1927
 ~ Y The Untouchables_ Brian De Palma 1987
 ~ Y The Verdict_ Sidney Lumet 1982
-~ Y Viridiana_ Luis Buñuel 1961
+~ Y Viridiana_ Luis BuÃ±uel 1961
 ~ Y The Wages of Fear_ Henri-Georges Clouzot 1952
 ~ N Warlock_ Edward Dmytryk 1959
 ~ Y Where the Sidewalk Ends_ Otto Preminger 1950
@@ -383,7 +383,7 @@ They Shoot Pictures, Don't They? "Highly Recommended" list
 ~ N White Dog_ Sam Fuller 1982
 ~ Y White Heat_ Raoul Walsh 1949
 ~ N Wild River_ Elia Kazan 1960
-~ Y The Wind_ Victor Sjöström 1928
+~ Y The Wind_ Victor SjÃ¶strÃ¶m 1928
 ~ N The Wind Will Carry Us_ Abbas Kiarostami 1999
 ~ Y Wings of Desire_ Wim Wenders 1987
 ~ Y The Wizard of Oz_ Victor Fleming 1939

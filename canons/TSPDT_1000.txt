@@ -62,7 +62,7 @@ Already taken from many sources (see ____ for details)
 58 Y Late Spring_ (1949) Ozu, Yasujiro Japan 108min
 59 Y In the Mood for Love_ (2000) Wong Kar-wai Hong Kong 97min
 60 Y North by Northwest_ (1959) Hitchcock, Alfred USA 136min
-61 N Shoah_ (1985) Lanzmann, Claude France 566min
+61 Y Shoah_ (1985) Lanzmann, Claude France 566min
 62 Y Once Upon a Time in the West_ (1968) Leone, Sergio Italy 165min
 63 Y Gold Rush, The_ (1925) Chaplin, Charles USA 82min
 64 Y Wild Bunch, The_ (1969) Peckinpah, Sam USA 144min
@@ -609,7 +609,7 @@ Already taken from many sources (see ____ for details)
 605 Y Uncle Boonmee Who Can Recall His Past Lives_ (2010) Weerasethakul, Apichatpong Thailand 113min
 606 N Gleaners & I, The_ (2000) Varda, Agnes France 82min
 607 Y Shawshank Redemption, The_ (1994) Darabont, Frank USA 142min
-608 N Secrets & Lies_ (1996) Leigh, Mike UK 142min
+608 Y Secrets & Lies_ (1996) Leigh, Mike UK 142min
 609 Y Lancelot du Lac_ (1974) Bresson, Robert France 84min
 610 N In Vanda's Room_ (2000) Costa, Pedro Portugal 170min
 611 Y Purple Rose of Cairo, The_ (1985) Allen, Woody USA 82min
@@ -807,7 +807,7 @@ Already taken from many sources (see ____ for details)
 803 Y Grave of the Fireflies_ (1988) Takahata, Isao Japan 93min
 804 N Dog Star Man_ (1964) Brakhage, Stan USA 75min
 805 Y Trial, The_ (1962) Welles, Orson France 118min
-806 N Exotica_ (1994) Egoyan, Atom Canada 104min
+806 Y Exotica_ (1994) Egoyan, Atom Canada 104min
 807 Y Vagabond_ (1985) Varda, Agnes France 106min
 808 Y Hana-Bi_ (1997) Kitano, Takeshi Japan 103min
 809 Y Memento_ (2000) Nolan, Christopher USA 113min

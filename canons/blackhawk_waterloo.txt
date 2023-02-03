@@ -86,7 +86,7 @@ last processed: ...
 82 Y Eraserhead_
 83 Y Short Cuts_
 84 Y The Good, the Bad, and the Ugly_
-85 N Exotica_
+85 Y Exotica_
 86 Y Hannah and Her Sisters_
 87 Y The Umbrellas of Cherbourg_
 88 Y His Girl Friday_

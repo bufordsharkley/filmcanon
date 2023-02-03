@@ -664,7 +664,7 @@ updated from source: 7/11/13
 660 Y Things to Come_ William Cameron 1936 United Kingdom
 661 N Marketa Lazarova_ Frantisek Vlacil 1967 Czechoslovakia
 662 Y Safety Last!_ Fred Newmeyer... 1923 United States
-663 N Shoah_ Claude Lanzmann 1985 France
+663 Y Shoah_ Claude Lanzmann 1985 France
 664 N The Life of Oharu_ Kenji Mizoguchi 1952 Japan
 665 N Babette's Feast_ Gabriel Axel 1987 Denmark
 666 N The Devil's Backbone_ Guillermo del Toro 2001 Spain

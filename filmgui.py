@@ -1,6 +1,4 @@
-#!/usr/bin/python
-
-from Tkinter import *
+from tkinter import *
 import random
 
 class ListboxWithScrollbar(Frame):
@@ -62,23 +60,25 @@ class CanonListbox(ListboxWithScrollbar):
 
 class Dashboard(Frame):
     """Contains button for sorting and also text information on canon."""
-    def __init__(self, master,listboxofcanons, filmdb, comparisonwidget,labelswidget):
+    def __init__(self, master, listboxofcanons, filmdb,
+                 comparisonwidget, labelswidget):
         Frame.__init__(self, master)
         self._sortfunction = None
-        self.datastuff = (listboxofcanons, filmdb, comparisonwidget, labelswidget)
-        sortbutton = Button(self, text="SHOW", command = lambda: self._sort())
+        self.datastuff = (listboxofcanons, filmdb,
+                          comparisonwidget, labelswidget)
+        sortbutton = Button(self, text="SHOW", command=lambda: self._sort())
         sortbutton.pack()#.grid(row=0,column=0)
         #self.label.configure(text= format_time_integer(self.remainingfull))
 
     def _sort(self):
-        (listboxofcanons, filmdb, comparisonwidget, labelswidget) = self.datastuff
         if self._sortfunction:
-            self._sortfunction(listboxofcanons, filmdb, comparisonwidget, labelswidget)
+            self._sortfunction(*self.datastuff)
         else:
-            print 'NO SORT' 
+            print('NO SORT')
 
     def update_sort_function(self, newsortfunction):
         self._sortfunction = newsortfunction
+
 
 class LabelSetFilm(Frame):
     """List of labels for film canon information"""
@@ -151,7 +151,7 @@ class ComparisonWidget(Frame):
         self.fcnforreadability = fcnreadable
         self.fcnforgrouping = fcngrouping
 
-        
+
 class Tkinterface(Tk):
     def __init__(self, listofcanons, filmdb):
         Tk.__init__(self)
@@ -165,7 +165,8 @@ class Tkinterface(Tk):
         framelistofcanons = Frame(frametop, labelsforfilms)
         listboxofcanons = CanonListbox(framelistofcanons, listofcanons)
         self.comparisonwidget = ComparisonWidget(framebottom)
-        self.dashboard = Dashboard(frametop, listboxofcanons, filmdb, self.comparisonwidget, labelsforfilms)
+        self.dashboard = Dashboard(frametop, listboxofcanons, filmdb,
+                                   self.comparisonwidget, labelsforfilms)
 
         # wiring between classes:
         listboxofcanons.update_sort_function(self.dashboard._sort)

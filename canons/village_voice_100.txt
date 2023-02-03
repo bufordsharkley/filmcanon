@@ -73,7 +73,7 @@ Village Voice Top 100
 69 Y Los Olvidados_ (1950, Luis Bunuel) 
 70 Y Paisan_ (1946, Roberto Rossellini) 
 71 Y Performance_ (1970, Nicolas Roeg & Donald Cammell) 
-72 N Shoah_ (1985, Claude Lanzmann) 
+72 Y Shoah_ (1985, Claude Lanzmann) 
 73 Y Singin' in the Rain_ (1952, Stanley Donen & Gene Kelly) 
 74 Y Two or Three Things I Know About Her_ (1966, Jean-Luc Godard) 
 75 Y Umberto D_ (1952, Vittorio De Sica) 

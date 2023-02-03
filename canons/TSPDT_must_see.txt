@@ -147,7 +147,7 @@ last processed_2013 08 04
 ~ Y Scarlet Street_ Fritz Lang 1945 
 ~ Y The Searchers_ John Ford 1956 
 ~ Y Secret Beyond the Door_ Fritz Lang 1948 
-~ N Secrets & Lies_ Mike Leigh 1995 
+~ Y Secrets & Lies_ Mike Leigh 1995 
 ~ Y Senso_ Luchino Visconti 1954 
 ~ Y Shadow of a Doubt_ Alfred Hitchcock 1943 
 ~ Y Sherlock, Jr._ Buster Keaton 1924 

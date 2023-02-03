@@ -1,20 +1,20 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 import os
-import itertools
 import filmdata
 import filmgui
 
+CANON_FOLDER = './canons'
+
 if __name__ == '__main__':
     # build the data backend:
-    folder = './canons'
+    folder = CANON_FOLDER
     listofcanons = []
     ultimatelist = []
-    for f in os.listdir(folder):
-        fullpath = './canons/' + f
-        listofinformation = filmdata.process_film_canon_file(fullpath)
-        ultimatelist.append(listofinformation)
-        listofcanons.append(f)
+    for fname in os.listdir(CANON_FOLDER):
+        fullpath = os.path.join(CANON_FOLDER, fname)
+        listofcanons.append(fname)
+        ultimatelist.append(filmdata.process_film_canon_file(fullpath))
     filmdb = filmdata.FilmDatabase(listofcanons, ultimatelist)
 
     # import the frontend:

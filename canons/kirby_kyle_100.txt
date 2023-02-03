@@ -60,7 +60,7 @@ Kirby Kyle Top 100
 56 Y M 
 57 Y Lawrence of Arabia 
 58 Y Bull Durham
-59 N Exotica
+59 Y Exotica
 60 Y Paths of Glory 
 61 Y Bonnie and Clyde 
 62 Y Casablanca 
